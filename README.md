@@ -3,3 +3,14 @@ Group Project Member:
 1. Mr. Thitikorn Suwannapeng
 2. Mr. Mr. Natthanon Ratborirak
 3. Mr. Miftahul Aziz
+
+# Objectives
+
+  ....
+
+  
+# Scope
+
+
+# User stories and acceptance criteria
+
