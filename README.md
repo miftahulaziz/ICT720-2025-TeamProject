@@ -1,3 +1,6 @@
+# Project Tittle:
+Bro - Hiking
+
 # ICT720 2025 Team Project
 Group Project Member:
 1. Mr. Thitikorn Suwannapeng
@@ -5,9 +8,10 @@ Group Project Member:
 3. Mr. Miftahul Aziz
 
 # Objectives
-
-  ....
-
+ To detect:
+ Movement Change (Accelerometer)
+ Altitude Change (Barometric Pressure)
+ Accident (Anomaly Movement)
   
 # Scope
 
