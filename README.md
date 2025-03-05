@@ -9,6 +9,7 @@ Group Project Member:
 
 # Objectives
  To detect:
+ 
  Movement Change (Accelerometer)
 
  Altitude Change (Barometric Pressure)
