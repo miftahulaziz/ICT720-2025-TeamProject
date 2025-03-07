@@ -34,7 +34,6 @@ This project aims to develop an intelligent system capable of detecting movement
 1. As a user, I want the system to detect sudden falls so that I can receive immediate emergency alerts.
 2. As a hiker, I want to monitor altitude changes during my activity to track my climbing progress.
 3. As a parent, I want to monitor my child's activity to ensure they are safe during outdoor play.
-4. As a delivery rider, I want accident alerts to be sent to my emergency contacts in case of unexpected incidents.
 
 # Expected Outcomes:
 - Accurate detection of movement changes and altitude variations.
