@@ -10,6 +10,8 @@ Group Project Member:
 # Project Title
 Movement and Accident Detection System using Sensor Fusion
 
+<img src="" alt="alt text" width="400">
+
 # Project Description:
 This project aims to develop an intelligent system capable of detecting movement changes, altitude variations, and accident occurrences using sensor fusion techniques. The system leverages accelerometer and barometric pressure sensors to provide accurate real-time monitoring and anomaly detection.
 
