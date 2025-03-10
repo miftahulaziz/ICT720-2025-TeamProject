@@ -9,10 +9,11 @@ Group Project Member:
 2. Mr. Mr. Natthanon Ratborirak
 3. Mr. Miftahul Aziz
 
-<img src="images/Flow-Chart.png" alt="alt text" width="400">
-
 # Project Description:
 This project aims to develop an intelligent system capable of detecting movement changes, altitude variations, and accident occurrences using sensor fusion techniques. The system leverages accelerometer and barometric pressure sensors to provide accurate real-time monitoring and anomaly detection.
+
+
+<img src="images/Flow-Chart.png" alt="alt text" width="600">
 
 # Objectives:
 1. **Movement Change Detection:** Utilize accelerometer data to monitor changes in movement patterns, including acceleration, deceleration, and directional shifts.
