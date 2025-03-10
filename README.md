@@ -9,7 +9,7 @@ Group Project Member:
 2. Mr. Mr. Natthanon Ratborirak
 3. Mr. Miftahul Aziz
 
-<img src="https://raw.githubusercontent.com/miftahulaziz/ICT720-2025-TeamProject/refs/heads/main/f53aebd9-5204-4e70-bbed-1c337b6e6dfd.webp" alt="alt text" width="400">
+<img src="images/Flow-Chart.png" alt="alt text" width="400">
 
 # Project Description:
 This project aims to develop an intelligent system capable of detecting movement changes, altitude variations, and accident occurrences using sensor fusion techniques. The system leverages accelerometer and barometric pressure sensors to provide accurate real-time monitoring and anomaly detection.
