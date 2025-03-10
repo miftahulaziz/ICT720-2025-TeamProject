@@ -1,14 +1,13 @@
 # Project Tittle:
 Bro - Hiking
 
+Movement Detection System using Sensor Fusion
+
 # ICT720 2025 Team Project
 Group Project Member:
 1. Mr. Thitikorn Suwannapeng
 2. Mr. Mr. Natthanon Ratborirak
 3. Mr. Miftahul Aziz
-
-# Project Title
-Movement and Accident Detection System using Sensor Fusion
 
 <img src="https://raw.githubusercontent.com/miftahulaziz/ICT720-2025-TeamProject/refs/heads/main/f53aebd9-5204-4e70-bbed-1c337b6e6dfd.webp" alt="alt text" width="400">
 
@@ -31,9 +30,7 @@ This project aims to develop an intelligent system capable of detecting movement
 - Alert System: Notify users through mobile applications or cloud platforms upon detecting accidents.
 
 # User Stories:
-1. As a user, I want the system to detect sudden falls so that I can receive immediate emergency alerts.
-2. As a hiker, I want to monitor altitude changes during my activity to track my climbing progress.
-3. As a parent, I want to monitor my child's activity to ensure they are safe during outdoor play.
+As a hiker, I want to monitor altitude changes during my activity to track my climbing progress.
 
 # Expected Outcomes:
 - Accurate detection of movement changes and altitude variations.
@@ -45,8 +42,6 @@ This project aims to develop an intelligent system capable of detecting movement
 - Accelerometer and Barometric Pressure Sensors (e.g., MPU-6050, BMP280)
 - Microcontroller Platform (e.g., ESP32, Arduino)
 - Data Processing Algorithms (e.g., Kalman Filter, Machine Learning Models)
-- Mobile Application for Notifications
-- Cloud Integration for Data Storage and Alerts
 
 
 
