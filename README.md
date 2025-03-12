@@ -17,6 +17,8 @@ This project aims to develop an intelligent system capable of detecting movement
 
 <img src="images/Flow-Chart.png" alt="alt text" width="600">
 
+<img src="images/equation.webp" alt="alt text" width="600">
+
 # Objectives:
 1. **Movement Change Detection:** Utilize accelerometer data to monitor changes in movement patterns, including acceleration, deceleration, and directional shifts.
 2. **Altitude Change Detection:** Use barometric pressure sensors to measure altitude variations, enabling detection of ascending or descending movements.
