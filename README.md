@@ -12,8 +12,7 @@ Group Project Member:
 # Project Description:
 This project aims to develop an intelligent system capable of detecting movement changes, altitude variations, and accident occurrences using sensor fusion techniques. The system leverages accelerometer and barometric pressure sensors to provide accurate real-time monitoring and anomaly detection.
 
-
-<img src="images/Data-Diagram-Bro-Hiking_update.png" alt="alt text" width="600">
+<img src="images/mobile-app.webp" alt="alt text" width="200">  <img src="images/Data-Diagram-Bro-Hiking_update.png" alt="alt text" width="600">
 
 <img src="images/Flow-Chart.png" alt="alt text" width="600">
 
