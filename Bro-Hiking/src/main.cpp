@@ -143,19 +143,6 @@ void loop() {
     Serial.println(json_body);
     mqtt_client.publish("brohiking/all", json_body);
     
-    // Publish individual sensor data with timestamp
-    char buffer[100];
-    sprintf(buffer, "{\"timestamp\": \"%s\", \"pressure\": %.2f}", timestamp, p);
-    mqtt_client.publish("brohiking/pressure", buffer);
-    
-    sprintf(buffer, "{\"timestamp\": \"%s\", \"temperature\": %.2f, \"humidity\": %.2f}", timestamp, t, h);
-    mqtt_client.publish("brohiking/climate", buffer);
-    
-    sprintf(buffer, "{\"timestamp\": \"%s\", \"acceleration\": [%.2f,%.2f,%.2f]}", timestamp, ax, ay, az);
-    mqtt_client.publish("brohiking/acceleration", buffer);
-    
-    sprintf(buffer, "{\"timestamp\": \"%s\", \"angular_velocity\": [%.2f,%.2f,%.2f]}", timestamp, gx, gy, gz);
-    mqtt_client.publish("brohiking/gyro", buffer);
   }
   delay(10);
 }
