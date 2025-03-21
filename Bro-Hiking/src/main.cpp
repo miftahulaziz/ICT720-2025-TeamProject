@@ -5,14 +5,21 @@
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <PubSubClient.h>
+#include "time.h"
 
-// WiFi and MQTT Settings
+// WiFi setting
 #define WIFI_SSID "Chigga"
 #define WIFI_PASSWD "12345678"
+// MQTT setting
 #define MQTT_SERVER "broker.emqx.io"
-#define MQTT_PORT 8084
-#define MQTT_TOPIC "brohiking/data"  // Topic to publish sensor data
-#define MQTT_CLIENT_ID "ESP32_Sensor_Client"  // Unique client ID
+#define MQTT_PORT 1883
+#define MQTT_TOPIC "brohiking/#"
+#define MQTT_CLIENT_ID "ESP32_Sensor_Client"
+
+// NTP server settings for time synchronization
+const char* ntpServer = "pool.ntp.org";
+const long  gmtOffset_sec = 25200;  // UTC+7 for Bangkok (7 * 3600 seconds)
+const int   daylightOffset_sec = 0;  // No daylight saving in Thailand
 
 // Global objects
 WiFiClient wifi_client;
@@ -26,7 +33,7 @@ void setupHardware() {
   
   if (!bmp.begin(0x76)) {
     Serial.println("BMP280 sensor failed");
-    while (1) delay(10); // Hang if sensor fails
+    while (1) delay(10);
   } else {
     Serial.println("BMP280 sensor ready");
   }
@@ -67,10 +74,8 @@ void reconnect() {
 void setup() {
   Serial.begin(115200);
   
-  // 1. Initialize the sensors
   setupHardware();
   
-  // 2. Initialize WiFi
   WiFi.begin(WIFI_SSID, WIFI_PASSWD);
   while (WiFi.status() != WL_CONNECTED) {
     delay(100);
@@ -79,7 +84,15 @@ void setup() {
   Serial.println("\nWiFi connected");
   Serial.printf("IP address: %s\n", WiFi.localIP().toString().c_str());
   
-  // 3. Initialize MQTT
+  // Initialize time
+  configTime(gmtOffset_sec, daylightOffset_sec, ntpServer);
+  Serial.println("Waiting for time sync...");
+  while (time(nullptr) < 100000) {
+    delay(100);
+    Serial.print(".");
+  }
+  Serial.println("\nTime synchronized");
+  
   mqtt_client.setServer(MQTT_SERVER, MQTT_PORT);
   Serial.println("Starting");
 }
@@ -88,21 +101,31 @@ void loop() {
   if (!mqtt_client.connected()) {
     reconnect();
   }
-  mqtt_client.loop(); // Handle MQTT messages
+  mqtt_client.loop();
 
   static uint32_t prev_millis = 0;
-  char json_body[200];
-  const char json_tmpl[] = "{\"pressure\": %.2f,"
-                           "\"temperature\": %.2f,"
-                           "\"humidity\": %.2f,"
-                           "\"acceleration\": [%.2f,%.2f,%.2f],"
-                           "\"angular_velocity\": [%.2f,%.2f,%.2f]}";
+  char json_body[300];
+  const char json_tmpl[] = "{\"timestamp\": \"%s\","
+                          "\"pressure\": %.2f,"
+                          "\"temperature\": %.2f,"
+                          "\"humidity\": %.2f,"
+                          "\"acceleration\": [%.2f,%.2f,%.2f],"
+                          "\"angular_velocity\": [%.2f,%.2f,%.2f]}";
   
   if (millis() - prev_millis > 5000) {
     prev_millis = millis();
     sensors_event_t temp, humid;
     sensors_event_t a, g;
     
+    // Get current time (Bangkok time)
+    time_t now;
+    struct tm timeinfo;
+    time(&now);
+    localtime_r(&now, &timeinfo);
+    char timestamp[20];
+    strftime(timestamp, sizeof(timestamp), "%Y-%m-%d %H:%M:%S", &timeinfo);
+    
+    // Read sensor data
     float p = bmp.readPressure();
     hts.getEvent(&humid, &temp);
     float t = temp.temperature;
@@ -115,9 +138,24 @@ void loop() {
     float gy = g.gyro.y;
     float gz = g.gyro.z;
     
-    sprintf(json_body, json_tmpl, p, t, h, ax, ay, az, gx, gy, gz);
+    // Format and publish combined data
+    sprintf(json_body, json_tmpl, timestamp, p, t, h, ax, ay, az, gx, gy, gz);
     Serial.println(json_body);
-    mqtt_client.publish(MQTT_TOPIC, json_body);
+    mqtt_client.publish("brohiking/all", json_body);
+    
+    // Publish individual sensor data with timestamp
+    char buffer[100];
+    sprintf(buffer, "{\"timestamp\": \"%s\", \"pressure\": %.2f}", timestamp, p);
+    mqtt_client.publish("brohiking/pressure", buffer);
+    
+    sprintf(buffer, "{\"timestamp\": \"%s\", \"temperature\": %.2f, \"humidity\": %.2f}", timestamp, t, h);
+    mqtt_client.publish("brohiking/climate", buffer);
+    
+    sprintf(buffer, "{\"timestamp\": \"%s\", \"acceleration\": [%.2f,%.2f,%.2f]}", timestamp, ax, ay, az);
+    mqtt_client.publish("brohiking/acceleration", buffer);
+    
+    sprintf(buffer, "{\"timestamp\": \"%s\", \"angular_velocity\": [%.2f,%.2f,%.2f]}", timestamp, gx, gy, gz);
+    mqtt_client.publish("brohiking/gyro", buffer);
   }
   delay(10);
 }
