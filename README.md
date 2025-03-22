@@ -3,9 +3,9 @@
 
 # ICT720 2025 Team Project  
 **Group Project Members:**  
-1. Mr. Thitikorn Suwannapeng  
-2. Mr. Natthanon Ratborirak  
-3. Mr. Miftahul Aziz  
+1. [Mr. Thitikorn Suwannapeng](https://github.com/BenzThitikorn)  
+2. [Mr. Natthanon Ratborirak](https://github.com/incer555)  
+3. [Mr. Miftahul Aziz](https://github.com/miftahulaziz)  
 
 # Project Description:  
 This project collects data from the **Cucumber RS Gravitech ESP32-S2 WiFi Dev Board** equipped with sensors: **HTS221**, **BMP280**, and **MPU-6050**. While all three sensors are present, we focus only on data from **BMP280** (pressure) and **MPU-6050** (accelerometer and gyroscope) for our analysis of detecting movement changes, altitude variations, and accident occurrences using sensor fusion techniques. The system leverages accelerometer and barometric pressure sensors to provide accurate real-time monitoring and anomaly detection.
