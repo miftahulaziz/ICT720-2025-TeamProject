@@ -63,7 +63,9 @@ Pressure changes are particularly significant in our approach:
 - An **increase** in pressure is considered **normal** and does not trigger an alert.  
 
 Mathematically, the model is expressed as:  
+
 $$IF(\Delta \vec{X}) = Y$$
+
 where the decision function score determines if an anomaly is detected. If the score is negative, the movement is considered **anomalous**, triggering an alert.  
 
 
@@ -137,11 +139,22 @@ These interpretations support detecting movement changes, altitude variations, a
    - Check Firebase Console for real-time updates.
 4. **Alert**
    - `alert.py` integrated train  Isolation Forest trained model will detect anomaly movement and then will send message via `linebot.py`
+
   
 # Data Result Visualization
+
+
+
+
+
+
+
+
+
 ![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/Data-2.webp?raw=true)
 
 ![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/data-1.webp?raw=true)
+
 
 
 # Future Work:  
