@@ -124,7 +124,13 @@ These interpretations support detecting movement changes, altitude variations, a
 3. **Monitor Data**:  
    - Use Serial Monitor (`pio device monitor`) for ESP32 output.  
    - Use MQTT Explorer to subscribe to `brohiking/#`.  
-   - Check Firebase Console for real-time updates.  
+   - Check Firebase Console for real-time updates.
+  
+# Data Result Visualization
+![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/Data-2.webp?raw=true)
+
+![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/data-1.webp?raw=true)
+
 
 # Future Work:  
 - Conduct real experiments to label training and test datasets for anomaly detection.  
