@@ -1,0 +1,43 @@
+version: "3.2"
+
+services:
+  bot_app:
+    build: ./bot_app
+    command: ["gunicorn", "app:app", "--bind", "0.0.0.0:8000"]
+    depends_on:
+      - mqtt_app
+    volumes:
+      - ./bot_app:/bot_app  # Maps the current directory to /app inside the container
+    ports:
+      - "8000:8000"
+    networks:
+      - my-networks
+    environment:
+      TZ: "Asia/Bangkok"
+    env_file:
+      - .env
+
+  mqtt_app:
+    build: ./mqtt_app
+    command: ["python", "/mqtt_app/app.py"]
+    depends_on:
+      - firebase-service
+    volumes:
+      - ./mqtt_app:/mqtt_app  # Maps the current directory to /app inside the container
+    networks:
+      - my-networks
+    environment:
+      TZ: "Asia/Bangkok"
+    env_file:
+      - .env
+
+  firebase-service:
+    image: "google/cloud-sdk:latest"
+    volumes:
+      - ./firebase:/firebase
+    environment:
+      - GOOGLE_APPLICATION_CREDENTIALS=/firebase/AIzaSyB6CSiVmwTWQEL26uZI8Sgx-_s67XHNalE.json
+  
+  networks:
+    my-networks:
+      driver: bridge
