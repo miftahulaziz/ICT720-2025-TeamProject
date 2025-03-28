@@ -1,3 +1,5 @@
+from anomaly import detect_anomaly
+from linebot import send_line_broadcast_curl
 import joblib
 import numpy as np
 import requests
@@ -60,7 +62,17 @@ def detect_anomaly(model_path, firebase_url):
     anomaly_score = model.decision_function(x)
     
     return ("Anomaly" if prediction[0] == -1 else "Normal"), anomaly_score[0]
-    
+
+# Load the LINE channel access token from token.json
+with open('token.json', 'r') as f:
+    token_data = json.load(f)
+    channel_access_token = token_data["token"]
+
+
 result, score = detect_anomaly('model.joblib', 'https://chigga-bro-hiking-default-rtdb.asia-southeast1.firebasedatabase.app/.json')
-print(result)
-print(score)
+if score < 0:
+    message1 = "Anomaly detected"
+    message2 = f"Anomaly score: {score}"
+
+    send_line_broadcast_curl(channel_access_token, message1, message2)
+    
