@@ -147,13 +147,14 @@ These interpretations support detecting movement changes, altitude variations, a
 
 
 
-
-
+![trained_model](https://github.com/user-attachments/assets/039bd04a-ca96-4e07-bf3c-367941df0237)
 
 
 ![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/Data-2.webp?raw=true)
 
 ![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/data-1.webp?raw=true)
+
+<img width="771" alt="Screenshot 2568-03-29 at 04 43 04" src="https://github.com/user-attachments/assets/455be2c0-37d3-4067-b8d3-89db45913cd3" />
 
 
 
