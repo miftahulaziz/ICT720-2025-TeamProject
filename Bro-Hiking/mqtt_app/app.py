@@ -8,9 +8,9 @@ from firebase_admin import credentials
 from firebase_admin import db
 
 # Initialize Firebase with service account key
-cred = credentials.Certificate("chigga-bro-hiking-firebase-adminsdk-fbsvc-bab90ce1ce.json")  # Path to your service account key
+cred = credentials.Certificate("mqtt_app/key.json")  # Path to your service account key
 firebase_admin.initialize_app(cred, {
-    'databaseURL': 'https://chigga-bro-hiking-default-rtdb.asia-southeast1.firebasedatabase.app/'
+    'databaseURL': 'https://chigga-bro-hiking-default-rtdb.asia-southeast1.firebasedatabase.app/esp32.json'
 })
 
 # MQTT settings (matching your ESP32 code)

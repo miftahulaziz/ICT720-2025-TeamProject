@@ -1,0 +1,7824 @@
+{
+  "all": {
+    "-OLrodMImiTiiZmL9G7P": {
+      "acceleration": [
+        1.07,
+        -0.73,
+        -10.93
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 53.78,
+      "pressure": 101134.09,
+      "received_timestamp": "2025-03-21T15:29:46.005379",
+      "temperature": 32.36,
+      "timestamp": "2025-03-21 15:29:45"
+    },
+    "-OLroeXbtM6F-VvJ7v15": {
+      "acceleration": [
+        1.07,
+        -0.73,
+        -10.88
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 53.74,
+      "pressure": 101131.98,
+      "received_timestamp": "2025-03-21T15:29:51.022701",
+      "temperature": 32.36,
+      "timestamp": "2025-03-21 15:29:50"
+    },
+    "-OLrofjLJ3mz8vN0_e4m": {
+      "acceleration": [
+        1.03,
+        -0.77,
+        -10.89
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 53.94,
+      "pressure": 101131.59,
+      "received_timestamp": "2025-03-21T15:29:55.924605",
+      "temperature": 32.29,
+      "timestamp": "2025-03-21 15:29:55"
+    },
+    "-OLrogxtU3sqJ3LG2amD": {
+      "acceleration": [
+        1,
+        -0.7,
+        -10.95
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 54.09,
+      "pressure": 101131.58,
+      "received_timestamp": "2025-03-21T15:30:00.957435",
+      "temperature": 32.25,
+      "timestamp": "2025-03-21 15:30:00"
+    },
+    "-OLroiBbyAk5V_Z-8MKa": {
+      "acceleration": [
+        1.08,
+        -0.63,
+        -10.89
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 54.19,
+      "pressure": 101134.03,
+      "received_timestamp": "2025-03-21T15:30:05.981523",
+      "temperature": 32.23,
+      "timestamp": "2025-03-21 15:30:05"
+    },
+    "-OLrojPXHa2IrkY7W-jH": {
+      "acceleration": [
+        1.04,
+        -0.75,
+        -10.93
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 54.28,
+      "pressure": 101136.91,
+      "received_timestamp": "2025-03-21T15:30:10.990789",
+      "temperature": 32.22,
+      "timestamp": "2025-03-21 15:30:10"
+    },
+    "-OLrokd8jZG2YL7vSP-u": {
+      "acceleration": [
+        1.1,
+        -0.69,
+        -10.96
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.05
+      ],
+      "humidity": 54.36,
+      "pressure": 101135.2,
+      "received_timestamp": "2025-03-21T15:30:16.008630",
+      "temperature": 32.18,
+      "timestamp": "2025-03-21 15:30:15"
+    },
+    "-OLrolrO14KJZKcB5Ct-": {
+      "acceleration": [
+        0.98,
+        -0.62,
+        -10.87
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.02,
+        -0.05
+      ],
+      "humidity": 54.42,
+      "pressure": 101133.61,
+      "received_timestamp": "2025-03-21T15:30:21.027244",
+      "temperature": 32.07,
+      "timestamp": "2025-03-21 15:30:20"
+    },
+    "-OLronAlHWI0DgV-VSIa": {
+      "acceleration": [
+        1.08,
+        -0.76,
+        -10.95
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 54.5,
+      "pressure": 101133.72,
+      "received_timestamp": "2025-03-21T15:30:26.051042",
+      "temperature": 31.96,
+      "timestamp": "2025-03-21 15:30:25"
+    },
+    "-OLrooJBFoCOikQFYwKg": {
+      "acceleration": [
+        0.99,
+        -0.71,
+        -10.91
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 54.73,
+      "pressure": 101135.23,
+      "received_timestamp": "2025-03-21T15:30:31.073122",
+      "temperature": 31.92,
+      "timestamp": "2025-03-21 15:30:30"
+    },
+    "-OLropVxwt6OV87jc9TI": {
+      "acceleration": [
+        1.06,
+        -0.7,
+        -10.96
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 54.96,
+      "pressure": 101132.12,
+      "received_timestamp": "2025-03-21T15:30:35.992719",
+      "temperature": 32.03,
+      "timestamp": "2025-03-21 15:30:35"
+    },
+    "-OLroql3YPtpbkuanaM0": {
+      "acceleration": [
+        1.03,
+        -0.75,
+        -10.88
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 55.15,
+      "pressure": 101135.8,
+      "received_timestamp": "2025-03-21T15:30:41.114343",
+      "temperature": 32.11,
+      "timestamp": "2025-03-21 15:30:40"
+    },
+    "-OLrorxlRwDKZIJnsrON": {
+      "acceleration": [
+        0.98,
+        -0.76,
+        -10.81
+      ],
+      "angular_velocity": [
+        -0.02,
+        0.01,
+        -0.05
+      ],
+      "humidity": 55.27,
+      "pressure": 101133.48,
+      "received_timestamp": "2025-03-21T15:30:46.030525",
+      "temperature": 32.09,
+      "timestamp": "2025-03-21 15:30:45"
+    },
+    "-OLrotBAgFulxR6DimiP": {
+      "acceleration": [
+        1.06,
+        -0.65,
+        -10.9
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 55.28,
+      "pressure": 101136.64,
+      "received_timestamp": "2025-03-21T15:30:51.048849",
+      "temperature": 32.12,
+      "timestamp": "2025-03-21 15:30:50"
+    },
+    "-OLrp-hhl2DiJ9nj9E1r": {
+      "acceleration": [
+        1.03,
+        -0.73,
+        -10.81
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 55.47,
+      "pressure": 101130.92,
+      "received_timestamp": "2025-03-21T15:31:21.876256",
+      "temperature": 32.34,
+      "timestamp": "2025-03-21 15:31:21"
+    },
+    "-OLrp0udZ2zePV_uObAx": {
+      "acceleration": [
+        1.13,
+        -0.68,
+        -10.98
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 55.46,
+      "pressure": 101130.06,
+      "received_timestamp": "2025-03-21T15:31:26.791645",
+      "temperature": 32.29,
+      "timestamp": "2025-03-21 15:31:26"
+    },
+    "-OLrpEUzobPoaWuC1wFp": {
+      "acceleration": [
+        -1.56,
+        4.45,
+        6.59
+      ],
+      "angular_velocity": [
+        0.16,
+        -0.36,
+        -0.22
+      ],
+      "humidity": 56.72,
+      "pressure": 101135.46,
+      "received_timestamp": "2025-03-21T15:32:22.088810",
+      "temperature": 32.85,
+      "timestamp": "2025-03-21 15:32:21"
+    },
+    "-OLrpFd2WhqbguPFGHeH": {
+      "acceleration": [
+        -1.81,
+        4.97,
+        7.2
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.05,
+        -0.07
+      ],
+      "humidity": 56.84,
+      "pressure": 101136.33,
+      "received_timestamp": "2025-03-21T15:32:27.106394",
+      "temperature": 33,
+      "timestamp": "2025-03-21 15:32:26"
+    },
+    "-OLrpGrSktX4OlxiDhTf": {
+      "acceleration": [
+        -1.66,
+        5.37,
+        6.93
+      ],
+      "angular_velocity": [
+        0,
+        -0.05,
+        -0.04
+      ],
+      "humidity": 56.96,
+      "pressure": 101134.06,
+      "received_timestamp": "2025-03-21T15:32:32.123621",
+      "temperature": 33.05,
+      "timestamp": "2025-03-21 15:32:31"
+    },
+    "-OLrpI4rkIB6Jv3UKaf4": {
+      "acceleration": [
+        -2.07,
+        5.22,
+        7.51
+      ],
+      "angular_velocity": [
+        0.04,
+        0.12,
+        0.04
+      ],
+      "humidity": 56.9,
+      "pressure": 101130.52,
+      "received_timestamp": "2025-03-21T15:32:37.141386",
+      "temperature": 33.11,
+      "timestamp": "2025-03-21 15:32:36"
+    },
+    "-OLrpLx5but-XI3A8Ztc": {
+      "acceleration": [
+        0.27,
+        3.69,
+        9.05
+      ],
+      "angular_velocity": [
+        -0.59,
+        -0.97,
+        -0.79
+      ],
+      "humidity": 56.78,
+      "pressure": 101134.36,
+      "received_timestamp": "2025-03-21T15:32:52.706587",
+      "temperature": 32.69,
+      "timestamp": "2025-03-21 15:32:52"
+    },
+    "-OLrpN5mk-V1Q-USCYDg": {
+      "acceleration": [
+        3.49,
+        -1.13,
+        9.64
+      ],
+      "angular_velocity": [
+        0.37,
+        -0.17,
+        -0.57
+      ],
+      "humidity": 56.79,
+      "pressure": 101134.98,
+      "received_timestamp": "2025-03-21T15:32:57.519346",
+      "temperature": 32.51,
+      "timestamp": "2025-03-21 15:32:57"
+    },
+    "-OLrpOHf03SJlWH5NPMb": {
+      "acceleration": [
+        3.29,
+        -0.11,
+        8.4
+      ],
+      "angular_velocity": [
+        -0.04,
+        0,
+        -0.1
+      ],
+      "humidity": 56.79,
+      "pressure": 101137.28,
+      "received_timestamp": "2025-03-21T15:33:02.538397",
+      "temperature": 32.62,
+      "timestamp": "2025-03-21 15:33:02"
+    },
+    "-OLrpPVxbGdyInaWmDl5": {
+      "acceleration": [
+        -1.89,
+        7.85,
+        0.76
+      ],
+      "angular_velocity": [
+        -4.37,
+        -1.19,
+        -2.21
+      ],
+      "humidity": 56.88,
+      "pressure": 101130.88,
+      "received_timestamp": "2025-03-21T15:33:07.554093",
+      "temperature": 32.36,
+      "timestamp": "2025-03-21 15:33:07"
+    },
+    "-OLrpQjXbebQzttRaTpE": {
+      "acceleration": [
+        -3.1,
+        5.81,
+        -7.41
+      ],
+      "angular_velocity": [
+        1.75,
+        4.37,
+        1.31
+      ],
+      "humidity": 57.08,
+      "pressure": 101131.25,
+      "received_timestamp": "2025-03-21T15:33:12.572557",
+      "temperature": 32.27,
+      "timestamp": "2025-03-21 15:33:12"
+    },
+    "-OLrpRxuOEvavRpzPyof": {
+      "acceleration": [
+        -0.63,
+        4.26,
+        -9.63
+      ],
+      "angular_velocity": [
+        -0.28,
+        0.33,
+        -0.04
+      ],
+      "humidity": 57.24,
+      "pressure": 101129.77,
+      "received_timestamp": "2025-03-21T15:33:17.589995",
+      "temperature": 32.23,
+      "timestamp": "2025-03-21 15:33:17"
+    },
+    "-OLrpTBAFmdsH4zmlpkI": {
+      "acceleration": [
+        -0.6,
+        2.74,
+        -9.95
+      ],
+      "angular_velocity": [
+        0.41,
+        1.62,
+        -0.13
+      ],
+      "humidity": 57.21,
+      "pressure": 101127.75,
+      "received_timestamp": "2025-03-21T15:33:22.607773",
+      "temperature": 32.27,
+      "timestamp": "2025-03-21 15:33:22"
+    },
+    "-OMAv_s4EGFMWHFVsMAq": {
+      "acceleration": [
+        6.66,
+        5.57,
+        -8.11
+      ],
+      "angular_velocity": [
+        1.4,
+        1.36,
+        0.53
+      ],
+      "humidity": 66.44,
+      "pressure": 100442.08,
+      "received_timestamp": "2025-03-25T13:12:29.803347",
+      "temperature": 36.04,
+      "timestamp": "2025-03-25 13:12:29"
+    },
+    "-OMAvaieNMblG_JPs2Nm": {
+      "acceleration": [
+        5.31,
+        4.65,
+        -7.82
+      ],
+      "angular_velocity": [
+        -0.02,
+        0.08,
+        0.12
+      ],
+      "humidity": 66.77,
+      "pressure": 100441.11,
+      "received_timestamp": "2025-03-25T13:12:34.436343",
+      "temperature": 35.97,
+      "timestamp": "2025-03-25 13:12:34"
+    },
+    "-OMAvbxbiUSeNOhmReEX": {
+      "acceleration": [
+        9.8,
+        3.12,
+        -1.24
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.02,
+        -0.08
+      ],
+      "humidity": 65.56,
+      "pressure": 100440.27,
+      "received_timestamp": "2025-03-25T13:12:39.509539",
+      "temperature": 35.84,
+      "timestamp": "2025-03-25 13:12:39"
+    },
+    "-OMAvdCIrREpb52pJORk": {
+      "acceleration": [
+        -3.11,
+        -2.82,
+        7.67
+      ],
+      "angular_velocity": [
+        0.18,
+        0.16,
+        -0.31
+      ],
+      "humidity": 62.33,
+      "pressure": 100440.17,
+      "received_timestamp": "2025-03-25T13:12:44.602450",
+      "temperature": 36.1,
+      "timestamp": "2025-03-25 13:12:44"
+    },
+    "-OMAveOk96nIo6zOyJ5c": {
+      "acceleration": [
+        -1.42,
+        -4.47,
+        7.47
+      ],
+      "angular_velocity": [
+        0.17,
+        0.1,
+        -0.08
+      ],
+      "humidity": 62.01,
+      "pressure": 100430.78,
+      "received_timestamp": "2025-03-25T13:12:49.464044",
+      "temperature": 36.06,
+      "timestamp": "2025-03-25 13:12:49"
+    },
+    "-OMAvfbT35iJLrvB2nQB": {
+      "acceleration": [
+        -1.05,
+        -4.2,
+        7.89
+      ],
+      "angular_velocity": [
+        -0.08,
+        0.02,
+        -0.02
+      ],
+      "humidity": 61.94,
+      "pressure": 100437.95,
+      "received_timestamp": "2025-03-25T13:12:54.484585",
+      "temperature": 36.03,
+      "timestamp": "2025-03-25 13:12:54"
+    },
+    "-OMAvgqKqN9rilVZz-Sb": {
+      "acceleration": [
+        -1.26,
+        -4.21,
+        7.67
+      ],
+      "angular_velocity": [
+        0.03,
+        -0.3,
+        -0.11
+      ],
+      "humidity": 61.76,
+      "pressure": 100437.3,
+      "received_timestamp": "2025-03-25T13:12:59.508238",
+      "temperature": 36.01,
+      "timestamp": "2025-03-25 13:12:59"
+    },
+    "-OMAvi5nYrcoVHrm6Uxk": {
+      "acceleration": [
+        -0.84,
+        -4.27,
+        7.79
+      ],
+      "angular_velocity": [
+        -0.24,
+        0.37,
+        -0.11
+      ],
+      "humidity": 61.83,
+      "pressure": 100436.76,
+      "received_timestamp": "2025-03-25T13:13:04.516085",
+      "temperature": 36.04,
+      "timestamp": "2025-03-25 13:13:04"
+    },
+    "-OMAvjGDAFqzO0wNIEDY": {
+      "acceleration": [
+        -1.47,
+        -4.23,
+        7.58
+      ],
+      "angular_velocity": [
+        0.04,
+        0.17,
+        -0.09
+      ],
+      "humidity": 61.83,
+      "pressure": 100433.23,
+      "received_timestamp": "2025-03-25T13:13:09.440314",
+      "temperature": 36.12,
+      "timestamp": "2025-03-25 13:13:09"
+    },
+    "-OMAvkVc7GE7eFy2vxK3": {
+      "acceleration": [
+        -1.53,
+        -4.24,
+        8.14
+      ],
+      "angular_velocity": [
+        -0.08,
+        0.23,
+        -0.04
+      ],
+      "humidity": 61.83,
+      "pressure": 100437.36,
+      "received_timestamp": "2025-03-25T13:13:14.503669",
+      "temperature": 36.1,
+      "timestamp": "2025-03-25 13:13:14"
+    },
+    "-OMAvlhrpKWfi78MlcFr": {
+      "acceleration": [
+        -0.72,
+        -4.09,
+        7.08
+      ],
+      "angular_velocity": [
+        0.46,
+        -0.67,
+        -0.15
+      ],
+      "humidity": 61.79,
+      "pressure": 100435.53,
+      "received_timestamp": "2025-03-25T13:13:19.464884",
+      "temperature": 36.19,
+      "timestamp": "2025-03-25 13:13:19"
+    },
+    "-OMAvmwDlcGc23IL9JzA": {
+      "acceleration": [
+        -1.08,
+        -4.72,
+        7.1
+      ],
+      "angular_velocity": [
+        0.42,
+        0.33,
+        -0.23
+      ],
+      "humidity": 61.82,
+      "pressure": 100435.81,
+      "received_timestamp": "2025-03-25T13:13:24.446759",
+      "temperature": 36.21,
+      "timestamp": "2025-03-25 13:13:24"
+    },
+    "-OMAvo99-9uouNaOFWuc": {
+      "acceleration": [
+        -1.28,
+        -4.3,
+        7.77
+      ],
+      "angular_velocity": [
+        -0.08,
+        -0.09,
+        -0.02
+      ],
+      "humidity": 61.52,
+      "pressure": 100437.2,
+      "received_timestamp": "2025-03-25T13:13:29.454975",
+      "temperature": 36.26,
+      "timestamp": "2025-03-25 13:13:29"
+    },
+    "-OMAvpOJOO_Ilvyoslpl": {
+      "acceleration": [
+        -1.56,
+        -4.19,
+        7.73
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.42,
+        -0.17
+      ],
+      "humidity": 61.4,
+      "pressure": 100436.28,
+      "received_timestamp": "2025-03-25T13:13:34.491294",
+      "temperature": 36.25,
+      "timestamp": "2025-03-25 13:13:34"
+    },
+    "-OMAvqb0yq8B-I7LRHyZ": {
+      "acceleration": [
+        -1.98,
+        -4.6,
+        7.36
+      ],
+      "angular_velocity": [
+        -0.22,
+        -0.54,
+        0.09
+      ],
+      "humidity": 61.29,
+      "pressure": 100435.69,
+      "received_timestamp": "2025-03-25T13:13:39.503365",
+      "temperature": 36.23,
+      "timestamp": "2025-03-25 13:13:39"
+    },
+    "-OMAvrp3xpYcXfz5_ygg": {
+      "acceleration": [
+        -2.7,
+        -3.46,
+        7.6
+      ],
+      "angular_velocity": [
+        0.16,
+        -0.11,
+        -0.16
+      ],
+      "humidity": 61.23,
+      "pressure": 100435.5,
+      "received_timestamp": "2025-03-25T13:13:44.490968",
+      "temperature": 36.21,
+      "timestamp": "2025-03-25 13:13:44"
+    },
+    "-OMAvt29uQDTqoJ-hGKM": {
+      "acceleration": [
+        -2.96,
+        -3.87,
+        7.81
+      ],
+      "angular_velocity": [
+        -0.12,
+        -0.06,
+        -0.05
+      ],
+      "humidity": 61.12,
+      "pressure": 100437.36,
+      "received_timestamp": "2025-03-25T13:13:49.506860",
+      "temperature": 36.25,
+      "timestamp": "2025-03-25 13:13:49"
+    },
+    "-OMAvuHuHGo5NP5ZaGWP": {
+      "acceleration": [
+        -2.06,
+        -4.09,
+        7.72
+      ],
+      "angular_velocity": [
+        -0.06,
+        0.11,
+        -0.08
+      ],
+      "humidity": 61.57,
+      "pressure": 100435.12,
+      "received_timestamp": "2025-03-25T13:13:54.604454",
+      "temperature": 36.25,
+      "timestamp": "2025-03-25 13:13:54"
+    },
+    "-OMAvvWf0PzDCq9oqYKn": {
+      "acceleration": [
+        -2.88,
+        -4.21,
+        7.24
+      ],
+      "angular_velocity": [
+        -0.06,
+        -0.01,
+        -0.05
+      ],
+      "humidity": 62.04,
+      "pressure": 100433.59,
+      "received_timestamp": "2025-03-25T13:13:59.609104",
+      "temperature": 36.3,
+      "timestamp": "2025-03-25 13:13:59"
+    },
+    "-OMAvwkBWmOyUmG4U8uP": {
+      "acceleration": [
+        -2.43,
+        -3.96,
+        7.55
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.12,
+        -0.07
+      ],
+      "humidity": 61.93,
+      "pressure": 100436.91,
+      "received_timestamp": "2025-03-25T13:14:04.623838",
+      "temperature": 36.3,
+      "timestamp": "2025-03-25 13:14:04"
+    },
+    "-OMO27LXmpCE6X2KaxCa": {
+      "acceleration": [
+        2.87,
+        -0.39,
+        -10.87
+      ],
+      "angular_velocity": [
+        -0.03,
+        0.03,
+        -0.05
+      ],
+      "humidity": 76.69,
+      "pressure": 100322.13,
+      "received_timestamp": "2025-03-27T19:20:31.307921",
+      "temperature": 30.9,
+      "timestamp": "2025-03-28 02:20:30"
+    },
+    "-OMO28UcpeI8DXKbkW8Q": {
+      "acceleration": [
+        8.74,
+        -1.41,
+        -6.39
+      ],
+      "angular_velocity": [
+        -0.01,
+        0,
+        -0.03
+      ],
+      "humidity": 75.85,
+      "pressure": 100323.69,
+      "received_timestamp": "2025-03-27T19:20:36.038070",
+      "temperature": 30.87,
+      "timestamp": "2025-03-28 02:20:35"
+    },
+    "-OMO29i2H8XV3VziHTph": {
+      "acceleration": [
+        8.31,
+        -1.43,
+        -7.01
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.03
+      ],
+      "humidity": 75.13,
+      "pressure": 100323.38,
+      "received_timestamp": "2025-03-27T19:20:41.046675",
+      "temperature": 30.92,
+      "timestamp": "2025-03-28 02:20:40"
+    },
+    "-OMO2Aw59ViNnvxoouj7": {
+      "acceleration": [
+        -3.24,
+        5.4,
+        5.31
+      ],
+      "angular_velocity": [
+        0.6,
+        -1,
+        -0.23
+      ],
+      "humidity": 74.52,
+      "pressure": 100318.58,
+      "received_timestamp": "2025-03-27T19:20:46.051800",
+      "temperature": 30.99,
+      "timestamp": "2025-03-28 02:20:45"
+    },
+    "-OMO2C9BFGBCcDyYdsTw": {
+      "acceleration": [
+        4.83,
+        5.8,
+        -2.21
+      ],
+      "angular_velocity": [
+        -2.46,
+        0.03,
+        2.93
+      ],
+      "humidity": 73.97,
+      "pressure": 100316.92,
+      "received_timestamp": "2025-03-27T19:20:51.057751",
+      "temperature": 31.05,
+      "timestamp": "2025-03-28 02:20:50"
+    },
+    "-OMO2DN_9RjIxGYpQAbw": {
+      "acceleration": [
+        -1.31,
+        5.18,
+        -9.23
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 73.47,
+      "pressure": 100316.98,
+      "received_timestamp": "2025-03-27T19:20:56.065820",
+      "temperature": 31.23,
+      "timestamp": "2025-03-28 02:20:55"
+    },
+    "-OMO2EasG_F3IGcRK4g4": {
+      "acceleration": [
+        3.99,
+        5.6,
+        -8.04
+      ],
+      "angular_velocity": [
+        0.08,
+        -0.11,
+        -0.08
+      ],
+      "humidity": 72.95,
+      "pressure": 100319.02,
+      "received_timestamp": "2025-03-27T19:21:01.078955",
+      "temperature": 31.34,
+      "timestamp": "2025-03-28 02:21:00"
+    },
+    "-OMO2FozmEOVYD_XH9hz": {
+      "acceleration": [
+        5.83,
+        1.6,
+        -11.23
+      ],
+      "angular_velocity": [
+        1.04,
+        0.79,
+        0.19
+      ],
+      "humidity": 72.53,
+      "pressure": 100318.56,
+      "received_timestamp": "2025-03-27T19:21:06.085174",
+      "temperature": 31.4,
+      "timestamp": "2025-03-28 02:21:05"
+    },
+    "-OMO2H2MkYO4GFUTE7s6": {
+      "acceleration": [
+        -5.52,
+        3.98,
+        -8.06
+      ],
+      "angular_velocity": [
+        -0.79,
+        0.28,
+        -0.37
+      ],
+      "humidity": 72.12,
+      "pressure": 100312.07,
+      "received_timestamp": "2025-03-27T19:21:11.093253",
+      "temperature": 31.45,
+      "timestamp": "2025-03-28 02:21:10"
+    },
+    "-OMQMxyOKgkCNHHhPIBy": {
+      "acceleration": [
+        3.89,
+        8.91,
+        4.53
+      ],
+      "angular_velocity": [
+        -0.05,
+        0.34,
+        0.36
+      ],
+      "humidity": 43.82,
+      "pressure": 101134.83,
+      "received_timestamp": "2025-03-28T06:10:48.190866",
+      "temperature": 38.09,
+      "timestamp": "2025-03-28 13:10:47"
+    },
+    "-OMQMz76IPicWQ0bbobM": {
+      "acceleration": [
+        4.24,
+        8.92,
+        2.78
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.15,
+        -0.06
+      ],
+      "humidity": 40.9,
+      "pressure": 100588.05,
+      "received_timestamp": "2025-03-28T06:10:53.005826",
+      "temperature": 37.87,
+      "timestamp": "2025-03-28 13:10:52"
+    },
+    "-OMQN-KwWHWEFJYgwOc6": {
+      "acceleration": [
+        5.19,
+        7.24,
+        7.71
+      ],
+      "angular_velocity": [
+        0.28,
+        -0.9,
+        0.72
+      ],
+      "humidity": 32.11,
+      "pressure": 100773.22,
+      "received_timestamp": "2025-03-28T06:10:57.993851",
+      "temperature": 38.03,
+      "timestamp": "2025-03-28 13:10:57"
+    },
+    "-OMQN0afnEu3o1SQr9ao": {
+      "acceleration": [
+        0.09,
+        8.62,
+        -4.22
+      ],
+      "angular_velocity": [
+        0.43,
+        -0.55,
+        0.32
+      ],
+      "humidity": 33.39,
+      "pressure": 100661.22,
+      "received_timestamp": "2025-03-28T06:11:02.997858",
+      "temperature": 38.85,
+      "timestamp": "2025-03-28 13:11:02"
+    },
+    "-OMQN1mp9LWrL515FZJh": {
+      "acceleration": [
+        -0.39,
+        9.41,
+        -4.41
+      ],
+      "angular_velocity": [
+        -0.25,
+        0.96,
+        -0.08
+      ],
+      "humidity": 35.03,
+      "pressure": 100677.24,
+      "received_timestamp": "2025-03-28T06:11:08.027196",
+      "temperature": 39.44,
+      "timestamp": "2025-03-28 13:11:07"
+    },
+    "-OMQN3-pADFdU5Q10H58": {
+      "acceleration": [
+        -2.13,
+        7.95,
+        -5.04
+      ],
+      "angular_velocity": [
+        0.05,
+        -0.04,
+        0.08
+      ],
+      "humidity": 35.47,
+      "pressure": 100676.12,
+      "received_timestamp": "2025-03-28T06:11:13.016981",
+      "temperature": 39.96,
+      "timestamp": "2025-03-28 13:11:12"
+    },
+    "-OMQN4DmqkhfcIgoC0vu": {
+      "acceleration": [
+        -6.53,
+        8.14,
+        -5.09
+      ],
+      "angular_velocity": [
+        -0.14,
+        0.15,
+        -0.12
+      ],
+      "humidity": 32.51,
+      "pressure": 100680.05,
+      "received_timestamp": "2025-03-28T06:11:18.013885",
+      "temperature": 40.18,
+      "timestamp": "2025-03-28 13:11:17"
+    },
+    "-OMQN5RovtGveNBKvOTx": {
+      "acceleration": [
+        -3.63,
+        7.88,
+        -5.02
+      ],
+      "angular_velocity": [
+        -0.12,
+        0.02,
+        0.23
+      ],
+      "humidity": 32.8,
+      "pressure": 100647.78,
+      "received_timestamp": "2025-03-28T06:11:23.001002",
+      "temperature": 40.62,
+      "timestamp": "2025-03-28 13:11:22"
+    },
+    "-OMQN6fcYxqiHCaIrrxu": {
+      "acceleration": [
+        -3.15,
+        8.13,
+        -3.54
+      ],
+      "angular_velocity": [
+        0.08,
+        -0.1,
+        -0.18
+      ],
+      "humidity": 32.88,
+      "pressure": 100666.72,
+      "received_timestamp": "2025-03-28T06:11:28.040973",
+      "temperature": 40.91,
+      "timestamp": "2025-03-28 13:11:27"
+    },
+    "-OMQN7tjQLKBEmcOyP_A": {
+      "acceleration": [
+        -4.54,
+        9.74,
+        -1.9
+      ],
+      "angular_velocity": [
+        -0.24,
+        0.24,
+        0.3
+      ],
+      "humidity": 34.55,
+      "pressure": 100636.82,
+      "received_timestamp": "2025-03-28T06:11:33.040838",
+      "temperature": 41.39,
+      "timestamp": "2025-03-28 13:11:32"
+    },
+    "-OMQN97e9yfVnmjCbUG2": {
+      "acceleration": [
+        -2.26,
+        9.04,
+        -3.96
+      ],
+      "angular_velocity": [
+        -0.19,
+        0.02,
+        0.47
+      ],
+      "humidity": 32.2,
+      "pressure": 100629.86,
+      "received_timestamp": "2025-03-28T06:11:38.081725",
+      "temperature": 41.44,
+      "timestamp": "2025-03-28 13:11:37"
+    },
+    "-OMQNALnQ251-0ScJd9R": {
+      "acceleration": [
+        -2.48,
+        9.39,
+        -2.74
+      ],
+      "angular_velocity": [
+        0.05,
+        -0.19,
+        -0.16
+      ],
+      "humidity": 31.98,
+      "pressure": 100659.36,
+      "received_timestamp": "2025-03-28T06:11:43.073806",
+      "temperature": 41.37,
+      "timestamp": "2025-03-28 13:11:42"
+    },
+    "-OMQNBZZL8qq-mYoiqXp": {
+      "acceleration": [
+        3.12,
+        9.97,
+        0.25
+      ],
+      "angular_velocity": [
+        -0.52,
+        0.12,
+        0.12
+      ],
+      "humidity": 29.96,
+      "pressure": 100670.8,
+      "received_timestamp": "2025-03-28T06:11:48.073892",
+      "temperature": 41.75,
+      "timestamp": "2025-03-28 13:11:47"
+    },
+    "-OMQNCmhh-4mcDOx4tJk": {
+      "acceleration": [
+        -6.84,
+        3.81,
+        -2.45
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.43,
+        -0.49
+      ],
+      "humidity": 23.77,
+      "pressure": 100717.09,
+      "received_timestamp": "2025-03-28T06:11:53.064724",
+      "temperature": 41.75,
+      "timestamp": "2025-03-28 13:11:52"
+    },
+    "-OMQNE0JbCAk1iw2fiBa": {
+      "acceleration": [
+        4.25,
+        6.98,
+        4.11
+      ],
+      "angular_velocity": [
+        -0.14,
+        -0.35,
+        0
+      ],
+      "humidity": -10.25,
+      "pressure": 101562.09,
+      "received_timestamp": "2025-03-28T06:11:58.112779",
+      "temperature": 41.92,
+      "timestamp": "2025-03-28 13:11:57"
+    },
+    "-OMQNFESaSpdTOE-XR1l": {
+      "acceleration": [
+        8.37,
+        -1.03,
+        -9.49
+      ],
+      "angular_velocity": [
+        0.09,
+        -0.26,
+        -0.16
+      ],
+      "humidity": 37.8,
+      "pressure": 100596.59,
+      "received_timestamp": "2025-03-28T06:12:03.104824",
+      "temperature": 41.3,
+      "timestamp": "2025-03-28 13:12:02"
+    },
+    "-OMQNGSZhSBkIk5yx7p8": {
+      "acceleration": [
+        -2.33,
+        9.98,
+        -0.09
+      ],
+      "angular_velocity": [
+        1.11,
+        0.82,
+        -0.11
+      ],
+      "humidity": 37.14,
+      "pressure": 100611.94,
+      "received_timestamp": "2025-03-28T06:12:08.104938",
+      "temperature": 41.41,
+      "timestamp": "2025-03-28 13:12:07"
+    },
+    "-OMQNHfeG2clrPXgYlGq": {
+      "acceleration": [
+        -0.13,
+        10.06,
+        -2.35
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.16,
+        0.3
+      ],
+      "humidity": 18.26,
+      "pressure": 100686.45,
+      "received_timestamp": "2025-03-28T06:12:13.102306",
+      "temperature": 40.82,
+      "timestamp": "2025-03-28 13:12:12"
+    },
+    "-OMQNItcNndpbO_GUZ92": {
+      "acceleration": [
+        0.83,
+        10.33,
+        -5.18
+      ],
+      "angular_velocity": [
+        -0.19,
+        -0.01,
+        -0.03
+      ],
+      "humidity": 23.22,
+      "pressure": 100644.19,
+      "received_timestamp": "2025-03-28T06:12:18.091658",
+      "temperature": 40.17,
+      "timestamp": "2025-03-28 13:12:17"
+    },
+    "-OMQNK7MzNUyUF2S-q1q": {
+      "acceleration": [
+        -0.31,
+        9.81,
+        -3.83
+      ],
+      "angular_velocity": [
+        0.19,
+        -0.2,
+        -0.09
+      ],
+      "humidity": 29.71,
+      "pressure": 100611.92,
+      "received_timestamp": "2025-03-28T06:12:23.131718",
+      "temperature": 40.99,
+      "timestamp": "2025-03-28 13:12:22"
+    },
+    "-OMQNLLNqzBtEGQRl_sH": {
+      "acceleration": [
+        -0.81,
+        9.73,
+        -3.94
+      ],
+      "angular_velocity": [
+        -0.12,
+        -0.23,
+        -0.04
+      ],
+      "humidity": 41.16,
+      "pressure": 100581.83,
+      "received_timestamp": "2025-03-28T06:12:28.131613",
+      "temperature": 41.11,
+      "timestamp": "2025-03-28 13:12:27"
+    },
+    "-OMQNMZDq_BApXpKAKZ8": {
+      "acceleration": [
+        -2.81,
+        6.45,
+        -1.01
+      ],
+      "angular_velocity": [
+        -0.17,
+        0.22,
+        -0.18
+      ],
+      "humidity": 32.47,
+      "pressure": 100608.22,
+      "received_timestamp": "2025-03-28T06:12:33.111703",
+      "temperature": 39.87,
+      "timestamp": "2025-03-28 13:12:32"
+    },
+    "-OMQNNnGJnhNG0MiJZsy": {
+      "acceleration": [
+        -1.25,
+        8.98,
+        -3.46
+      ],
+      "angular_velocity": [
+        0.15,
+        -0.29,
+        0.2
+      ],
+      "humidity": 35.87,
+      "pressure": 100667.69,
+      "received_timestamp": "2025-03-28T06:12:38.139774",
+      "temperature": 40.88,
+      "timestamp": "2025-03-28 13:12:37"
+    },
+    "-OMQNP04YNfztM-QEJDu": {
+      "acceleration": [
+        -0.44,
+        9.58,
+        -2.42
+      ],
+      "angular_velocity": [
+        0.06,
+        -0.35,
+        -0.84
+      ],
+      "humidity": 35.46,
+      "pressure": 100659.16,
+      "received_timestamp": "2025-03-28T06:12:43.147543",
+      "temperature": 41.1,
+      "timestamp": "2025-03-28 13:12:42"
+    },
+    "-OMQNQEFn8BLbTNYV3Oz": {
+      "acceleration": [
+        0.52,
+        9.33,
+        -1.37
+      ],
+      "angular_velocity": [
+        0.03,
+        -0.12,
+        -0.14
+      ],
+      "humidity": 26.65,
+      "pressure": 100671.48,
+      "received_timestamp": "2025-03-28T06:12:48.148808",
+      "temperature": 41.35,
+      "timestamp": "2025-03-28 13:12:47"
+    },
+    "-OMQNRSSo-XQB18Yz0wP": {
+      "acceleration": [
+        2.46,
+        10.25,
+        -1.47
+      ],
+      "angular_velocity": [
+        -0.46,
+        0.23,
+        0.2
+      ],
+      "humidity": 27.71,
+      "pressure": 100610.3,
+      "received_timestamp": "2025-03-28T06:12:53.144979",
+      "temperature": 41.41,
+      "timestamp": "2025-03-28 13:12:52"
+    },
+    "-OMQNSfMKaKGJh6KdhcO": {
+      "acceleration": [
+        -2.55,
+        11.79,
+        0.3
+      ],
+      "angular_velocity": [
+        1.41,
+        -2.02,
+        -0.56
+      ],
+      "humidity": 29.61,
+      "pressure": 100655.06,
+      "received_timestamp": "2025-03-28T06:12:58.148826",
+      "temperature": 41.86,
+      "timestamp": "2025-03-28 13:12:57"
+    },
+    "-OMQNTtg1m4TEA2s85YO": {
+      "acceleration": [
+        1.33,
+        8.61,
+        -1.71
+      ],
+      "angular_velocity": [
+        0.38,
+        1.14,
+        -0.49
+      ],
+      "humidity": 26.94,
+      "pressure": 100656.61,
+      "received_timestamp": "2025-03-28T06:13:03.156878",
+      "temperature": 41.93,
+      "timestamp": "2025-03-28 13:13:02"
+    },
+    "-OMQNV6n_Pr5S184bgNM": {
+      "acceleration": [
+        2.6,
+        8.91,
+        -0.84
+      ],
+      "angular_velocity": [
+        0.18,
+        -0.39,
+        -0.45
+      ],
+      "humidity": 23.46,
+      "pressure": 100651.08,
+      "received_timestamp": "2025-03-28T06:13:08.157346",
+      "temperature": 41.92,
+      "timestamp": "2025-03-28 13:13:07"
+    },
+    "-OMQNWLPFM_RAbTy6m97": {
+      "acceleration": [
+        2.51,
+        10.21,
+        -1.93
+      ],
+      "angular_velocity": [
+        -0.64,
+        0.28,
+        0.41
+      ],
+      "humidity": 25.58,
+      "pressure": 100656.41,
+      "received_timestamp": "2025-03-28T06:13:13.188964",
+      "temperature": 42.1,
+      "timestamp": "2025-03-28 13:13:12"
+    },
+    "-OMQNXZX02viXsTws2rL": {
+      "acceleration": [
+        3.95,
+        8.39,
+        -0.06
+      ],
+      "angular_velocity": [
+        -0.22,
+        0.13,
+        0.14
+      ],
+      "humidity": 27.06,
+      "pressure": 100638.06,
+      "received_timestamp": "2025-03-28T06:13:18.185687",
+      "temperature": 42.24,
+      "timestamp": "2025-03-28 13:13:17"
+    },
+    "-OMQNYnBwqKHDZ-DnpTS": {
+      "acceleration": [
+        3.75,
+        7.64,
+        1.75
+      ],
+      "angular_velocity": [
+        -0.22,
+        0.15,
+        0.14
+      ],
+      "humidity": 36.29,
+      "pressure": 100613.41,
+      "received_timestamp": "2025-03-28T06:13:23.216016",
+      "temperature": 42.57,
+      "timestamp": "2025-03-28 13:13:22"
+    },
+    "-OMQN_-tLbVkhjnUZhFI": {
+      "acceleration": [
+        3.44,
+        7.13,
+        0.77
+      ],
+      "angular_velocity": [
+        0.79,
+        0.49,
+        -0.96
+      ],
+      "humidity": 21.62,
+      "pressure": 100651.12,
+      "received_timestamp": "2025-03-28T06:13:28.190433",
+      "temperature": 42.77,
+      "timestamp": "2025-03-28 13:13:27"
+    },
+    "-OMQNaEYfxnC9To4PhoR": {
+      "acceleration": [
+        2.63,
+        11.24,
+        -1.19
+      ],
+      "angular_velocity": [
+        0.34,
+        0.95,
+        -0.09
+      ],
+      "humidity": 22.85,
+      "pressure": 100642.73,
+      "received_timestamp": "2025-03-28T06:13:33.227371",
+      "temperature": 42.83,
+      "timestamp": "2025-03-28 13:13:32"
+    },
+    "-OMQNbSaaIjIPELh_F91": {
+      "acceleration": [
+        2.88,
+        9.48,
+        -0.67
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.05,
+        -0.32
+      ],
+      "humidity": 22.16,
+      "pressure": 100639.02,
+      "received_timestamp": "2025-03-28T06:13:38.220605",
+      "temperature": 42.86,
+      "timestamp": "2025-03-28 13:13:37"
+    },
+    "-OMQNcg6rUHjm4zrUqCP": {
+      "acceleration": [
+        3.39,
+        10.42,
+        -1.14
+      ],
+      "angular_velocity": [
+        0.06,
+        -0.04,
+        -0.23
+      ],
+      "humidity": 19.79,
+      "pressure": 100639.99,
+      "received_timestamp": "2025-03-28T06:13:43.251058",
+      "temperature": 42.83,
+      "timestamp": "2025-03-28 13:13:42"
+    },
+    "-OMQNduEmeVWHyPLNVuM": {
+      "acceleration": [
+        1.8,
+        10.57,
+        -2.25
+      ],
+      "angular_velocity": [
+        0.1,
+        0.23,
+        0
+      ],
+      "humidity": 23.6,
+      "pressure": 100659.48,
+      "received_timestamp": "2025-03-28T06:13:48.238976",
+      "temperature": 42.92,
+      "timestamp": "2025-03-28 13:13:47"
+    },
+    "-OMQNf7Q0awXT0KwYBsA": {
+      "acceleration": [
+        2.68,
+        8.93,
+        -0.65
+      ],
+      "angular_velocity": [
+        -0.09,
+        -0.08,
+        0.01
+      ],
+      "humidity": 20.58,
+      "pressure": 100654.38,
+      "received_timestamp": "2025-03-28T06:13:53.258886",
+      "temperature": 43.03,
+      "timestamp": "2025-03-28 13:13:53"
+    },
+    "-OMQNgLkSDHj4sGpAGM4": {
+      "acceleration": [
+        1.64,
+        10.5,
+        -1.57
+      ],
+      "angular_velocity": [
+        -0.11,
+        0.27,
+        0.01
+      ],
+      "humidity": 17.32,
+      "pressure": 100667.75,
+      "received_timestamp": "2025-03-28T06:13:58.260494",
+      "temperature": 42.72,
+      "timestamp": "2025-03-28 13:13:58"
+    },
+    "-OMQNh_M7PYqXOTRoNci": {
+      "acceleration": [
+        2.53,
+        9.43,
+        -0.29
+      ],
+      "angular_velocity": [
+        -0.23,
+        -0.1,
+        -0.09
+      ],
+      "humidity": 17.43,
+      "pressure": 100683.64,
+      "received_timestamp": "2025-03-28T06:14:03.291660",
+      "temperature": 43.08,
+      "timestamp": "2025-03-28 13:14:03"
+    },
+    "-OMQNimykLml3w0zqErW": {
+      "acceleration": [
+        2.11,
+        8.25,
+        1.09
+      ],
+      "angular_velocity": [
+        0.17,
+        -0.15,
+        -0.8
+      ],
+      "humidity": 17.89,
+      "pressure": 100683.85,
+      "received_timestamp": "2025-03-28T06:14:08.255769",
+      "temperature": 43.7,
+      "timestamp": "2025-03-28 13:14:08"
+    },
+    "-OMQNk0LfpyT51SS_kVD": {
+      "acceleration": [
+        3.68,
+        8.54,
+        1.33
+      ],
+      "angular_velocity": [
+        0.13,
+        -0.18,
+        -0.15
+      ],
+      "humidity": 17.04,
+      "pressure": 100680.88,
+      "received_timestamp": "2025-03-28T06:14:13.269756",
+      "temperature": 43.54,
+      "timestamp": "2025-03-28 13:14:13"
+    },
+    "-OMQNlEbLMP5HNNx3u6F": {
+      "acceleration": [
+        2.51,
+        9.4,
+        0.49
+      ],
+      "angular_velocity": [
+        -0.29,
+        0.22,
+        0.33
+      ],
+      "humidity": 13.41,
+      "pressure": 100670.49,
+      "received_timestamp": "2025-03-28T06:14:18.289034",
+      "temperature": 43.63,
+      "timestamp": "2025-03-28 13:14:18"
+    },
+    "-OMQNmT2LXc5r_T9YSgL": {
+      "acceleration": [
+        0.8,
+        9.79,
+        0.97
+      ],
+      "angular_velocity": [
+        -0.05,
+        -0.1,
+        -0.16
+      ],
+      "humidity": 21.15,
+      "pressure": 100650.24,
+      "received_timestamp": "2025-03-28T06:14:23.308286",
+      "temperature": 43.32,
+      "timestamp": "2025-03-28 13:14:23"
+    },
+    "-OMQNngZELzHNgTtk4-s": {
+      "acceleration": [
+        2.79,
+        8.72,
+        1.99
+      ],
+      "angular_velocity": [
+        0.17,
+        -0.25,
+        -0.17
+      ],
+      "humidity": 20.18,
+      "pressure": 100651.63,
+      "received_timestamp": "2025-03-28T06:14:28.325508",
+      "temperature": 43.19,
+      "timestamp": "2025-03-28 13:14:28"
+    },
+    "-OMQNouQuC6cxUIDw1kP": {
+      "acceleration": [
+        2.67,
+        9.42,
+        1.07
+      ],
+      "angular_velocity": [
+        -0.25,
+        -0.85,
+        0.55
+      ],
+      "humidity": 34.86,
+      "pressure": 100612.42,
+      "received_timestamp": "2025-03-28T06:14:33.316357",
+      "temperature": 43.16,
+      "timestamp": "2025-03-28 13:14:33"
+    },
+    "-OMQNq7XrBXE1cquNTUW": {
+      "acceleration": [
+        3.16,
+        6.58,
+        3.51
+      ],
+      "angular_velocity": [
+        0.27,
+        0.03,
+        -0.16
+      ],
+      "humidity": -3.42,
+      "pressure": 100792.92,
+      "received_timestamp": "2025-03-28T06:14:38.319423",
+      "temperature": 43.05,
+      "timestamp": "2025-03-28 13:14:38"
+    },
+    "-OMQNrLpe-d1221iU0jf": {
+      "acceleration": [
+        4.83,
+        8.19,
+        -2.81
+      ],
+      "angular_velocity": [
+        0.25,
+        -0.44,
+        -0.2
+      ],
+      "humidity": 9.98,
+      "pressure": 100693.38,
+      "received_timestamp": "2025-03-28T06:14:43.323663",
+      "temperature": 43.9,
+      "timestamp": "2025-03-28 13:14:43"
+    },
+    "-OMQNsZx-8JpP772IZKZ": {
+      "acceleration": [
+        0.58,
+        8.29,
+        -7.34
+      ],
+      "angular_velocity": [
+        -1.36,
+        -2.62,
+        1.46
+      ],
+      "humidity": 26.91,
+      "pressure": 100687.72,
+      "received_timestamp": "2025-03-28T06:14:48.324414",
+      "temperature": 43.01,
+      "timestamp": "2025-03-28 13:14:48"
+    },
+    "-OMQNtoGt3QCvOX-0f66": {
+      "acceleration": [
+        -1.84,
+        6.82,
+        -8.41
+      ],
+      "angular_velocity": [
+        0.27,
+        0.28,
+        -0.75
+      ],
+      "humidity": 28.37,
+      "pressure": 100651.12,
+      "received_timestamp": "2025-03-28T06:14:53.401002",
+      "temperature": 43.01,
+      "timestamp": "2025-03-28 13:14:53"
+    },
+    "-OMQNv0Ppy3ThYf9cWc1": {
+      "acceleration": [
+        -3.63,
+        0.93,
+        -11.17
+      ],
+      "angular_velocity": [
+        -3.21,
+        -4.37,
+        0.39
+      ],
+      "humidity": 29.76,
+      "pressure": 100695.55,
+      "received_timestamp": "2025-03-28T06:14:58.336924",
+      "temperature": 43.17,
+      "timestamp": "2025-03-28 13:14:58"
+    },
+    "-OMQNwFItm_tJhpTN2XN": {
+      "acceleration": [
+        -1.22,
+        -1.2,
+        -11.5
+      ],
+      "angular_velocity": [
+        -1.13,
+        -1.21,
+        0.8
+      ],
+      "humidity": 25.57,
+      "pressure": 100704.48,
+      "received_timestamp": "2025-03-28T06:15:03.385498",
+      "temperature": 43.34,
+      "timestamp": "2025-03-28 13:15:03"
+    },
+    "-OMQNxTGroGIubIYZSLj": {
+      "acceleration": [
+        -5.51,
+        -0.71,
+        -9.5
+      ],
+      "angular_velocity": [
+        -1.18,
+        -0.4,
+        0.91
+      ],
+      "humidity": 25.75,
+      "pressure": 100717.02,
+      "received_timestamp": "2025-03-28T06:15:08.377006",
+      "temperature": 42.68,
+      "timestamp": "2025-03-28 13:15:08"
+    },
+    "-OMQNygTBm_u5ylhTdsE": {
+      "acceleration": [
+        -4.37,
+        1.53,
+        -9.52
+      ],
+      "angular_velocity": [
+        -1.39,
+        -0.01,
+        0.52
+      ],
+      "humidity": 34.69,
+      "pressure": 100596.3,
+      "received_timestamp": "2025-03-28T06:15:13.376921",
+      "temperature": 42.99,
+      "timestamp": "2025-03-28 13:15:13"
+    },
+    "-OMQNzvEmNCq9XMhdBSc": {
+      "acceleration": [
+        9.41,
+        0.7,
+        -19.61
+      ],
+      "angular_velocity": [
+        2.03,
+        -1.76,
+        -2.33
+      ],
+      "humidity": 37.16,
+      "pressure": 100581.73,
+      "received_timestamp": "2025-03-28T06:15:18.425454",
+      "temperature": 41.39,
+      "timestamp": "2025-03-28 13:15:18"
+    },
+    "-OMQO07dWz6kmoN2HHnA": {
+      "acceleration": [
+        2.5,
+        -2.26,
+        6.85
+      ],
+      "angular_velocity": [
+        -2.24,
+        0.82,
+        -0.5
+      ],
+      "humidity": 36.63,
+      "pressure": 100588.56,
+      "received_timestamp": "2025-03-28T06:15:23.377193",
+      "temperature": 39.8,
+      "timestamp": "2025-03-28 13:15:23"
+    },
+    "-OMQO1MSj9Q-YCN2eJGu": {
+      "acceleration": [
+        3.43,
+        -0.87,
+        9.11
+      ],
+      "angular_velocity": [
+        -0.69,
+        -0.18,
+        -0.2
+      ],
+      "humidity": 36.98,
+      "pressure": 100579.66,
+      "received_timestamp": "2025-03-28T06:15:28.415535",
+      "temperature": 39.09,
+      "timestamp": "2025-03-28 13:15:28"
+    },
+    "-OMQO3n-9e5Most-o3_c": {
+      "acceleration": [
+        2.91,
+        -1.8,
+        7.59
+      ],
+      "angular_velocity": [
+        0.3,
+        -0.1,
+        0.02
+      ],
+      "humidity": 37.61,
+      "pressure": 100578.3,
+      "received_timestamp": "2025-03-28T06:15:38.374431",
+      "temperature": 38.18,
+      "timestamp": "2025-03-28 13:15:38"
+    },
+    "-OMQO50CMsvKZQhfP0_N": {
+      "acceleration": [
+        3.41,
+        -6.55,
+        10.53
+      ],
+      "angular_velocity": [
+        -0.98,
+        -1.21,
+        2.29
+      ],
+      "humidity": 37.94,
+      "pressure": 100583.97,
+      "received_timestamp": "2025-03-28T06:15:43.380208",
+      "temperature": 37.92,
+      "timestamp": "2025-03-28 13:15:43"
+    },
+    "-OMQO6Ece8kaiF44OShd": {
+      "acceleration": [
+        -1.55,
+        -6.6,
+        2.22
+      ],
+      "angular_velocity": [
+        -0.68,
+        0.81,
+        0.84
+      ],
+      "humidity": 38.09,
+      "pressure": 100581.31,
+      "received_timestamp": "2025-03-28T06:15:48.399575",
+      "temperature": 36.66,
+      "timestamp": "2025-03-28 13:15:48"
+    },
+    "-OMQO7SuGmWaxAte0LnQ": {
+      "acceleration": [
+        -1.15,
+        -10.28,
+        -0.25
+      ],
+      "angular_velocity": [
+        4,
+        0.42,
+        -3.76
+      ],
+      "humidity": 38.51,
+      "pressure": 100579.06,
+      "received_timestamp": "2025-03-28T06:15:53.408374",
+      "temperature": 36.19,
+      "timestamp": "2025-03-28 13:15:53"
+    },
+    "-OMQO8g25yZiAhRLpjMN": {
+      "acceleration": [
+        -0.18,
+        -9.61,
+        0.39
+      ],
+      "angular_velocity": [
+        0.31,
+        -0.07,
+        0.41
+      ],
+      "humidity": 39,
+      "pressure": 100580.84,
+      "received_timestamp": "2025-03-28T06:15:58.412193",
+      "temperature": 35.5,
+      "timestamp": "2025-03-28 13:15:58"
+    },
+    "-OMQO9uJzwktLeabnsO9": {
+      "acceleration": [
+        0.01,
+        -9.81,
+        0.79
+      ],
+      "angular_velocity": [
+        -0.02,
+        0.26,
+        -0.14
+      ],
+      "humidity": 39.42,
+      "pressure": 100583.25,
+      "received_timestamp": "2025-03-28T06:16:03.417950",
+      "temperature": 35.08,
+      "timestamp": "2025-03-28 13:16:03"
+    },
+    "-OMQOB7crgai5QqLPVEk": {
+      "acceleration": [
+        -0.79,
+        -9.51,
+        0.73
+      ],
+      "angular_velocity": [
+        0.68,
+        -0.35,
+        -0.11
+      ],
+      "humidity": 39.89,
+      "pressure": 100587.16,
+      "received_timestamp": "2025-03-28T06:16:08.429439",
+      "temperature": 34.53,
+      "timestamp": "2025-03-28 13:16:08"
+    },
+    "-OMQOCLw6moyY2WwcMK6": {
+      "acceleration": [
+        -0.39,
+        -9.93,
+        0.84
+      ],
+      "angular_velocity": [
+        0.16,
+        0,
+        -0.3
+      ],
+      "humidity": 40.24,
+      "pressure": 100584.23,
+      "received_timestamp": "2025-03-28T06:16:13.442530",
+      "temperature": 33.88,
+      "timestamp": "2025-03-28 13:16:13"
+    },
+    "-OMQODZyOB9u3EIfLD1s": {
+      "acceleration": [
+        -0.17,
+        -9.62,
+        0.85
+      ],
+      "angular_velocity": [
+        0.13,
+        0.04,
+        0.04
+      ],
+      "humidity": 40.57,
+      "pressure": 100585.31,
+      "received_timestamp": "2025-03-28T06:16:18.440796",
+      "temperature": 33.42,
+      "timestamp": "2025-03-28 13:16:18"
+    },
+    "-OMQOEn5h4YqfbhGzOss": {
+      "acceleration": [
+        0.41,
+        -9.05,
+        0.19
+      ],
+      "angular_velocity": [
+        0.88,
+        -0.31,
+        0.28
+      ],
+      "humidity": 41,
+      "pressure": 100585.14,
+      "received_timestamp": "2025-03-28T06:16:23.442980",
+      "temperature": 33.13,
+      "timestamp": "2025-03-28 13:16:23"
+    },
+    "-OMQOG0LiZV0Nk5nNGza": {
+      "acceleration": [
+        0.44,
+        -9.83,
+        0.56
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.21,
+        -0.34
+      ],
+      "humidity": 41.33,
+      "pressure": 100581.38,
+      "received_timestamp": "2025-03-28T06:16:28.447802",
+      "temperature": 32.96,
+      "timestamp": "2025-03-28 13:16:28"
+    },
+    "-OMQOHEipuWnc5t1F09_": {
+      "acceleration": [
+        -0.59,
+        -9.85,
+        0.61
+      ],
+      "angular_velocity": [
+        -0.24,
+        0.66,
+        0.84
+      ],
+      "humidity": 41.64,
+      "pressure": 100589.2,
+      "received_timestamp": "2025-03-28T06:16:33.456114",
+      "temperature": 32.56,
+      "timestamp": "2025-03-28 13:16:33"
+    },
+    "-OMQOISnY2pF8tfcGSVZ": {
+      "acceleration": [
+        0.1,
+        -10.07,
+        1.09
+      ],
+      "angular_velocity": [
+        0.1,
+        -0.22,
+        0.13
+      ],
+      "humidity": 41.95,
+      "pressure": 100581.78,
+      "received_timestamp": "2025-03-28T06:16:38.460082",
+      "temperature": 32.69,
+      "timestamp": "2025-03-28 13:16:38"
+    },
+    "-OMQOJgIG7--YGCXLQg-": {
+      "acceleration": [
+        -0.17,
+        -9.97,
+        0.99
+      ],
+      "angular_velocity": [
+        0.09,
+        -0.04,
+        -0.3
+      ],
+      "humidity": 42.47,
+      "pressure": 100586.06,
+      "received_timestamp": "2025-03-28T06:16:43.485468",
+      "temperature": 32.29,
+      "timestamp": "2025-03-28 13:16:43"
+    },
+    "-OMQOKuhq1MOr9ZdMw6X": {
+      "acceleration": [
+        -1.44,
+        -8.03,
+        2.3
+      ],
+      "angular_velocity": [
+        -0.32,
+        0.47,
+        0.41
+      ],
+      "humidity": 42.46,
+      "pressure": 100590.47,
+      "received_timestamp": "2025-03-28T06:16:48.494538",
+      "temperature": 31.87,
+      "timestamp": "2025-03-28 13:16:48"
+    },
+    "-OMQOM82WHUfivDQIuDe": {
+      "acceleration": [
+        0.84,
+        -8.66,
+        4.71
+      ],
+      "angular_velocity": [
+        -0.22,
+        -0.02,
+        -0.03
+      ],
+      "humidity": 42.86,
+      "pressure": 100585.97,
+      "received_timestamp": "2025-03-28T06:16:53.510105",
+      "temperature": 32.03,
+      "timestamp": "2025-03-28 13:16:53"
+    },
+    "-OMQONMLzYtkEpK4rWct": {
+      "acceleration": [
+        -0.69,
+        -8.61,
+        4.23
+      ],
+      "angular_velocity": [
+        0.05,
+        -0.25,
+        0.09
+      ],
+      "humidity": 43.17,
+      "pressure": 100588.22,
+      "received_timestamp": "2025-03-28T06:16:58.525262",
+      "temperature": 32.07,
+      "timestamp": "2025-03-28 13:16:58"
+    },
+    "-OMQOO_jcbKDQBaAmecH": {
+      "acceleration": [
+        -1.96,
+        -6.57,
+        4.42
+      ],
+      "angular_velocity": [
+        -0.91,
+        0.22,
+        -3.78
+      ],
+      "humidity": 43.47,
+      "pressure": 100588.02,
+      "received_timestamp": "2025-03-28T06:17:03.543523",
+      "temperature": 32.03,
+      "timestamp": "2025-03-28 13:17:03"
+    },
+    "-OMQOPnKIMYVhpYbZYSl": {
+      "acceleration": [
+        2.09,
+        -8.53,
+        5.83
+      ],
+      "angular_velocity": [
+        -0.76,
+        -1.97,
+        1.11
+      ],
+      "humidity": 43.66,
+      "pressure": 100591.38,
+      "received_timestamp": "2025-03-28T06:17:08.512146",
+      "temperature": 31.71,
+      "timestamp": "2025-03-28 13:17:08"
+    },
+    "-OMQOR0W7YzR7v4BNYcs": {
+      "acceleration": [
+        -1.5,
+        -6.99,
+        5.73
+      ],
+      "angular_velocity": [
+        0.17,
+        -0.85,
+        -0.03
+      ],
+      "humidity": 43.93,
+      "pressure": 100582.88,
+      "received_timestamp": "2025-03-28T06:17:13.514546",
+      "temperature": 31.74,
+      "timestamp": "2025-03-28 13:17:13"
+    },
+    "-OMQOSEcVVUiOoQSWt5Z": {
+      "acceleration": [
+        0.25,
+        -6.86,
+        6.09
+      ],
+      "angular_velocity": [
+        -3.47,
+        -0.43,
+        -2.01
+      ],
+      "humidity": 44.04,
+      "pressure": 100589.52,
+      "received_timestamp": "2025-03-28T06:17:18.519662",
+      "temperature": 31.85,
+      "timestamp": "2025-03-28 13:17:18"
+    },
+    "-OMQOTT8R3-3jdEJkS3J": {
+      "acceleration": [
+        0.12,
+        -7.12,
+        7.82
+      ],
+      "angular_velocity": [
+        -1.34,
+        -0.35,
+        -0.74
+      ],
+      "humidity": 44.39,
+      "pressure": 100585.17,
+      "received_timestamp": "2025-03-28T06:17:23.540673",
+      "temperature": 31.85,
+      "timestamp": "2025-03-28 13:17:23"
+    },
+    "-OMQOUgkWMlpt7rAP0Lq": {
+      "acceleration": [
+        0.37,
+        -7.83,
+        5.35
+      ],
+      "angular_velocity": [
+        0,
+        -0.16,
+        -0.26
+      ],
+      "humidity": 44.68,
+      "pressure": 100585.65,
+      "received_timestamp": "2025-03-28T06:17:28.563341",
+      "temperature": 31.81,
+      "timestamp": "2025-03-28 13:17:28"
+    },
+    "-OMQOVuWV6y3GysfkB62": {
+      "acceleration": [
+        -0.62,
+        -5.73,
+        5.76
+      ],
+      "angular_velocity": [
+        0.44,
+        -0.85,
+        -0.81
+      ],
+      "humidity": 44.84,
+      "pressure": 100588.81,
+      "received_timestamp": "2025-03-28T06:17:33.549179",
+      "temperature": 31.65,
+      "timestamp": "2025-03-28 13:17:33"
+    },
+    "-OMQOX81yt2WveJRZauQ": {
+      "acceleration": [
+        -0.77,
+        -7.08,
+        4.25
+      ],
+      "angular_velocity": [
+        -0.39,
+        -0.26,
+        -0.06
+      ],
+      "humidity": 45,
+      "pressure": 100590.39,
+      "received_timestamp": "2025-03-28T06:17:38.566299",
+      "temperature": 31.63,
+      "timestamp": "2025-03-28 13:17:38"
+    },
+    "-OMQOYMIwVIrILH0XDl9": {
+      "acceleration": [
+        -0.28,
+        -7.97,
+        4.24
+      ],
+      "angular_velocity": [
+        0.21,
+        0,
+        0.85
+      ],
+      "humidity": 45.1,
+      "pressure": 100587.62,
+      "received_timestamp": "2025-03-28T06:17:43.578275",
+      "temperature": 31.41,
+      "timestamp": "2025-03-28 13:17:43"
+    },
+    "-OMQOZ_fqJsTNXYjCXGz": {
+      "acceleration": [
+        -1.13,
+        -8.43,
+        4.18
+      ],
+      "angular_velocity": [
+        -0.11,
+        -0.11,
+        -0.21
+      ],
+      "humidity": 45.26,
+      "pressure": 100588.45,
+      "received_timestamp": "2025-03-28T06:17:48.596851",
+      "temperature": 31.43,
+      "timestamp": "2025-03-28 13:17:48"
+    },
+    "-OMQO_nbi9oha92STNsj": {
+      "acceleration": [
+        -0.74,
+        -8.52,
+        5
+      ],
+      "angular_velocity": [
+        0,
+        -0.6,
+        1.86
+      ],
+      "humidity": 44.26,
+      "pressure": 100595.26,
+      "received_timestamp": "2025-03-28T06:17:53.580729",
+      "temperature": 31.01,
+      "timestamp": "2025-03-28 13:17:53"
+    },
+    "-OMQOb0icf3pObo4Ie_R": {
+      "acceleration": [
+        0.44,
+        -0.12,
+        8.77
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 44.5,
+      "pressure": 100595.77,
+      "received_timestamp": "2025-03-28T06:17:58.583426",
+      "temperature": 30.67,
+      "timestamp": "2025-03-28 13:17:58"
+    },
+    "-OMQOcEty4FTYXrdTon3": {
+      "acceleration": [
+        10.13,
+        -0.02,
+        0.96
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 44.85,
+      "pressure": 100587.94,
+      "received_timestamp": "2025-03-28T06:18:03.581794",
+      "temperature": 30.94,
+      "timestamp": "2025-03-28 13:18:03"
+    },
+    "-OMQOdSxEVmuzXvxJiCX": {
+      "acceleration": [
+        7.79,
+        -1.13,
+        -4.6
+      ],
+      "angular_velocity": [
+        -1.33,
+        -2.99,
+        -3.05
+      ],
+      "humidity": 45.19,
+      "pressure": 100590.73,
+      "received_timestamp": "2025-03-28T06:18:08.579596",
+      "temperature": 31.16,
+      "timestamp": "2025-03-28 13:18:08"
+    },
+    "-OMQOegDvXlwenMlTbQj": {
+      "acceleration": [
+        -8.53,
+        -0.35,
+        2.89
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 45.61,
+      "pressure": 100585,
+      "received_timestamp": "2025-03-28T06:18:13.591792",
+      "temperature": 30.96,
+      "timestamp": "2025-03-28 13:18:13"
+    },
+    "-OMQOfuqUuqIDKLT0DUc": {
+      "acceleration": [
+        -6.5,
+        -1.09,
+        6.07
+      ],
+      "angular_velocity": [
+        -0.02,
+        0.02,
+        -0.04
+      ],
+      "humidity": 45.53,
+      "pressure": 100591.16,
+      "received_timestamp": "2025-03-28T06:18:18.604022",
+      "temperature": 31.14,
+      "timestamp": "2025-03-28 13:18:18"
+    },
+    "-OMQOh7mb3B-mkCR7D0Q": {
+      "acceleration": [
+        -6.37,
+        -1.13,
+        6.09
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 45.59,
+      "pressure": 100591.94,
+      "received_timestamp": "2025-03-28T06:18:23.607175",
+      "temperature": 30.99,
+      "timestamp": "2025-03-28 13:18:23"
+    },
+    "-OMQOiM-SiuoulyvIT0r": {
+      "acceleration": [
+        -6.4,
+        -1.21,
+        6.15
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.01,
+        -0.05
+      ],
+      "humidity": 45.77,
+      "pressure": 100587.28,
+      "received_timestamp": "2025-03-28T06:18:28.618907",
+      "temperature": 31.23,
+      "timestamp": "2025-03-28 13:18:28"
+    },
+    "-OMQOj_BzQDKPj4ztMZF": {
+      "acceleration": [
+        -7.58,
+        -0.21,
+        4.6
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 46.02,
+      "pressure": 100588.46,
+      "received_timestamp": "2025-03-28T06:18:33.620134",
+      "temperature": 31.14,
+      "timestamp": "2025-03-28 13:18:33"
+    },
+    "-OMQOknOp-apNHx4RvKv": {
+      "acceleration": [
+        -7.64,
+        -0.2,
+        4.57
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 46.14,
+      "pressure": 100590.02,
+      "received_timestamp": "2025-03-28T06:18:38.631867",
+      "temperature": 31.16,
+      "timestamp": "2025-03-28 13:18:38"
+    },
+    "-OMQOm0oqR7ikLQKyIQG": {
+      "acceleration": [
+        -7.6,
+        -0.23,
+        4.61
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.01,
+        -0.05
+      ],
+      "humidity": 46.13,
+      "pressure": 100587.67,
+      "received_timestamp": "2025-03-28T06:18:43.644816",
+      "temperature": 30.9,
+      "timestamp": "2025-03-28 13:18:43"
+    },
+    "-OMQOnEtwuRV_tfNY8E1": {
+      "acceleration": [
+        -2.8,
+        -2.18,
+        4.13
+      ],
+      "angular_velocity": [
+        1.09,
+        -0.39,
+        -3.07
+      ],
+      "humidity": 46.4,
+      "pressure": 100588.83,
+      "received_timestamp": "2025-03-28T06:18:48.640276",
+      "temperature": 30.79,
+      "timestamp": "2025-03-28 13:18:48"
+    },
+    "-OMQOoTRpoDzvqV_lKoe": {
+      "acceleration": [
+        -7.63,
+        3.69,
+        3.08
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 46.28,
+      "pressure": 100589.28,
+      "received_timestamp": "2025-03-28T06:18:53.663902",
+      "temperature": 30.98,
+      "timestamp": "2025-03-28 13:18:53"
+    },
+    "-OMQOpg_CBAj3kHDMUdo": {
+      "acceleration": [
+        -9.02,
+        -0.21,
+        0.68
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.06,
+        -0.07
+      ],
+      "humidity": 46.53,
+      "pressure": 100587.34,
+      "received_timestamp": "2025-03-28T06:18:58.671540",
+      "temperature": 31.07,
+      "timestamp": "2025-03-28 13:18:58"
+    },
+    "-OMQOquZeqjU4zAILzRi": {
+      "acceleration": [
+        -9.22,
+        -0.21,
+        0.41
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 46.44,
+      "pressure": 100586.56,
+      "received_timestamp": "2025-03-28T06:19:03.664535",
+      "temperature": 31.14,
+      "timestamp": "2025-03-28 13:19:03"
+    },
+    "-OMQOs7nqmIF8QNgabx-": {
+      "acceleration": [
+        -9.25,
+        -0.26,
+        0.37
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.04
+      ],
+      "humidity": 46.7,
+      "pressure": 100586.26,
+      "received_timestamp": "2025-03-28T06:19:08.669380",
+      "temperature": 31.29,
+      "timestamp": "2025-03-28 13:19:08"
+    },
+    "-OMQOtM_N5SHImc87amA": {
+      "acceleration": [
+        -9.22,
+        -0.23,
+        0.46
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 46.9,
+      "pressure": 100585.56,
+      "received_timestamp": "2025-03-28T06:19:13.712162",
+      "temperature": 31.41,
+      "timestamp": "2025-03-28 13:19:13"
+    },
+    "-OMQOu_Rsrh5byig-7Yp": {
+      "acceleration": [
+        -9.28,
+        -0.26,
+        0.42
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 46.98,
+      "pressure": 100585.06,
+      "received_timestamp": "2025-03-28T06:19:18.693902",
+      "temperature": 31.52,
+      "timestamp": "2025-03-28 13:19:18"
+    },
+    "-OMQOvnxUnw7RsnHoIZ3": {
+      "acceleration": [
+        -9.19,
+        -0.29,
+        0.44
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 47.34,
+      "pressure": 100588.83,
+      "received_timestamp": "2025-03-28T06:19:23.709130",
+      "temperature": 31.71,
+      "timestamp": "2025-03-28 13:19:23"
+    },
+    "-OMQOx11HiuHkCbC7sNJ": {
+      "acceleration": [
+        -9.79,
+        0.28,
+        -0.4
+      ],
+      "angular_velocity": [
+        -0.24,
+        -1.77,
+        -0.28
+      ],
+      "humidity": 47.89,
+      "pressure": 100584.3,
+      "received_timestamp": "2025-03-28T06:19:28.709501",
+      "temperature": 31.74,
+      "timestamp": "2025-03-28 13:19:28"
+    },
+    "-OMQOyF0vDtmnINzXjNe": {
+      "acceleration": [
+        9.2,
+        0.21,
+        5.03
+      ],
+      "angular_velocity": [
+        0.97,
+        -0.25,
+        -0.01
+      ],
+      "humidity": 47.42,
+      "pressure": 100598.01,
+      "received_timestamp": "2025-03-28T06:19:33.709866",
+      "temperature": 31.5,
+      "timestamp": "2025-03-28 13:19:33"
+    },
+    "-OMQOzTDe38-xHqbb73Z": {
+      "acceleration": [
+        6.54,
+        1.71,
+        4.8
+      ],
+      "angular_velocity": [
+        -0.11,
+        -0.04,
+        -0.08
+      ],
+      "humidity": 47.36,
+      "pressure": 100596.8,
+      "received_timestamp": "2025-03-28T06:19:38.713470",
+      "temperature": 31.27,
+      "timestamp": "2025-03-28 13:19:38"
+    },
+    "-OMQP-gqA_fpJ3OjUg3f": {
+      "acceleration": [
+        6.83,
+        2.55,
+        5.99
+      ],
+      "angular_velocity": [
+        -0.01,
+        -0.53,
+        0.53
+      ],
+      "humidity": 47.34,
+      "pressure": 100594.7,
+      "received_timestamp": "2025-03-28T06:19:43.738398",
+      "temperature": 30.83,
+      "timestamp": "2025-03-28 13:19:43"
+    },
+    "-OMQP0uzvtasdV8f6_IY": {
+      "acceleration": [
+        8.22,
+        2.12,
+        5.17
+      ],
+      "angular_velocity": [
+        -0.06,
+        0.01,
+        0.05
+      ],
+      "humidity": 47.36,
+      "pressure": 100596.45,
+      "received_timestamp": "2025-03-28T06:19:48.741145",
+      "temperature": 30.28,
+      "timestamp": "2025-03-28 13:19:48"
+    },
+    "-OMQP28FWjnJBYKteBlU": {
+      "acceleration": [
+        7.43,
+        2.06,
+        5.64
+      ],
+      "angular_velocity": [
+        -0.13,
+        0.06,
+        -0.05
+      ],
+      "humidity": 47.58,
+      "pressure": 100594.05,
+      "received_timestamp": "2025-03-28T06:19:53.754530",
+      "temperature": 30.14,
+      "timestamp": "2025-03-28 13:19:53"
+    },
+    "-OMQP3MMDPyycKSsvmuP": {
+      "acceleration": [
+        7.93,
+        1.75,
+        5.21
+      ],
+      "angular_velocity": [
+        -0.04,
+        0.02,
+        -0.01
+      ],
+      "humidity": 47.73,
+      "pressure": 100592.64,
+      "received_timestamp": "2025-03-28T06:19:58.748574",
+      "temperature": 30.03,
+      "timestamp": "2025-03-28 13:19:58"
+    },
+    "-OMQP4_hkhDjq4cm6BPX": {
+      "acceleration": [
+        7.46,
+        2.54,
+        5.01
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        0.04
+      ],
+      "humidity": 47.95,
+      "pressure": 100592.03,
+      "received_timestamp": "2025-03-28T06:20:03.755782",
+      "temperature": 29.94,
+      "timestamp": "2025-03-28 13:20:03"
+    },
+    "-OMQP5nfPyqp1Ez_v7z2": {
+      "acceleration": [
+        7.69,
+        1.92,
+        4.9
+      ],
+      "angular_velocity": [
+        0.01,
+        -0.06,
+        -0.06
+      ],
+      "humidity": 48.13,
+      "pressure": 100596.27,
+      "received_timestamp": "2025-03-28T06:20:08.759390",
+      "temperature": 29.72,
+      "timestamp": "2025-03-28 13:20:08"
+    },
+    "-OMQP715rniylGOUmV6B": {
+      "acceleration": [
+        6.9,
+        4.3,
+        5.35
+      ],
+      "angular_velocity": [
+        -0.14,
+        -0.16,
+        -0.18
+      ],
+      "humidity": 48.31,
+      "pressure": 100592.95,
+      "received_timestamp": "2025-03-28T06:20:13.778915",
+      "temperature": 29.61,
+      "timestamp": "2025-03-28 13:20:13"
+    },
+    "-OMQP8FCID1z0_OPERXj": {
+      "acceleration": [
+        5.93,
+        2.2,
+        6.39
+      ],
+      "angular_velocity": [
+        0.12,
+        0.06,
+        -0.13
+      ],
+      "humidity": 48.52,
+      "pressure": 100594.91,
+      "received_timestamp": "2025-03-28T06:20:18.774287",
+      "temperature": 29.44,
+      "timestamp": "2025-03-28 13:20:18"
+    },
+    "-OMQP9TQ9QBccX3NOuk1": {
+      "acceleration": [
+        7,
+        1.81,
+        6.45
+      ],
+      "angular_velocity": [
+        1.99,
+        1.9,
+        -0.58
+      ],
+      "humidity": 48.73,
+      "pressure": 100587.66,
+      "received_timestamp": "2025-03-28T06:20:23.784987",
+      "temperature": 29.34,
+      "timestamp": "2025-03-28 13:20:23"
+    },
+    "-OMQPAh32E15n0VnhCMB": {
+      "acceleration": [
+        7.61,
+        -2.08,
+        11.15
+      ],
+      "angular_velocity": [
+        -1.82,
+        -2.58,
+        1.15
+      ],
+      "humidity": 49.43,
+      "pressure": 100582.27,
+      "received_timestamp": "2025-03-28T06:20:28.796837",
+      "temperature": 29.41,
+      "timestamp": "2025-03-28 13:20:28"
+    },
+    "-OMQPBv4g95qC87pdSSh": {
+      "acceleration": [
+        4.52,
+        0.51,
+        6.31
+      ],
+      "angular_velocity": [
+        1.17,
+        0.4,
+        -1.14
+      ],
+      "humidity": 49.57,
+      "pressure": 100597.59,
+      "received_timestamp": "2025-03-28T06:20:33.809919",
+      "temperature": 29.28,
+      "timestamp": "2025-03-28 13:20:33"
+    },
+    "-OMQPD8QgGztjabfXw35": {
+      "acceleration": [
+        4.72,
+        -1.01,
+        4.49
+      ],
+      "angular_velocity": [
+        1.03,
+        -1.14,
+        0.1
+      ],
+      "humidity": 49.97,
+      "pressure": 100582.77,
+      "received_timestamp": "2025-03-28T06:20:38.815274",
+      "temperature": 29.19,
+      "timestamp": "2025-03-28 13:20:38"
+    },
+    "-OMQPEMMbD1Lt-5BS-kO": {
+      "acceleration": [
+        2.74,
+        -3.31,
+        5.83
+      ],
+      "angular_velocity": [
+        1.65,
+        -0.77,
+        0.94
+      ],
+      "humidity": 49.92,
+      "pressure": 100588.05,
+      "received_timestamp": "2025-03-28T06:20:43.806086",
+      "temperature": 29.04,
+      "timestamp": "2025-03-28 13:20:43"
+    },
+    "-OMQPF_cc5F08GPeCNYR": {
+      "acceleration": [
+        -2.84,
+        0.67,
+        9.06
+      ],
+      "angular_velocity": [
+        -0.75,
+        -0.2,
+        -0.07
+      ],
+      "humidity": 49.84,
+      "pressure": 100590.92,
+      "received_timestamp": "2025-03-28T06:20:48.817264",
+      "temperature": 28.93,
+      "timestamp": "2025-03-28 13:20:48"
+    },
+    "-OMQPGnfa48apvSXANC3": {
+      "acceleration": [
+        2.51,
+        0.12,
+        9.97
+      ],
+      "angular_velocity": [
+        -0.18,
+        0.27,
+        -0.18
+      ],
+      "humidity": 50.23,
+      "pressure": 100579.27,
+      "received_timestamp": "2025-03-28T06:20:53.811992",
+      "temperature": 28.99,
+      "timestamp": "2025-03-28 13:20:53"
+    },
+    "-OMQPI1C9AuOWPyu9_gu": {
+      "acceleration": [
+        1.25,
+        5.84,
+        7.3
+      ],
+      "angular_velocity": [
+        -0.5,
+        -0.58,
+        1.09
+      ],
+      "humidity": 51.05,
+      "pressure": 100578.77,
+      "received_timestamp": "2025-03-28T06:20:58.832072",
+      "temperature": 29.01,
+      "timestamp": "2025-03-28 13:20:58"
+    },
+    "-OMQPJFFAFwuZMKuujgE": {
+      "acceleration": [
+        -2.87,
+        3.46,
+        13.72
+      ],
+      "angular_velocity": [
+        -0.26,
+        1.17,
+        -1.24
+      ],
+      "humidity": 50.47,
+      "pressure": 100578.3,
+      "received_timestamp": "2025-03-28T06:21:03.830002",
+      "temperature": 29.23,
+      "timestamp": "2025-03-28 13:21:03"
+    },
+    "-OMQPKTAiqmlUH7czgv6": {
+      "acceleration": [
+        0.98,
+        5.42,
+        7.86
+      ],
+      "angular_velocity": [
+        -0.26,
+        -2.35,
+        -1.68
+      ],
+      "humidity": 50.47,
+      "pressure": 100580.56,
+      "received_timestamp": "2025-03-28T06:21:08.827063",
+      "temperature": 28.99,
+      "timestamp": "2025-03-28 13:21:08"
+    },
+    "-OMQPLgu-xPdDZDznzDK": {
+      "acceleration": [
+        4.46,
+        1.85,
+        8.89
+      ],
+      "angular_velocity": [
+        -0.15,
+        0.05,
+        0.13
+      ],
+      "humidity": 50.97,
+      "pressure": 100582.89,
+      "received_timestamp": "2025-03-28T06:21:13.866843",
+      "temperature": 29.54,
+      "timestamp": "2025-03-28 13:21:13"
+    },
+    "-OMQPMutxgvo-lOp-TgV": {
+      "acceleration": [
+        4.06,
+        3.73,
+        7.04
+      ],
+      "angular_velocity": [
+        -0.89,
+        0.41,
+        0.6
+      ],
+      "humidity": 51.52,
+      "pressure": 100576.3,
+      "received_timestamp": "2025-03-28T06:21:18.848911",
+      "temperature": 29.88,
+      "timestamp": "2025-03-28 13:21:18"
+    },
+    "-OMQPO8LnyTsWlK-axIp": {
+      "acceleration": [
+        0.89,
+        -0.35,
+        5.15
+      ],
+      "angular_velocity": [
+        -0.51,
+        1.02,
+        -0.26
+      ],
+      "humidity": 51.49,
+      "pressure": 100579.36,
+      "received_timestamp": "2025-03-28T06:21:23.853948",
+      "temperature": 30.37,
+      "timestamp": "2025-03-28 13:21:23"
+    },
+    "-OMQPPMe2QG4HukE7zzC": {
+      "acceleration": [
+        7.38,
+        -1.04,
+        12.22
+      ],
+      "angular_velocity": [
+        0.52,
+        -0.56,
+        0.38
+      ],
+      "humidity": 51.6,
+      "pressure": 100587.06,
+      "received_timestamp": "2025-03-28T06:21:28.878020",
+      "temperature": 30.61,
+      "timestamp": "2025-03-28 13:21:28"
+    },
+    "-OMQPQ_V_-DNz7O6lOVj": {
+      "acceleration": [
+        -1,
+        3.13,
+        8.44
+      ],
+      "angular_velocity": [
+        -0.2,
+        0.12,
+        -0.23
+      ],
+      "humidity": 51.5,
+      "pressure": 100577.72,
+      "received_timestamp": "2025-03-28T06:21:33.862707",
+      "temperature": 30.76,
+      "timestamp": "2025-03-28 13:21:33"
+    },
+    "-OMQPRntAIVX2g3jmgzY": {
+      "acceleration": [
+        3.11,
+        1.73,
+        8.4
+      ],
+      "angular_velocity": [
+        -0.38,
+        0.41,
+        0.91
+      ],
+      "humidity": 51.22,
+      "pressure": 100579.02,
+      "received_timestamp": "2025-03-28T06:21:38.872078",
+      "temperature": 30.99,
+      "timestamp": "2025-03-28 13:21:38"
+    },
+    "-OMQPT15n3nrvln7CoCS": {
+      "acceleration": [
+        2.31,
+        2.46,
+        8.47
+      ],
+      "angular_velocity": [
+        -0.13,
+        0.65,
+        1.3
+      ],
+      "humidity": 51.33,
+      "pressure": 100571.13,
+      "received_timestamp": "2025-03-28T06:21:43.884701",
+      "temperature": 31.03,
+      "timestamp": "2025-03-28 13:21:43"
+    },
+    "-OMQPUFFSqC-7whjfJs2": {
+      "acceleration": [
+        4.94,
+        1.05,
+        9.3
+      ],
+      "angular_velocity": [
+        -0.64,
+        0.28,
+        1.19
+      ],
+      "humidity": 51.29,
+      "pressure": 100574.59,
+      "received_timestamp": "2025-03-28T06:21:48.893713",
+      "temperature": 31.25,
+      "timestamp": "2025-03-28 13:21:48"
+    },
+    "-OMQPVTXgoQXsCRO9xO8": {
+      "acceleration": [
+        5.88,
+        7.57,
+        2.05
+      ],
+      "angular_velocity": [
+        0.09,
+        -0.04,
+        -0.04
+      ],
+      "humidity": 51.66,
+      "pressure": 100573.27,
+      "received_timestamp": "2025-03-28T06:21:53.902926",
+      "temperature": 30.96,
+      "timestamp": "2025-03-28 13:21:53"
+    },
+    "-OMQPWgyYjhojlvK6bRG": {
+      "acceleration": [
+        1.06,
+        7.77,
+        5.82
+      ],
+      "angular_velocity": [
+        -0.06,
+        -0.33,
+        -0.32
+      ],
+      "humidity": 51.83,
+      "pressure": 100577.45,
+      "received_timestamp": "2025-03-28T06:21:58.918164",
+      "temperature": 31.19,
+      "timestamp": "2025-03-28 13:21:58"
+    },
+    "-OMQPXv5_jZaPJ857zWK": {
+      "acceleration": [
+        2.15,
+        6.36,
+        6.8
+      ],
+      "angular_velocity": [
+        -0.14,
+        -0.49,
+        -0.74
+      ],
+      "humidity": 51.72,
+      "pressure": 100574.3,
+      "received_timestamp": "2025-03-28T06:22:03.915737",
+      "temperature": 30.81,
+      "timestamp": "2025-03-28 13:22:03"
+    },
+    "-OMQPZ8UbWVjIgQhvXDI": {
+      "acceleration": [
+        -3.45,
+        5.45,
+        5.4
+      ],
+      "angular_velocity": [
+        -0.41,
+        0.31,
+        0.33
+      ],
+      "humidity": 51.91,
+      "pressure": 100573.96,
+      "received_timestamp": "2025-03-28T06:22:08.928736",
+      "temperature": 30.78,
+      "timestamp": "2025-03-28 13:22:08"
+    },
+    "-OMQP_Mm15CB-qrZrRtg": {
+      "acceleration": [
+        -2.58,
+        4.64,
+        7.83
+      ],
+      "angular_velocity": [
+        0.13,
+        -0.53,
+        0.03
+      ],
+      "humidity": 51.9,
+      "pressure": 100572.23,
+      "received_timestamp": "2025-03-28T06:22:13.949114",
+      "temperature": 30.48,
+      "timestamp": "2025-03-28 13:22:13"
+    },
+    "-OMQPa_pU_eXi6q12ADh": {
+      "acceleration": [
+        5.39,
+        1.15,
+        8.06
+      ],
+      "angular_velocity": [
+        -0.01,
+        -1.25,
+        -1.3
+      ],
+      "humidity": 51.86,
+      "pressure": 100575.75,
+      "received_timestamp": "2025-03-28T06:22:18.944802",
+      "temperature": 30.34,
+      "timestamp": "2025-03-28 13:22:18"
+    },
+    "-OMQPboD5w38lDOq3rU4": {
+      "acceleration": [
+        0.34,
+        0.3,
+        8.79
+      ],
+      "angular_velocity": [
+        -0.02,
+        0,
+        -0.05
+      ],
+      "humidity": 51.08,
+      "pressure": 100585.73,
+      "received_timestamp": "2025-03-28T06:22:23.956799",
+      "temperature": 30.48,
+      "timestamp": "2025-03-28 13:22:23"
+    },
+    "-OMQPd1UPTj96Dhbq-Z9": {
+      "acceleration": [
+        0.28,
+        0.48,
+        8.82
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.01,
+        -0.05
+      ],
+      "humidity": 51,
+      "pressure": 100586.34,
+      "received_timestamp": "2025-03-28T06:22:28.966757",
+      "temperature": 30.63,
+      "timestamp": "2025-03-28 13:22:28"
+    },
+    "-OMQPeF_fUiEBVEWn7_s": {
+      "acceleration": [
+        2.95,
+        0.31,
+        8.69
+      ],
+      "angular_velocity": [
+        -0.31,
+        0.7,
+        0.7
+      ],
+      "humidity": 51.49,
+      "pressure": 100575.69,
+      "received_timestamp": "2025-03-28T06:22:33.964026",
+      "temperature": 30.79,
+      "timestamp": "2025-03-28 13:22:33"
+    },
+    "-OMQPf_a7--xBHpAXLhS": {
+      "acceleration": [
+        -0.72,
+        6.73,
+        7.2
+      ],
+      "angular_velocity": [
+        -0.38,
+        0.06,
+        1.06
+      ],
+      "humidity": 51.52,
+      "pressure": 100572.25,
+      "received_timestamp": "2025-03-28T06:22:39.004106",
+      "temperature": 31.19,
+      "timestamp": "2025-03-28 13:22:38"
+    },
+    "-OMQPgi4I1_SGvfdTNlZ": {
+      "acceleration": [
+        -6.44,
+        2.9,
+        10.65
+      ],
+      "angular_velocity": [
+        -1.22,
+        -0.26,
+        -0.2
+      ],
+      "humidity": -28.97,
+      "pressure": 100725.39,
+      "received_timestamp": "2025-03-28T06:22:44.045601",
+      "temperature": 32.58,
+      "timestamp": "2025-03-28 13:22:43"
+    },
+    "-OMQPhwBd_PtTe2q_qC0": {
+      "acceleration": [
+        0.06,
+        6.86,
+        4.2
+      ],
+      "angular_velocity": [
+        0.9,
+        0.27,
+        -0.64
+      ],
+      "humidity": 13.23,
+      "pressure": 100972.25,
+      "received_timestamp": "2025-03-28T06:22:49.046292",
+      "temperature": 33.88,
+      "timestamp": "2025-03-28 13:22:48"
+    },
+    "-OMQPj8gK5ZQ23czrrE3": {
+      "acceleration": [
+        -1.35,
+        8.25,
+        2.8
+      ],
+      "angular_velocity": [
+        -0.22,
+        0.23,
+        -0.3
+      ],
+      "humidity": 20.2,
+      "pressure": 100670.05,
+      "received_timestamp": "2025-03-28T06:22:54.009805",
+      "temperature": 35.21,
+      "timestamp": "2025-03-28 13:22:53"
+    },
+    "-OMQPkO-GKCEYr_Hme1_": {
+      "acceleration": [
+        -1.67,
+        7.8,
+        4.14
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.02,
+        -0.07
+      ],
+      "humidity": 10.01,
+      "pressure": 100661.4,
+      "received_timestamp": "2025-03-28T06:22:59.076545",
+      "temperature": 36.5,
+      "timestamp": "2025-03-28 13:22:58"
+    },
+    "-OMQPlaT3ofa05dInUOz": {
+      "acceleration": [
+        -1.32,
+        7.79,
+        2.66
+      ],
+      "angular_velocity": [
+        0.09,
+        0.04,
+        0.23
+      ],
+      "humidity": -15.36,
+      "pressure": 100960.78,
+      "received_timestamp": "2025-03-28T06:23:04.040718",
+      "temperature": 37.63,
+      "timestamp": "2025-03-28 13:23:03"
+    },
+    "-OMQPmqb9IY5ifq6qdwc": {
+      "acceleration": [
+        -1.3,
+        7.35,
+        5.02
+      ],
+      "angular_velocity": [
+        -0.14,
+        0.12,
+        -0.02
+      ],
+      "humidity": -7.74,
+      "pressure": 100924.77,
+      "received_timestamp": "2025-03-28T06:23:09.168128",
+      "temperature": 38.31,
+      "timestamp": "2025-03-28 13:23:08"
+    },
+    "-OMQPo1ElscmjXznb35d": {
+      "acceleration": [
+        -3.22,
+        6.01,
+        5.67
+      ],
+      "angular_velocity": [
+        0.11,
+        0.01,
+        -0.36
+      ],
+      "humidity": 13.59,
+      "pressure": 100686.34,
+      "received_timestamp": "2025-03-28T06:23:14.010791",
+      "temperature": 38.85,
+      "timestamp": "2025-03-28 13:23:13"
+    },
+    "-OMQPpGpSKlGHOJpxTY6": {
+      "acceleration": [
+        -3.9,
+        7.26,
+        3.1
+      ],
+      "angular_velocity": [
+        -0.11,
+        0.19,
+        0.02
+      ],
+      "humidity": 29.35,
+      "pressure": 100661.95,
+      "received_timestamp": "2025-03-28T06:23:19.099522",
+      "temperature": 39.4,
+      "timestamp": "2025-03-28 13:23:18"
+    },
+    "-OMQPvNAIDnNHUvflLa3": {
+      "acceleration": [
+        -3.51,
+        7.49,
+        5.29
+      ],
+      "angular_velocity": [
+        -0.3,
+        -0.07,
+        0.02
+      ],
+      "humidity": 30.66,
+      "pressure": 100640.54,
+      "received_timestamp": "2025-03-28T06:23:44.074252",
+      "temperature": 40.58,
+      "timestamp": "2025-03-28 13:23:43"
+    },
+    "-OMQPwaAlItyaJbVRKdO": {
+      "acceleration": [
+        -4.93,
+        8.16,
+        3.45
+      ],
+      "angular_velocity": [
+        -0.31,
+        0.73,
+        -0.13
+      ],
+      "humidity": 1.74,
+      "pressure": 101480.45,
+      "received_timestamp": "2025-03-28T06:23:49.073906",
+      "temperature": 41.11,
+      "timestamp": "2025-03-28 13:23:48"
+    },
+    "-OMQPxoTcmaNAB1lizRB": {
+      "acceleration": [
+        -2.89,
+        7.53,
+        4.49
+      ],
+      "angular_velocity": [
+        -0.36,
+        0,
+        0.05
+      ],
+      "humidity": -6.04,
+      "pressure": 100786.04,
+      "received_timestamp": "2025-03-28T06:23:54.084355",
+      "temperature": 41.64,
+      "timestamp": "2025-03-28 13:23:53"
+    },
+    "-OMQPz1xLD0-ZGH4uE9E": {
+      "acceleration": [
+        -3.05,
+        6.85,
+        5.22
+      ],
+      "angular_velocity": [
+        0.05,
+        -0.29,
+        0.29
+      ],
+      "humidity": 5.62,
+      "pressure": 101062.28,
+      "received_timestamp": "2025-03-28T06:23:59.104020",
+      "temperature": 42.03,
+      "timestamp": "2025-03-28 13:23:58"
+    },
+    "-OMQQ-GDrQW0jSFv4DpY": {
+      "acceleration": [
+        -3.47,
+        6.49,
+        4.39
+      ],
+      "angular_velocity": [
+        0.29,
+        0.12,
+        0.15
+      ],
+      "humidity": 5.19,
+      "pressure": 100768.07,
+      "received_timestamp": "2025-03-28T06:24:04.113650",
+      "temperature": 42.54,
+      "timestamp": "2025-03-28 13:24:03"
+    },
+    "-OMQQ0UZ_788Xf1gR_vT": {
+      "acceleration": [
+        -4.03,
+        7.89,
+        3.23
+      ],
+      "angular_velocity": [
+        0.08,
+        -0.16,
+        0.14
+      ],
+      "humidity": 13.89,
+      "pressure": 100687.1,
+      "received_timestamp": "2025-03-28T06:24:09.133789",
+      "temperature": 43.1,
+      "timestamp": "2025-03-28 13:24:08"
+    },
+    "-OMQQ1hwChnm8ypD9Zh9": {
+      "acceleration": [
+        -4,
+        5.36,
+        4.94
+      ],
+      "angular_velocity": [
+        0.11,
+        0.09,
+        0.37
+      ],
+      "humidity": 4.83,
+      "pressure": 100839.28,
+      "received_timestamp": "2025-03-28T06:24:14.153799",
+      "temperature": 43.47,
+      "timestamp": "2025-03-28 13:24:13"
+    },
+    "-OMQQ2wWlCCIH_4U2Cav": {
+      "acceleration": [
+        -4.88,
+        5.91,
+        4.03
+      ],
+      "angular_velocity": [
+        -0.1,
+        0.54,
+        0.25
+      ],
+      "humidity": -31.79,
+      "pressure": 100850.89,
+      "received_timestamp": "2025-03-28T06:24:19.173681",
+      "temperature": 44.36,
+      "timestamp": "2025-03-28 13:24:18"
+    },
+    "-OMQQ49jICgz6ieAx2FO": {
+      "acceleration": [
+        -3.67,
+        7.24,
+        2.37
+      ],
+      "angular_velocity": [
+        0.05,
+        0.43,
+        0
+      ],
+      "humidity": 23.68,
+      "pressure": 100661.17,
+      "received_timestamp": "2025-03-28T06:24:24.183881",
+      "temperature": 44.29,
+      "timestamp": "2025-03-28 13:24:23"
+    },
+    "-OMQQ5NK4l1xK9lYSAx7": {
+      "acceleration": [
+        -3.81,
+        7.49,
+        2.69
+      ],
+      "angular_velocity": [
+        0.21,
+        0.08,
+        0.03
+      ],
+      "humidity": 16.07,
+      "pressure": 100631.92,
+      "received_timestamp": "2025-03-28T06:24:29.153654",
+      "temperature": 44.21,
+      "timestamp": "2025-03-28 13:24:28"
+    },
+    "-OMQQ6aWbyCCGGDKID58": {
+      "acceleration": [
+        -4.44,
+        6.04,
+        3.33
+      ],
+      "angular_velocity": [
+        0.4,
+        -0.32,
+        -0.29
+      ],
+      "humidity": -20.34,
+      "pressure": 100609.54,
+      "received_timestamp": "2025-03-28T06:24:34.153979",
+      "temperature": 44.23,
+      "timestamp": "2025-03-28 13:24:33"
+    },
+    "-OMQQ7p0_kVJPh62l4V4": {
+      "acceleration": [
+        -3.6,
+        6.81,
+        3.02
+      ],
+      "angular_velocity": [
+        -0.12,
+        0.19,
+        0.02
+      ],
+      "humidity": -30.14,
+      "pressure": 101429.07,
+      "received_timestamp": "2025-03-28T06:24:39.179437",
+      "temperature": 44.8,
+      "timestamp": "2025-03-28 13:24:38"
+    },
+    "-OMQQ929gNkdNpco9Guv": {
+      "acceleration": [
+        -3.25,
+        7.57,
+        3.31
+      ],
+      "angular_velocity": [
+        0.03,
+        0.12,
+        -0.02
+      ],
+      "humidity": -29.84,
+      "pressure": 101136.89,
+      "received_timestamp": "2025-03-28T06:24:44.169110",
+      "temperature": 45.45,
+      "timestamp": "2025-03-28 13:24:43"
+    },
+    "-OMQQAGKd7kVMKmauQmm": {
+      "acceleration": [
+        -3.54,
+        6.16,
+        5.11
+      ],
+      "angular_velocity": [
+        0.03,
+        -0.06,
+        0.08
+      ],
+      "humidity": 0.55,
+      "pressure": 100922.73,
+      "received_timestamp": "2025-03-28T06:24:49.179434",
+      "temperature": 45.91,
+      "timestamp": "2025-03-28 13:24:48"
+    },
+    "-OMQQBU_nuEznJ4z9ahw": {
+      "acceleration": [
+        -3.8,
+        7.32,
+        3.25
+      ],
+      "angular_velocity": [
+        -0.1,
+        0.04,
+        -0.06
+      ],
+      "humidity": 6.48,
+      "pressure": 100968.06,
+      "received_timestamp": "2025-03-28T06:24:54.188986",
+      "temperature": 46.44,
+      "timestamp": "2025-03-28 13:24:53"
+    },
+    "-OMQQChoZntsslNr5ySk": {
+      "acceleration": [
+        -3.26,
+        5.76,
+        5.26
+      ],
+      "angular_velocity": [
+        0.09,
+        0.16,
+        0.11
+      ],
+      "humidity": -12.37,
+      "pressure": 101160.3,
+      "received_timestamp": "2025-03-28T06:24:59.204458",
+      "temperature": 46.53,
+      "timestamp": "2025-03-28 13:24:58"
+    },
+    "-OMQQDw67EZbBrVHzB4O": {
+      "acceleration": [
+        -2.84,
+        6.19,
+        5.09
+      ],
+      "angular_velocity": [
+        0.12,
+        0.11,
+        0.28
+      ],
+      "humidity": 2.22,
+      "pressure": 100901.16,
+      "received_timestamp": "2025-03-28T06:25:04.209392",
+      "temperature": 46.8,
+      "timestamp": "2025-03-28 13:25:03"
+    },
+    "-OMQQF9Kl1SZX61r8psO": {
+      "acceleration": [
+        -4.68,
+        6.81,
+        4.62
+      ],
+      "angular_velocity": [
+        -0.08,
+        0.07,
+        -0.4
+      ],
+      "humidity": 4.05,
+      "pressure": 100908.66,
+      "received_timestamp": "2025-03-28T06:25:09.214406",
+      "temperature": 46.73,
+      "timestamp": "2025-03-28 13:25:08"
+    },
+    "-OMQQGNd35gqFwIn6A_7": {
+      "acceleration": [
+        -2.79,
+        7.25,
+        3.56
+      ],
+      "angular_velocity": [
+        -0.21,
+        0.48,
+        0.08
+      ],
+      "humidity": -17.09,
+      "pressure": 100925.61,
+      "received_timestamp": "2025-03-28T06:25:14.229210",
+      "temperature": 46.95,
+      "timestamp": "2025-03-28 13:25:13"
+    },
+    "-OMQQHa_13BZ5lImnqeq": {
+      "acceleration": [
+        -3.11,
+        5.76,
+        5.22
+      ],
+      "angular_velocity": [
+        0.32,
+        0.23,
+        -0.41
+      ],
+      "humidity": 0.64,
+      "pressure": 100939.88,
+      "received_timestamp": "2025-03-28T06:25:19.219786",
+      "temperature": 46.64,
+      "timestamp": "2025-03-28 13:25:18"
+    },
+    "-OMQQIov5CCRcC0T15o_": {
+      "acceleration": [
+        -2.85,
+        5.8,
+        7.35
+      ],
+      "angular_velocity": [
+        0.03,
+        -0.13,
+        -0.12
+      ],
+      "humidity": 33.54,
+      "pressure": 100551.66,
+      "received_timestamp": "2025-03-28T06:25:24.219459",
+      "temperature": 46.07,
+      "timestamp": "2025-03-28 13:25:23"
+    },
+    "-OMQQK2GlM2TI_MxCY-0": {
+      "acceleration": [
+        -4.51,
+        5.52,
+        4.2
+      ],
+      "angular_velocity": [
+        0.16,
+        -0.53,
+        -0.45
+      ],
+      "humidity": 32.89,
+      "pressure": 100580.59,
+      "received_timestamp": "2025-03-28T06:25:29.239344",
+      "temperature": 45.56,
+      "timestamp": "2025-03-28 13:25:28"
+    },
+    "-OMQQLGUbmQePPGKoKfp": {
+      "acceleration": [
+        -2.23,
+        5.88,
+        6.61
+      ],
+      "angular_velocity": [
+        -0.15,
+        -0.15,
+        0
+      ],
+      "humidity": -19.52,
+      "pressure": 100754.3,
+      "received_timestamp": "2025-03-28T06:25:34.243916",
+      "temperature": 45.42,
+      "timestamp": "2025-03-28 13:25:33"
+    },
+    "-OMQQMULomMaOCoAAbvL": {
+      "acceleration": [
+        -3.37,
+        5.76,
+        6.74
+      ],
+      "angular_velocity": [
+        -0.12,
+        0.11,
+        -0.23
+      ],
+      "humidity": -27.69,
+      "pressure": 100873.39,
+      "received_timestamp": "2025-03-28T06:25:39.233622",
+      "temperature": 46.22,
+      "timestamp": "2025-03-28 13:25:39"
+    },
+    "-OMQQNiCa7L2fIGYQWLA": {
+      "acceleration": [
+        -3.67,
+        4.38,
+        6.27
+      ],
+      "angular_velocity": [
+        0.35,
+        -0.47,
+        -0.99
+      ],
+      "humidity": 13.47,
+      "pressure": 100631.06,
+      "received_timestamp": "2025-03-28T06:25:44.273623",
+      "temperature": 46.97,
+      "timestamp": "2025-03-28 13:25:44"
+    },
+    "-OMQQOwT23KFLoYua-Lk": {
+      "acceleration": [
+        -3.28,
+        4.25,
+        7.16
+      ],
+      "angular_velocity": [
+        0.25,
+        -0.1,
+        -0.16
+      ],
+      "humidity": -36.11,
+      "pressure": 100693.78,
+      "received_timestamp": "2025-03-28T06:25:49.283813",
+      "temperature": 47.09,
+      "timestamp": "2025-03-28 13:25:49"
+    },
+    "-OMQQQ9oEu7x-MSPnGI4": {
+      "acceleration": [
+        -4.39,
+        4.76,
+        4.76
+      ],
+      "angular_velocity": [
+        0.44,
+        -0.14,
+        0.17
+      ],
+      "humidity": 30.72,
+      "pressure": 100592.02,
+      "received_timestamp": "2025-03-28T06:25:54.293666",
+      "temperature": 47.35,
+      "timestamp": "2025-03-28 13:25:54"
+    },
+    "-OMQQRNgZocVFjvc9cUV": {
+      "acceleration": [
+        -3.49,
+        5.14,
+        7.32
+      ],
+      "angular_velocity": [
+        0.59,
+        -0.32,
+        -0.57
+      ],
+      "humidity": 32.26,
+      "pressure": 100583.02,
+      "received_timestamp": "2025-03-28T06:25:59.283676",
+      "temperature": 47,
+      "timestamp": "2025-03-28 13:25:59"
+    },
+    "-OMQQSan9Nhk9r3PzofB": {
+      "acceleration": [
+        -3.94,
+        5.85,
+        3.59
+      ],
+      "angular_velocity": [
+        0.15,
+        0.21,
+        0.07
+      ],
+      "humidity": 2.51,
+      "pressure": 100793.34,
+      "received_timestamp": "2025-03-28T06:26:04.283965",
+      "temperature": 46.57,
+      "timestamp": "2025-03-28 13:26:04"
+    },
+    "-OMQQTovoDyXhsdFoR0U": {
+      "acceleration": [
+        -4.77,
+        6.43,
+        4.21
+      ],
+      "angular_velocity": [
+        0.23,
+        -0.03,
+        -0.09
+      ],
+      "humidity": -20.7,
+      "pressure": 100879.5,
+      "received_timestamp": "2025-03-28T06:26:09.283579",
+      "temperature": 46.84,
+      "timestamp": "2025-03-28 13:26:09"
+    },
+    "-OMQQV2LbnOJ6J59xmaZ": {
+      "acceleration": [
+        -5.09,
+        4.84,
+        5
+      ],
+      "angular_velocity": [
+        -0.43,
+        0.1,
+        -0.12
+      ],
+      "humidity": -33.28,
+      "pressure": 100722.99,
+      "received_timestamp": "2025-03-28T06:26:14.309240",
+      "temperature": 47,
+      "timestamp": "2025-03-28 13:26:14"
+    },
+    "-OMQQWGKMQAJtVhlPbpM": {
+      "acceleration": [
+        -1.77,
+        10.01,
+        -0.18
+      ],
+      "angular_velocity": [
+        0.11,
+        -0.07,
+        -0.19
+      ],
+      "humidity": -2.26,
+      "pressure": 100624.11,
+      "received_timestamp": "2025-03-28T06:26:19.298539",
+      "temperature": 46.8,
+      "timestamp": "2025-03-28 13:26:19"
+    },
+    "-OMQQXUm8uwqU-1ov95M": {
+      "acceleration": [
+        -0.79,
+        8.88,
+        0.65
+      ],
+      "angular_velocity": [
+        0.05,
+        0.39,
+        0.32
+      ],
+      "humidity": -10.44,
+      "pressure": 100777.62,
+      "received_timestamp": "2025-03-28T06:26:24.313896",
+      "temperature": 47.15,
+      "timestamp": "2025-03-28 13:26:24"
+    },
+    "-OMQQYi3bF7-BeuqpV4g": {
+      "acceleration": [
+        -3.76,
+        8.41,
+        1.37
+      ],
+      "angular_velocity": [
+        -0.04,
+        0.24,
+        0.1
+      ],
+      "humidity": -0.32,
+      "pressure": 100783.87,
+      "received_timestamp": "2025-03-28T06:26:29.333746",
+      "temperature": 47.17,
+      "timestamp": "2025-03-28 13:26:29"
+    },
+    "-OMQQZx5_XFUTapcoJjb": {
+      "acceleration": [
+        0.49,
+        11.3,
+        -0.95
+      ],
+      "angular_velocity": [
+        -0.69,
+        -0.75,
+        -0.11
+      ],
+      "humidity": 12.57,
+      "pressure": 100682.48,
+      "received_timestamp": "2025-03-28T06:26:34.373818",
+      "temperature": 47.17,
+      "timestamp": "2025-03-28 13:26:34"
+    },
+    "-OMQQaABv7L7IGK-hBfy": {
+      "acceleration": [
+        -2.51,
+        9.87,
+        -1.82
+      ],
+      "angular_velocity": [
+        -0.49,
+        -0.17,
+        -0.37
+      ],
+      "humidity": 1.32,
+      "pressure": 100898.8,
+      "received_timestamp": "2025-03-28T06:26:39.373653",
+      "temperature": 47.15,
+      "timestamp": "2025-03-28 13:26:39"
+    },
+    "-OMQQbOaKJQLz-OOVyAb": {
+      "acceleration": [
+        -0.6,
+        9.01,
+        -1
+      ],
+      "angular_velocity": [
+        -0.33,
+        0.26,
+        0.16
+      ],
+      "humidity": -10.06,
+      "pressure": 100810.17,
+      "received_timestamp": "2025-03-28T06:26:44.403705",
+      "temperature": 47.22,
+      "timestamp": "2025-03-28 13:26:44"
+    },
+    "-OMQQcbJMCPuSaWFz22F": {
+      "acceleration": [
+        -0.08,
+        9.32,
+        -0.43
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.4,
+        0.09
+      ],
+      "humidity": -4.74,
+      "pressure": 100855.86,
+      "received_timestamp": "2025-03-28T06:26:49.353905",
+      "temperature": 46.97,
+      "timestamp": "2025-03-28 13:26:49"
+    },
+    "-OMQQdowbTeRkAknlPiJ": {
+      "acceleration": [
+        -1.32,
+        9.92,
+        -0.6
+      ],
+      "angular_velocity": [
+        0.24,
+        0.17,
+        -0.25
+      ],
+      "humidity": -3.59,
+      "pressure": 100784.99,
+      "received_timestamp": "2025-03-28T06:26:54.339239",
+      "temperature": 47.75,
+      "timestamp": "2025-03-28 13:26:54"
+    },
+    "-OMQQf2dzi2TxdgFx7Le": {
+      "acceleration": [
+        -3.72,
+        9.56,
+        -0.79
+      ],
+      "angular_velocity": [
+        0.11,
+        0.45,
+        0.49
+      ],
+      "humidity": 27.82,
+      "pressure": 100592.38,
+      "received_timestamp": "2025-03-28T06:26:59.373624",
+      "temperature": 47.73,
+      "timestamp": "2025-03-28 13:26:59"
+    },
+    "-OMQQgGnZ51ratq70QKa": {
+      "acceleration": [
+        3.05,
+        4.21,
+        8.15
+      ],
+      "angular_velocity": [
+        0.68,
+        0.96,
+        0.18
+      ],
+      "humidity": 31.18,
+      "pressure": 100573.66,
+      "received_timestamp": "2025-03-28T06:27:04.383839",
+      "temperature": 47.53,
+      "timestamp": "2025-03-28 13:27:04"
+    },
+    "-OMQQhVAm3aXjrc1Fft6": {
+      "acceleration": [
+        -7.03,
+        5.39,
+        3.07
+      ],
+      "angular_velocity": [
+        -0.28,
+        0.16,
+        0.01
+      ],
+      "humidity": 32.19,
+      "pressure": 100566.44,
+      "received_timestamp": "2025-03-28T06:27:09.393810",
+      "temperature": 47.15,
+      "timestamp": "2025-03-28 13:27:09"
+    },
+    "-OMQQiiBz268fhdPvVhD": {
+      "acceleration": [
+        -5.19,
+        5.97,
+        3.29
+      ],
+      "angular_velocity": [
+        -0.01,
+        -0.03,
+        -0.12
+      ],
+      "humidity": 32.08,
+      "pressure": 100563.8,
+      "received_timestamp": "2025-03-28T06:27:14.388901",
+      "temperature": 46.73,
+      "timestamp": "2025-03-28 13:27:14"
+    },
+    "-OMQQjwMEoN6_g6AIXjy": {
+      "acceleration": [
+        -5.51,
+        5.29,
+        5.95
+      ],
+      "angular_velocity": [
+        -0.35,
+        -0.25,
+        0.43
+      ],
+      "humidity": 31.39,
+      "pressure": 100568.71,
+      "received_timestamp": "2025-03-28T06:27:19.393739",
+      "temperature": 46.69,
+      "timestamp": "2025-03-28 13:27:19"
+    },
+    "-OMQQl9o4Tgsxd0ZXZz1": {
+      "acceleration": [
+        -5.38,
+        5.09,
+        4.81
+      ],
+      "angular_velocity": [
+        -0.01,
+        0,
+        -0.04
+      ],
+      "humidity": 31.08,
+      "pressure": 100589.25,
+      "received_timestamp": "2025-03-28T06:27:24.413424",
+      "temperature": 46.62,
+      "timestamp": "2025-03-28 13:27:24"
+    },
+    "-OMQQmOMwJEF2_tzAqGn": {
+      "acceleration": [
+        -4.53,
+        4.64,
+        5.72
+      ],
+      "angular_velocity": [
+        -0.14,
+        0.07,
+        -0.13
+      ],
+      "humidity": 31.54,
+      "pressure": 100581.6,
+      "received_timestamp": "2025-03-28T06:27:29.444020",
+      "temperature": 46.66,
+      "timestamp": "2025-03-28 13:27:29"
+    },
+    "-OMQQnawNaeoezOkyjAi": {
+      "acceleration": [
+        -4.04,
+        7.82,
+        2.43
+      ],
+      "angular_velocity": [
+        -0.61,
+        0.4,
+        0.41
+      ],
+      "humidity": 32.15,
+      "pressure": 100562.05,
+      "received_timestamp": "2025-03-28T06:27:34.398603",
+      "temperature": 46.57,
+      "timestamp": "2025-03-28 13:27:34"
+    },
+    "-OMQQoq85UWd1scLsuL-": {
+      "acceleration": [
+        -4.14,
+        6.92,
+        3.01
+      ],
+      "angular_velocity": [
+        0.1,
+        -0.16,
+        -0.4
+      ],
+      "humidity": 32.43,
+      "pressure": 100564.11,
+      "received_timestamp": "2025-03-28T06:27:39.474195",
+      "temperature": 46.55,
+      "timestamp": "2025-03-28 13:27:39"
+    },
+    "-OMQQq3naSGxjxA-oiPo": {
+      "acceleration": [
+        -4.34,
+        7.28,
+        3.94
+      ],
+      "angular_velocity": [
+        0.06,
+        -0.25,
+        -0.06
+      ],
+      "humidity": 32.46,
+      "pressure": 100562.52,
+      "received_timestamp": "2025-03-28T06:27:44.514134",
+      "temperature": 46.51,
+      "timestamp": "2025-03-28 13:27:44"
+    },
+    "-OMQQrH2PsO8HaNan_Bi": {
+      "acceleration": [
+        -4.9,
+        6.61,
+        3.67
+      ],
+      "angular_velocity": [
+        -0.07,
+        0.04,
+        -0.06
+      ],
+      "humidity": 32.59,
+      "pressure": 100558.08,
+      "received_timestamp": "2025-03-28T06:27:49.453919",
+      "temperature": 46.53,
+      "timestamp": "2025-03-28 13:27:49"
+    },
+    "-OMQQsUtBNnZ4BA5u2Jg": {
+      "acceleration": [
+        -4.65,
+        6.61,
+        3.58
+      ],
+      "angular_velocity": [
+        -0.33,
+        0.55,
+        0.28
+      ],
+      "humidity": 32.49,
+      "pressure": 100568.55,
+      "received_timestamp": "2025-03-28T06:27:54.433655",
+      "temperature": 46.55,
+      "timestamp": "2025-03-28 13:27:54"
+    },
+    "-OMQQtiY9rkYAE3iO93O": {
+      "acceleration": [
+        -5.14,
+        6.42,
+        3.98
+      ],
+      "angular_velocity": [
+        -0.17,
+        0.05,
+        0
+      ],
+      "humidity": 32.58,
+      "pressure": 100559.08,
+      "received_timestamp": "2025-03-28T06:27:59.468832",
+      "temperature": 46.58,
+      "timestamp": "2025-03-28 13:27:59"
+    },
+    "-OMQQuwmLyTxrb_tzDQ8": {
+      "acceleration": [
+        -4.23,
+        6.32,
+        4.07
+      ],
+      "angular_velocity": [
+        -0.52,
+        0.57,
+        0.43
+      ],
+      "humidity": 32.21,
+      "pressure": 100562.97,
+      "received_timestamp": "2025-03-28T06:28:04.469047",
+      "temperature": 46.62,
+      "timestamp": "2025-03-28 13:28:04"
+    },
+    "-OMQQw9T8RZoIB-Cv-Xt": {
+      "acceleration": [
+        -5.21,
+        5.22,
+        4.18
+      ],
+      "angular_velocity": [
+        0.19,
+        -0.27,
+        -0.07
+      ],
+      "humidity": 31.93,
+      "pressure": 100571.02,
+      "received_timestamp": "2025-03-28T06:28:09.448950",
+      "temperature": 46.58,
+      "timestamp": "2025-03-28 13:28:09"
+    },
+    "-OMQQxOOHljJnqdbYVT_": {
+      "acceleration": [
+        -5.88,
+        4.26,
+        5.16
+      ],
+      "angular_velocity": [
+        -0.46,
+        0.24,
+        0.22
+      ],
+      "humidity": 32.01,
+      "pressure": 100592.22,
+      "received_timestamp": "2025-03-28T06:28:14.483957",
+      "temperature": 46.75,
+      "timestamp": "2025-03-28 13:28:14"
+    },
+    "-OMQQybVrTkkbh0vCcAU": {
+      "acceleration": [
+        -5.87,
+        6.37,
+        3.11
+      ],
+      "angular_velocity": [
+        0.29,
+        -1.27,
+        -0.83
+      ],
+      "humidity": 32,
+      "pressure": 100567.69,
+      "received_timestamp": "2025-03-28T06:28:19.493852",
+      "temperature": 46.58,
+      "timestamp": "2025-03-28 13:28:19"
+    },
+    "-OMQQzpN4QmaQn45s6fg": {
+      "acceleration": [
+        -2.99,
+        4.89,
+        5.48
+      ],
+      "angular_velocity": [
+        0.22,
+        -0.19,
+        -0.43
+      ],
+      "humidity": 32.63,
+      "pressure": 100560.21,
+      "received_timestamp": "2025-03-28T06:28:24.483914",
+      "temperature": 46.69,
+      "timestamp": "2025-03-28 13:28:24"
+    },
+    "-OMQR032yJWucBnNmfpp": {
+      "acceleration": [
+        -5.15,
+        3.67,
+        5.9
+      ],
+      "angular_velocity": [
+        0.15,
+        -0.09,
+        -0.22
+      ],
+      "humidity": 32.7,
+      "pressure": 100560.01,
+      "received_timestamp": "2025-03-28T06:28:29.513792",
+      "temperature": 46.62,
+      "timestamp": "2025-03-28 13:28:29"
+    },
+    "-OMQR1H-n8ctFUiGFutL": {
+      "acceleration": [
+        -5.21,
+        4.92,
+        5.24
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.2,
+        -0.29
+      ],
+      "humidity": 32.68,
+      "pressure": 100564.7,
+      "received_timestamp": "2025-03-28T06:28:34.503844",
+      "temperature": 46.66,
+      "timestamp": "2025-03-28 13:28:34"
+    },
+    "-OMQR2V2QR7hyCnR_FY6": {
+      "acceleration": [
+        -3.62,
+        4.6,
+        6.4
+      ],
+      "angular_velocity": [
+        -0.14,
+        0.07,
+        0.06
+      ],
+      "humidity": 32.05,
+      "pressure": 100563.66,
+      "received_timestamp": "2025-03-28T06:28:39.499116",
+      "temperature": 46.67,
+      "timestamp": "2025-03-28 13:28:39"
+    },
+    "-OMQR3iD3mSNizjVv4IU": {
+      "acceleration": [
+        -4.31,
+        4.42,
+        6.07
+      ],
+      "angular_velocity": [
+        -0.04,
+        0.05,
+        -0.01
+      ],
+      "humidity": 32.08,
+      "pressure": 100565.71,
+      "received_timestamp": "2025-03-28T06:28:44.503951",
+      "temperature": 46.62,
+      "timestamp": "2025-03-28 13:28:44"
+    },
+    "-OMQR4wcRAlqNVfMcByj": {
+      "acceleration": [
+        -5.51,
+        4.32,
+        6.19
+      ],
+      "angular_velocity": [
+        -0.49,
+        0.31,
+        -0.21
+      ],
+      "humidity": 31.84,
+      "pressure": 100559.16,
+      "received_timestamp": "2025-03-28T06:28:49.523745",
+      "temperature": 46.66,
+      "timestamp": "2025-03-28 13:28:49"
+    },
+    "-OMQR69qjjupEYmFvoN2": {
+      "acceleration": [
+        -3.06,
+        4.07,
+        6.37
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.14,
+        -0.73
+      ],
+      "humidity": -30.52,
+      "pressure": 100710.41,
+      "received_timestamp": "2025-03-28T06:28:54.523893",
+      "temperature": 47.55,
+      "timestamp": "2025-03-28 13:28:54"
+    },
+    "-OMQR7Nhyc-iVt6-9j6O": {
+      "acceleration": [
+        -5.19,
+        4.99,
+        9.81
+      ],
+      "angular_velocity": [
+        -0.39,
+        0.05,
+        -0.11
+      ],
+      "humidity": 30.83,
+      "pressure": 100563.73,
+      "received_timestamp": "2025-03-28T06:28:59.509254",
+      "temperature": 48.1,
+      "timestamp": "2025-03-28 13:28:59"
+    },
+    "-OMQR8ba7tEsQQaUDf1f": {
+      "acceleration": [
+        -3.53,
+        4.48,
+        4.81
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.03,
+        0.28
+      ],
+      "humidity": 30.59,
+      "pressure": 100562.29,
+      "received_timestamp": "2025-03-28T06:29:04.554566",
+      "temperature": 47.57,
+      "timestamp": "2025-03-28 13:29:04"
+    },
+    "-OMQR9q8J2WfBRIIVBWX": {
+      "acceleration": [
+        -3.5,
+        4.78,
+        6.41
+      ],
+      "angular_velocity": [
+        -0.18,
+        0.52,
+        0.52
+      ],
+      "humidity": 31.18,
+      "pressure": 100563.38,
+      "received_timestamp": "2025-03-28T06:29:09.584037",
+      "temperature": 47.5,
+      "timestamp": "2025-03-28 13:29:09"
+    },
+    "-OMQRB3o5UYVULby27CQ": {
+      "acceleration": [
+        -4.02,
+        4.52,
+        4.89
+      ],
+      "angular_velocity": [
+        0.41,
+        -0.13,
+        -0.68
+      ],
+      "humidity": 31.53,
+      "pressure": 100560.32,
+      "received_timestamp": "2025-03-28T06:29:14.623944",
+      "temperature": 47.31,
+      "timestamp": "2025-03-28 13:29:14"
+    },
+    "-OMQRCHXFNdUNmU-JXKt": {
+      "acceleration": [
+        -2.98,
+        8.19,
+        2.04
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.25,
+        -0.11
+      ],
+      "humidity": 30.7,
+      "pressure": 100565.92,
+      "received_timestamp": "2025-03-28T06:29:19.594118",
+      "temperature": 46.91,
+      "timestamp": "2025-03-28 13:29:19"
+    },
+    "-OMQRDblOFwGbRhwCNFb": {
+      "acceleration": [
+        -3.32,
+        8.69,
+        0.33
+      ],
+      "angular_velocity": [
+        0.33,
+        -0.54,
+        -0.71
+      ],
+      "humidity": 30.95,
+      "pressure": 100562.73,
+      "received_timestamp": "2025-03-28T06:29:24.574835",
+      "temperature": 46.77,
+      "timestamp": "2025-03-28 13:29:24"
+    },
+    "-OMQREibBDsBPHawWqho": {
+      "acceleration": [
+        -5.48,
+        4.03,
+        7.78
+      ],
+      "angular_velocity": [
+        -0.64,
+        -0.23,
+        0.22
+      ],
+      "humidity": 31.04,
+      "pressure": 100566.36,
+      "received_timestamp": "2025-03-28T06:29:29.583772",
+      "temperature": 46.82,
+      "timestamp": "2025-03-28 13:29:29"
+    },
+    "-OMQRFwg-nqz3_puCkU4": {
+      "acceleration": [
+        7.07,
+        3.11,
+        3.61
+      ],
+      "angular_velocity": [
+        -0.07,
+        1.04,
+        1.03
+      ],
+      "humidity": 32.12,
+      "pressure": 100576.03,
+      "received_timestamp": "2025-03-28T06:29:34.583919",
+      "temperature": 46.67,
+      "timestamp": "2025-03-28 13:29:34"
+    },
+    "-OMQRH9v2p_pmLAOA4hu": {
+      "acceleration": [
+        5.18,
+        4.81,
+        5.13
+      ],
+      "angular_velocity": [
+        0.02,
+        -0.31,
+        -0.15
+      ],
+      "humidity": 31.74,
+      "pressure": 100584.71,
+      "received_timestamp": "2025-03-28T06:29:39.584136",
+      "temperature": 46.47,
+      "timestamp": "2025-03-28 13:29:39"
+    },
+    "-OMQRIO6fHgDKJ8G-le4": {
+      "acceleration": [
+        6.64,
+        5.78,
+        4.54
+      ],
+      "angular_velocity": [
+        -0.12,
+        -0.19,
+        0.3
+      ],
+      "humidity": 31.65,
+      "pressure": 100594.7,
+      "received_timestamp": "2025-03-28T06:29:44.589011",
+      "temperature": 46.27,
+      "timestamp": "2025-03-28 13:29:44"
+    },
+    "-OMQRJbV-VF2NrMjap7B": {
+      "acceleration": [
+        7.2,
+        4.44,
+        3.66
+      ],
+      "angular_velocity": [
+        -0.3,
+        0.25,
+        -0.32
+      ],
+      "humidity": 31.81,
+      "pressure": 100572.84,
+      "received_timestamp": "2025-03-28T06:29:49.604168",
+      "temperature": 46.29,
+      "timestamp": "2025-03-28 13:29:49"
+    },
+    "-OMQRKpiUzHEA844OzjD": {
+      "acceleration": [
+        7.21,
+        5.32,
+        4.2
+      ],
+      "angular_velocity": [
+        -0.08,
+        0.19,
+        -0.04
+      ],
+      "humidity": 31.81,
+      "pressure": 100577.06,
+      "received_timestamp": "2025-03-28T06:29:54.608972",
+      "temperature": 46.36,
+      "timestamp": "2025-03-28 13:29:54"
+    },
+    "-OMQRM3A35VZ7fgDEU5-": {
+      "acceleration": [
+        5.15,
+        3.65,
+        5.07
+      ],
+      "angular_velocity": [
+        0.48,
+        -0.2,
+        -0.2
+      ],
+      "humidity": 32,
+      "pressure": 100568.56,
+      "received_timestamp": "2025-03-28T06:29:59.634000",
+      "temperature": 46.42,
+      "timestamp": "2025-03-28 13:29:59"
+    },
+    "-OMQRNGw97Q7JhKy6-GA": {
+      "acceleration": [
+        6.16,
+        5.87,
+        4.29
+      ],
+      "angular_velocity": [
+        -0.05,
+        0.04,
+        -0.05
+      ],
+      "humidity": 32.9,
+      "pressure": 100554.14,
+      "received_timestamp": "2025-03-28T06:30:04.609106",
+      "temperature": 46.44,
+      "timestamp": "2025-03-28 13:30:04"
+    },
+    "-OMQROVQxjGVEUsh9NTX": {
+      "acceleration": [
+        5.16,
+        5.58,
+        5.16
+      ],
+      "angular_velocity": [
+        0.39,
+        0.16,
+        0.39
+      ],
+      "humidity": 32.68,
+      "pressure": 100553.52,
+      "received_timestamp": "2025-03-28T06:30:09.634151",
+      "temperature": 46.51,
+      "timestamp": "2025-03-28 13:30:09"
+    },
+    "-OMQRPigfT_V2NjNIz7l": {
+      "acceleration": [
+        6.57,
+        3.97,
+        4.33
+      ],
+      "angular_velocity": [
+        -0.69,
+        -0.05,
+        -0.23
+      ],
+      "humidity": 32.47,
+      "pressure": 100551.79,
+      "received_timestamp": "2025-03-28T06:30:14.643892",
+      "temperature": 46.35,
+      "timestamp": "2025-03-28 13:30:14"
+    },
+    "-OMQRQwvDktjECQo-aj-": {
+      "acceleration": [
+        6.62,
+        5.06,
+        6.47
+      ],
+      "angular_velocity": [
+        0.92,
+        0.2,
+        -0.23
+      ],
+      "humidity": 12.31,
+      "pressure": 100618.09,
+      "received_timestamp": "2025-03-28T06:30:19.645986",
+      "temperature": 46.73,
+      "timestamp": "2025-03-28 13:30:19"
+    },
+    "-OMQRSAAmuN57o4kDTXb": {
+      "acceleration": [
+        6.08,
+        5.34,
+        3.98
+      ],
+      "angular_velocity": [
+        -0.46,
+        0.56,
+        0.17
+      ],
+      "humidity": 31.77,
+      "pressure": 100618.32,
+      "received_timestamp": "2025-03-28T06:30:24.655676",
+      "temperature": 46.95,
+      "timestamp": "2025-03-28 13:30:24"
+    },
+    "-OMQRTO8tkfgfljDZ1Bf": {
+      "acceleration": [
+        6.69,
+        5.33,
+        2.86
+      ],
+      "angular_velocity": [
+        -0.4,
+        0.7,
+        0.71
+      ],
+      "humidity": 31.96,
+      "pressure": 100567.78,
+      "received_timestamp": "2025-03-28T06:30:29.645956",
+      "temperature": 46.98,
+      "timestamp": "2025-03-28 13:30:29"
+    },
+    "-OMQRUbSiROnVB6nBR2i": {
+      "acceleration": [
+        6.77,
+        6.05,
+        5.19
+      ],
+      "angular_velocity": [
+        -0.35,
+        -0.14,
+        -0.32
+      ],
+      "humidity": 31.37,
+      "pressure": 100556.62,
+      "received_timestamp": "2025-03-28T06:30:34.665938",
+      "temperature": 46.97,
+      "timestamp": "2025-03-28 13:30:34"
+    },
+    "-OMQRVpehLS1pDeIDgjl": {
+      "acceleration": [
+        6.28,
+        2.67,
+        3.02
+      ],
+      "angular_velocity": [
+        -0.74,
+        -0.94,
+        -0.95
+      ],
+      "humidity": 15.86,
+      "pressure": 100619.69,
+      "received_timestamp": "2025-03-28T06:30:39.665830",
+      "temperature": 47,
+      "timestamp": "2025-03-28 13:30:39"
+    },
+    "-OMQRX2uTzQgm8YPhwl8": {
+      "acceleration": [
+        6.24,
+        6.43,
+        1.19
+      ],
+      "angular_velocity": [
+        -0.84,
+        0.18,
+        0.02
+      ],
+      "humidity": 31.87,
+      "pressure": 100583.41,
+      "received_timestamp": "2025-03-28T06:30:44.671320",
+      "temperature": 47.08,
+      "timestamp": "2025-03-28 13:30:44"
+    },
+    "-OMQRYHFmgDpUu4ip711": {
+      "acceleration": [
+        5.85,
+        6.05,
+        4.64
+      ],
+      "angular_velocity": [
+        0.16,
+        -0.13,
+        -0.13
+      ],
+      "humidity": 32.64,
+      "pressure": 100547.16,
+      "received_timestamp": "2025-03-28T06:30:49.685687",
+      "temperature": 47.09,
+      "timestamp": "2025-03-28 13:30:49"
+    },
+    "-OMQRZV5LJh1tfWjZYBa": {
+      "acceleration": [
+        5.54,
+        4.2,
+        3.4
+      ],
+      "angular_velocity": [
+        0.13,
+        -0.22,
+        0.25
+      ],
+      "humidity": 32.66,
+      "pressure": 100545.66,
+      "received_timestamp": "2025-03-28T06:30:54.670759",
+      "temperature": 46.98,
+      "timestamp": "2025-03-28 13:30:54"
+    },
+    "-OMQR_i6F5mXkM7lvIIZ": {
+      "acceleration": [
+        8.71,
+        6.39,
+        5.69
+      ],
+      "angular_velocity": [
+        0.07,
+        -0.28,
+        -0.04
+      ],
+      "humidity": 32.58,
+      "pressure": 100545.12,
+      "received_timestamp": "2025-03-28T06:30:59.670673",
+      "temperature": 47,
+      "timestamp": "2025-03-28 13:30:59"
+    },
+    "-OMQRawNg0NCM3KGmRoL": {
+      "acceleration": [
+        5.92,
+        4.6,
+        4.91
+      ],
+      "angular_velocity": [
+        0.1,
+        0.19,
+        0.1
+      ],
+      "humidity": 32.35,
+      "pressure": 100551.99,
+      "received_timestamp": "2025-03-28T06:31:04.670688",
+      "temperature": 46.95,
+      "timestamp": "2025-03-28 13:31:04"
+    },
+    "-OMQRcAEXsZZjNJ6NRZt": {
+      "acceleration": [
+        6.51,
+        7.39,
+        4.6
+      ],
+      "angular_velocity": [
+        -0.15,
+        0.22,
+        -0.01
+      ],
+      "humidity": 13.66,
+      "pressure": 100594.86,
+      "received_timestamp": "2025-03-28T06:31:09.715968",
+      "temperature": 47.4,
+      "timestamp": "2025-03-28 13:31:09"
+    },
+    "-OMQRdObwSGhSzgBxKSL": {
+      "acceleration": [
+        5.95,
+        5.88,
+        2.21
+      ],
+      "angular_velocity": [
+        -0.37,
+        0.14,
+        -0.43
+      ],
+      "humidity": 31.65,
+      "pressure": 100562.89,
+      "received_timestamp": "2025-03-28T06:31:14.730826",
+      "temperature": 47.46,
+      "timestamp": "2025-03-28 13:31:14"
+    },
+    "-OMQRec4Yf1RZSbxLdXF": {
+      "acceleration": [
+        6.92,
+        5.63,
+        3.9
+      ],
+      "angular_velocity": [
+        -0.05,
+        -0.05,
+        0.02
+      ],
+      "humidity": 31.72,
+      "pressure": 100548.75,
+      "received_timestamp": "2025-03-28T06:31:19.760790",
+      "temperature": 47.29,
+      "timestamp": "2025-03-28 13:31:19"
+    },
+    "-OMQRfpUuI1ySaSvj2gf": {
+      "acceleration": [
+        6.75,
+        8.72,
+        6
+      ],
+      "angular_velocity": [
+        0.2,
+        -0.31,
+        -0.76
+      ],
+      "humidity": 30.79,
+      "pressure": 100558.28,
+      "received_timestamp": "2025-03-28T06:31:24.706275",
+      "temperature": 47.24,
+      "timestamp": "2025-03-28 13:31:24"
+    },
+    "-OMQRh31Qorjipc0Rnz_": {
+      "acceleration": [
+        6.27,
+        5.4,
+        3.02
+      ],
+      "angular_velocity": [
+        -0.56,
+        -0.13,
+        -0.39
+      ],
+      "humidity": 29.82,
+      "pressure": 100553.2,
+      "received_timestamp": "2025-03-28T06:31:29.715914",
+      "temperature": 47.11,
+      "timestamp": "2025-03-28 13:31:29"
+    },
+    "-OMQRiGvqWVTgv8owf7F": {
+      "acceleration": [
+        5.73,
+        7.02,
+        5.44
+      ],
+      "angular_velocity": [
+        -0.04,
+        0.89,
+        -0.05
+      ],
+      "humidity": 10.73,
+      "pressure": 100612.6,
+      "received_timestamp": "2025-03-28T06:31:34.725930",
+      "temperature": 47.2,
+      "timestamp": "2025-03-28 13:31:34"
+    },
+    "-OMQRjV5gushzn9ie7Bg": {
+      "acceleration": [
+        7.75,
+        7.94,
+        3.99
+      ],
+      "angular_velocity": [
+        0.16,
+        -0.37,
+        -0.6
+      ],
+      "humidity": 15.57,
+      "pressure": 100608.12,
+      "received_timestamp": "2025-03-28T06:31:39.725681",
+      "temperature": 47.86,
+      "timestamp": "2025-03-28 13:31:39"
+    },
+    "-OMQRki7h_m3VGCMUUUf": {
+      "acceleration": [
+        4.79,
+        6.18,
+        5.58
+      ],
+      "angular_velocity": [
+        0.52,
+        0.36,
+        0.99
+      ],
+      "humidity": 10.18,
+      "pressure": 100690.91,
+      "received_timestamp": "2025-03-28T06:31:44.725688",
+      "temperature": 48.39,
+      "timestamp": "2025-03-28 13:31:44"
+    },
+    "-OMQRlwGkr32au9kRCB4": {
+      "acceleration": [
+        7.29,
+        6.95,
+        3.34
+      ],
+      "angular_velocity": [
+        0.32,
+        -0.58,
+        -0.17
+      ],
+      "humidity": 13.62,
+      "pressure": 100604.55,
+      "received_timestamp": "2025-03-28T06:31:49.725906",
+      "temperature": 48.9,
+      "timestamp": "2025-03-28 13:31:49"
+    },
+    "-OMQRnA-ET_HY9SN5l0J": {
+      "acceleration": [
+        8.6,
+        6.14,
+        5.86
+      ],
+      "angular_velocity": [
+        0.08,
+        0.05,
+        -0.62
+      ],
+      "humidity": 15.9,
+      "pressure": 100604.2,
+      "received_timestamp": "2025-03-28T06:31:54.755803",
+      "temperature": 49.3,
+      "timestamp": "2025-03-28 13:31:54"
+    },
+    "-OMQRoOlwVkaYI5r5OgI": {
+      "acceleration": [
+        6.27,
+        4.79,
+        3.88
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.05,
+        -0.23
+      ],
+      "humidity": 4.89,
+      "pressure": 100612.72,
+      "received_timestamp": "2025-03-28T06:31:59.785806",
+      "temperature": 49.72,
+      "timestamp": "2025-03-28 13:31:59"
+    },
+    "-OMQRpcBEIPvZzATBj8J": {
+      "acceleration": [
+        5.48,
+        6.85,
+        4.82
+      ],
+      "angular_velocity": [
+        0.16,
+        -0.01,
+        0
+      ],
+      "humidity": 27.77,
+      "pressure": 100543.57,
+      "received_timestamp": "2025-03-28T06:32:04.755897",
+      "temperature": 49.56,
+      "timestamp": "2025-03-28 13:32:04"
+    },
+    "-OMQRqq9D03g1pYBR9w1": {
+      "acceleration": [
+        5.07,
+        8.43,
+        3.62
+      ],
+      "angular_velocity": [
+        0.59,
+        0.24,
+        0.93
+      ],
+      "humidity": 30.41,
+      "pressure": 100535.89,
+      "received_timestamp": "2025-03-28T06:32:09.815718",
+      "temperature": 49.25,
+      "timestamp": "2025-03-28 13:32:09"
+    },
+    "-OMQRs3j7XH5RrsXnH_c": {
+      "acceleration": [
+        6.87,
+        5.96,
+        3.83
+      ],
+      "angular_velocity": [
+        0.22,
+        0.25,
+        0.79
+      ],
+      "humidity": 32.06,
+      "pressure": 100536.36,
+      "received_timestamp": "2025-03-28T06:32:14.835664",
+      "temperature": 48.99,
+      "timestamp": "2025-03-28 13:32:14"
+    },
+    "-OMQRtH2xBCD-n3Ogw-g": {
+      "acceleration": [
+        2.91,
+        0.17,
+        8.7
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.23,
+        0.02
+      ],
+      "humidity": 32,
+      "pressure": 100538.09,
+      "received_timestamp": "2025-03-28T06:32:19.785874",
+      "temperature": 48.7,
+      "timestamp": "2025-03-28 13:32:19"
+    },
+    "-OMQRuV2zWQVjyUagjTh": {
+      "acceleration": [
+        2.85,
+        0.24,
+        8.45
+      ],
+      "angular_velocity": [
+        -0.15,
+        -0.02,
+        -0.45
+      ],
+      "humidity": 32,
+      "pressure": 100537.1,
+      "received_timestamp": "2025-03-28T06:32:24.775657",
+      "temperature": 47.91,
+      "timestamp": "2025-03-28 13:32:24"
+    },
+    "-OMQRviRW-kScuvBDZAb": {
+      "acceleration": [
+        4.14,
+        0.86,
+        6.97
+      ],
+      "angular_velocity": [
+        0.05,
+        -0.42,
+        -0.01
+      ],
+      "humidity": 32.16,
+      "pressure": 100537.42,
+      "received_timestamp": "2025-03-28T06:32:29.796011",
+      "temperature": 47.53,
+      "timestamp": "2025-03-28 13:32:29"
+    },
+    "-OMQRwweRGzt6cWnZeAo": {
+      "acceleration": [
+        3.19,
+        0.37,
+        8.54
+      ],
+      "angular_velocity": [
+        -0.03,
+        0.01,
+        -0.04
+      ],
+      "humidity": 32.5,
+      "pressure": 100536.82,
+      "received_timestamp": "2025-03-28T06:32:34.806077",
+      "temperature": 47.5,
+      "timestamp": "2025-03-28 13:32:34"
+    },
+    "-OMQRyA1P74l1RoefI6V": {
+      "acceleration": [
+        2.9,
+        0.53,
+        7.86
+      ],
+      "angular_velocity": [
+        -0.05,
+        0.03,
+        -0.03
+      ],
+      "humidity": 32.77,
+      "pressure": 100539.84,
+      "received_timestamp": "2025-03-28T06:32:39.815818",
+      "temperature": 47.26,
+      "timestamp": "2025-03-28 13:32:39"
+    },
+    "-OMQRzOHPdhBiDg8p1Pb": {
+      "acceleration": [
+        3.04,
+        0.46,
+        8.59
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 32.94,
+      "pressure": 100537.61,
+      "received_timestamp": "2025-03-28T06:32:44.825758",
+      "temperature": 47.33,
+      "timestamp": "2025-03-28 13:32:44"
+    },
+    "-OMQS-c2fDfo4bgHsVjc": {
+      "acceleration": [
+        3.05,
+        0.45,
+        8.55
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 33.01,
+      "pressure": 100535.25,
+      "received_timestamp": "2025-03-28T06:32:49.830740",
+      "temperature": 47.17,
+      "timestamp": "2025-03-28 13:32:49"
+    },
+    "-OMQS0ptHe4fypUroCD5": {
+      "acceleration": [
+        3.04,
+        0.39,
+        8.49
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.05
+      ],
+      "humidity": 33.35,
+      "pressure": 100536.25,
+      "received_timestamp": "2025-03-28T06:32:54.846163",
+      "temperature": 47.24,
+      "timestamp": "2025-03-28 13:32:54"
+    },
+    "-OMQS22jWcAncUvaYGfv": {
+      "acceleration": [
+        2.99,
+        0.39,
+        8.44
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.03
+      ],
+      "humidity": 33.67,
+      "pressure": 100536.64,
+      "received_timestamp": "2025-03-28T06:32:59.830608",
+      "temperature": 47.29,
+      "timestamp": "2025-03-28 13:32:59"
+    },
+    "-OMQS3HVVQ7ZHjwjCzx2": {
+      "acceleration": [
+        2.89,
+        0.4,
+        8.46
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.05
+      ],
+      "humidity": 33.65,
+      "pressure": 100537.32,
+      "received_timestamp": "2025-03-28T06:33:04.870822",
+      "temperature": 47.11,
+      "timestamp": "2025-03-28 13:33:04"
+    },
+    "-OMQS4VTCaD98AEvKdAa": {
+      "acceleration": [
+        2.87,
+        0.35,
+        8.64
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.71,
+      "pressure": 100536.39,
+      "received_timestamp": "2025-03-28T06:33:09.860411",
+      "temperature": 47.31,
+      "timestamp": "2025-03-28 13:33:09"
+    },
+    "-OMQS5iZ-On6Ar6sk2wB": {
+      "acceleration": [
+        2.98,
+        0.4,
+        8.54
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.98,
+      "pressure": 100536.14,
+      "received_timestamp": "2025-03-28T06:33:14.865933",
+      "temperature": 47.44,
+      "timestamp": "2025-03-28 13:33:14"
+    },
+    "-OMQS6wf3ku_e6ivvbbv": {
+      "acceleration": [
+        2.92,
+        0.36,
+        8.62
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 34.04,
+      "pressure": 100536.42,
+      "received_timestamp": "2025-03-28T06:33:19.860716",
+      "temperature": 47.44,
+      "timestamp": "2025-03-28 13:33:19"
+    },
+    "-OMQS8AIV40xO77ce6aq": {
+      "acceleration": [
+        2.85,
+        0.41,
+        8.51
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 33.99,
+      "pressure": 100535.67,
+      "received_timestamp": "2025-03-28T06:33:24.890921",
+      "temperature": 47.37,
+      "timestamp": "2025-03-28 13:33:24"
+    },
+    "-OMQS9OgcTkUdRiSaM5a": {
+      "acceleration": [
+        2.94,
+        0.45,
+        8.61
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 34.04,
+      "pressure": 100538.27,
+      "received_timestamp": "2025-03-28T06:33:29.906070",
+      "temperature": 47.48,
+      "timestamp": "2025-03-28 13:33:29"
+    },
+    "-OMQSAbl4lUciXPKKqKC": {
+      "acceleration": [
+        3.64,
+        0.65,
+        9.12
+      ],
+      "angular_velocity": [
+        0.02,
+        0.06,
+        -0.07
+      ],
+      "humidity": 34.02,
+      "pressure": 100536.21,
+      "received_timestamp": "2025-03-28T06:33:34.900596",
+      "temperature": 47.59,
+      "timestamp": "2025-03-28 13:33:34"
+    },
+    "-OMQSBpwuOfd96rMO6ZN": {
+      "acceleration": [
+        2.94,
+        0.37,
+        8.71
+      ],
+      "angular_velocity": [
+        -0.04,
+        0,
+        -0.04
+      ],
+      "humidity": 33.92,
+      "pressure": 100533.58,
+      "received_timestamp": "2025-03-28T06:33:39.905961",
+      "temperature": 47.51,
+      "timestamp": "2025-03-28 13:33:39"
+    },
+    "-OMQSD3BzzCQXcXzmgm6": {
+      "acceleration": [
+        2.63,
+        0.17,
+        8.63
+      ],
+      "angular_velocity": [
+        -0.02,
+        -0.02,
+        -0.05
+      ],
+      "humidity": 33.8,
+      "pressure": 100539.95,
+      "received_timestamp": "2025-03-28T06:33:44.920784",
+      "temperature": 47.4,
+      "timestamp": "2025-03-28 13:33:44"
+    },
+    "-OMQSEHPyZXnTGZcEAlX": {
+      "acceleration": [
+        2.9,
+        0.58,
+        8.55
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.78,
+      "pressure": 100538.55,
+      "received_timestamp": "2025-03-28T06:33:49.921530",
+      "temperature": 47.55,
+      "timestamp": "2025-03-28 13:33:49"
+    },
+    "-OMQSFVfrVyvhDQgYIG0": {
+      "acceleration": [
+        2.92,
+        0.36,
+        8.61
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.7,
+      "pressure": 100536.42,
+      "received_timestamp": "2025-03-28T06:33:54.920529",
+      "temperature": 47.35,
+      "timestamp": "2025-03-28 13:33:54"
+    },
+    "-OMQSGidgy4mnBBOQZol": {
+      "acceleration": [
+        2.95,
+        0.44,
+        8.58
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.45,
+      "pressure": 100537.59,
+      "received_timestamp": "2025-03-28T06:33:59.925729",
+      "temperature": 47.02,
+      "timestamp": "2025-03-28 13:33:59"
+    },
+    "-OMQSHx6YX_E90CZG4Qb": {
+      "acceleration": [
+        2.86,
+        0.45,
+        8.72
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 33.35,
+      "pressure": 100535.98,
+      "received_timestamp": "2025-03-28T06:34:04.940565",
+      "temperature": 47.02,
+      "timestamp": "2025-03-28 13:34:04"
+    },
+    "-OMQSJAA2wm8nBbZ1n5q": {
+      "acceleration": [
+        2.84,
+        0.51,
+        8.63
+      ],
+      "angular_velocity": [
+        -0.04,
+        -0.01,
+        -0.02
+      ],
+      "humidity": 33.5,
+      "pressure": 100536.69,
+      "received_timestamp": "2025-03-28T06:34:09.941028",
+      "temperature": 46.98,
+      "timestamp": "2025-03-28 13:34:09"
+    },
+    "-OMQSKOhO0K_tFvrHCk0": {
+      "acceleration": [
+        2.72,
+        0.5,
+        8.61
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.67,
+      "pressure": 100537.33,
+      "received_timestamp": "2025-03-28T06:34:14.960723",
+      "temperature": 47.19,
+      "timestamp": "2025-03-28 13:34:14"
+    },
+    "-OMQSLbbzbdOl8W4l0MS": {
+      "acceleration": [
+        2.89,
+        0.49,
+        8.53
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 33.78,
+      "pressure": 100538.15,
+      "received_timestamp": "2025-03-28T06:34:19.950846",
+      "temperature": 47.4,
+      "timestamp": "2025-03-28 13:34:19"
+    },
+    "-OMQSMqF-N4Ns8PnJIAx": {
+      "acceleration": [
+        3.03,
+        0.49,
+        8.61
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.05
+      ],
+      "humidity": 33.93,
+      "pressure": 100536.73,
+      "received_timestamp": "2025-03-28T06:34:24.980982",
+      "temperature": 47.4,
+      "timestamp": "2025-03-28 13:34:24"
+    },
+    "-OMQSO4ItN9SfamU1-Nn": {
+      "acceleration": [
+        2.92,
+        0.45,
+        8.6
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 34.12,
+      "pressure": 100539.39,
+      "received_timestamp": "2025-03-28T06:34:30.031532",
+      "temperature": 47.55,
+      "timestamp": "2025-03-28 13:34:29"
+    },
+    "-OMQx3FA50HoHdoHyW_2": {
+      "acceleration": [
+        -6.88,
+        5.71,
+        0.92
+      ],
+      "angular_velocity": [
+        0.12,
+        -0.11,
+        -0.05
+      ],
+      "humidity": 57.86,
+      "pressure": 100356.89,
+      "received_timestamp": "2025-03-28T08:52:53.225829",
+      "temperature": 33.44,
+      "timestamp": "2025-03-28 15:52:52"
+    },
+    "-OMQx4OnzKtk_ig8ppph": {
+      "acceleration": [
+        -6.86,
+        6.11,
+        0.62
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.02,
+        -0.07
+      ],
+      "humidity": 57.62,
+      "pressure": 100355.33,
+      "received_timestamp": "2025-03-28T08:52:58.038142",
+      "temperature": 33.66,
+      "timestamp": "2025-03-28 15:52:57"
+    },
+    "-OMQx5buE3x0w2_7-vVK": {
+      "acceleration": [
+        -6.8,
+        6.32,
+        0.84
+      ],
+      "angular_velocity": [
+        -0.07,
+        -0.06,
+        -0.03
+      ],
+      "humidity": 57.47,
+      "pressure": 100352.79,
+      "received_timestamp": "2025-03-28T08:53:03.030760",
+      "temperature": 33.78,
+      "timestamp": "2025-03-28 15:53:02"
+    },
+    "-OMQx6qAdtU8BBnA4VnG": {
+      "acceleration": [
+        -6.67,
+        6.55,
+        0.36
+      ],
+      "angular_velocity": [
+        -0.06,
+        0.04,
+        -0.01
+      ],
+      "humidity": 57.34,
+      "pressure": 100356.05,
+      "received_timestamp": "2025-03-28T08:53:08.042780",
+      "temperature": 34,
+      "timestamp": "2025-03-28 15:53:07"
+    },
+    "-OMQx82ycjDBZitEJZaK": {
+      "acceleration": [
+        -6.85,
+        6.18,
+        0.75
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.05
+      ],
+      "humidity": 57.11,
+      "pressure": 100356.06,
+      "received_timestamp": "2025-03-28T08:53:13.032273",
+      "temperature": 34.11,
+      "timestamp": "2025-03-28 15:53:12"
+    },
+    "-OMQx9HO7JmqgUHpFjsO": {
+      "acceleration": [
+        -6.67,
+        6.42,
+        0.33
+      ],
+      "angular_velocity": [
+        0.03,
+        0.12,
+        -0.03
+      ],
+      "humidity": 56.95,
+      "pressure": 100356.38,
+      "received_timestamp": "2025-03-28T08:53:18.050510",
+      "temperature": 34.29,
+      "timestamp": "2025-03-28 15:53:17"
+    },
+    "-OMQxAVaBCBb7fKYEC9E": {
+      "acceleration": [
+        -6.67,
+        6.38,
+        0.36
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.03,
+        -0.04
+      ],
+      "humidity": 56.79,
+      "pressure": 100355.56,
+      "received_timestamp": "2025-03-28T08:53:23.047783",
+      "temperature": 34.48,
+      "timestamp": "2025-03-28 15:53:22"
+    },
+    "-OMQxBiqXi5N_LV4MrHO": {
+      "acceleration": [
+        -6.8,
+        6.29,
+        0.56
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.07,
+        -0.01
+      ],
+      "humidity": 56.56,
+      "pressure": 100350.91,
+      "received_timestamp": "2025-03-28T08:53:28.061761",
+      "temperature": 34.62,
+      "timestamp": "2025-03-28 15:53:27"
+    },
+    "-OMQxCx84iJ8-nN786MD": {
+      "acceleration": [
+        -6.67,
+        6.35,
+        0.62
+      ],
+      "angular_velocity": [
+        -0.06,
+        0.04,
+        -0.02
+      ],
+      "humidity": 56.38,
+      "pressure": 100354.38,
+      "received_timestamp": "2025-03-28T08:53:33.067977",
+      "temperature": 34.7,
+      "timestamp": "2025-03-28 15:53:32"
+    },
+    "-OMQxEAbqxmKL_13owHx": {
+      "acceleration": [
+        -6.74,
+        6.34,
+        0.53
+      ],
+      "angular_velocity": [
+        0,
+        -0.06,
+        -0.06
+      ],
+      "humidity": 56.23,
+      "pressure": 100352.69,
+      "received_timestamp": "2025-03-28T08:53:38.068814",
+      "temperature": 34.9,
+      "timestamp": "2025-03-28 15:53:37"
+    },
+    "-OMQxFOcic3sSk1zlMgR": {
+      "acceleration": [
+        -6.73,
+        6.31,
+        0.66
+      ],
+      "angular_velocity": [
+        -0.07,
+        -0.03,
+        -0.04
+      ],
+      "humidity": 56.07,
+      "pressure": 100356.33,
+      "received_timestamp": "2025-03-28T08:53:43.088862",
+      "temperature": 34.99,
+      "timestamp": "2025-03-28 15:53:42"
+    },
+    "-OMQxGbUV6cJomNCRLWj": {
+      "acceleration": [
+        -6.59,
+        6.34,
+        0.75
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.03,
+        -0.02
+      ],
+      "humidity": 55.91,
+      "pressure": 100351.14,
+      "received_timestamp": "2025-03-28T08:53:48.074535",
+      "temperature": 35.21,
+      "timestamp": "2025-03-28 15:53:47"
+    },
+    "-OMQxHq7ltGmCnJgGodf": {
+      "acceleration": [
+        -6.77,
+        6.36,
+        0.7
+      ],
+      "angular_velocity": [
+        -0.02,
+        0.02,
+        -0.04
+      ],
+      "humidity": 55.76,
+      "pressure": 100352.45,
+      "received_timestamp": "2025-03-28T08:53:53.094625",
+      "temperature": 35.3,
+      "timestamp": "2025-03-28 15:53:52"
+    },
+    "-OMQxJ3A-dn8oqSed5P3": {
+      "acceleration": [
+        -6.58,
+        6.47,
+        0.45
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.03,
+        -0.09
+      ],
+      "humidity": 55.55,
+      "pressure": 100353.23,
+      "received_timestamp": "2025-03-28T08:53:58.095222",
+      "temperature": 35.41,
+      "timestamp": "2025-03-28 15:53:57"
+    },
+    "-OMQxKHS4ahGtv4NEYAy": {
+      "acceleration": [
+        -6.67,
+        6.42,
+        0.4
+      ],
+      "angular_velocity": [
+        -0.04,
+        -0.02,
+        -0.04
+      ],
+      "humidity": 55.49,
+      "pressure": 100351.34,
+      "received_timestamp": "2025-03-28T08:54:03.106000",
+      "temperature": 35.57,
+      "timestamp": "2025-03-28 15:54:02"
+    },
+    "-OMQxLVVKH4uViiBDA9_": {
+      "acceleration": [
+        -9,
+        -3.18,
+        -1.71
+      ],
+      "angular_velocity": [
+        1.11,
+        0.64,
+        0.45
+      ],
+      "humidity": 55.33,
+      "pressure": 100349.55,
+      "received_timestamp": "2025-03-28T08:54:08.104775",
+      "temperature": 35.72,
+      "timestamp": "2025-03-28 15:54:07"
+    },
+    "-OMQxMj0VvR-4fA-ydoA": {
+      "acceleration": [
+        3.15,
+        -8.33,
+        6.05
+      ],
+      "angular_velocity": [
+        0.46,
+        -0.63,
+        -0.79
+      ],
+      "humidity": 55.12,
+      "pressure": 100354.62,
+      "received_timestamp": "2025-03-28T08:54:13.124668",
+      "temperature": 35.83,
+      "timestamp": "2025-03-28 15:54:12"
+    },
+    "-OMQxNwtzl-06TltWmZK": {
+      "acceleration": [
+        9.71,
+        0.28,
+        1.13
+      ],
+      "angular_velocity": [
+        0.94,
+        -0.3,
+        0.36
+      ],
+      "humidity": 54.82,
+      "pressure": 100351.39,
+      "received_timestamp": "2025-03-28T08:54:18.115062",
+      "temperature": 35.97,
+      "timestamp": "2025-03-28 15:54:17"
+    },
+    "-OMQxPALa9h8R4dQyFz0": {
+      "acceleration": [
+        8.25,
+        -2.49,
+        3.64
+      ],
+      "angular_velocity": [
+        -0.84,
+        -0.12,
+        -0.71
+      ],
+      "humidity": 54.56,
+      "pressure": 100346.85,
+      "received_timestamp": "2025-03-28T08:54:23.133740",
+      "temperature": 36.06,
+      "timestamp": "2025-03-28 15:54:22"
+    },
+    "-OMQxQOo0zE4h_gFA-M7": {
+      "acceleration": [
+        9.79,
+        1.24,
+        2.74
+      ],
+      "angular_velocity": [
+        -0.11,
+        -0.17,
+        -0.04
+      ],
+      "humidity": 54.36,
+      "pressure": 100341.41,
+      "received_timestamp": "2025-03-28T08:54:28.153800",
+      "temperature": 36.19,
+      "timestamp": "2025-03-28 15:54:27"
+    },
+    "-OMQxRby2deVFHDdsRTL": {
+      "acceleration": [
+        1.3,
+        3.22,
+        9.03
+      ],
+      "angular_velocity": [
+        0.44,
+        0.33,
+        0.4
+      ],
+      "humidity": 54.19,
+      "pressure": 100346.15,
+      "received_timestamp": "2025-03-28T08:54:33.141800",
+      "temperature": 36.3,
+      "timestamp": "2025-03-28 15:54:32"
+    },
+    "-OMQxSqR9-5-7j8Xbs6h": {
+      "acceleration": [
+        -2.39,
+        3.16,
+        6.94
+      ],
+      "angular_velocity": [
+        -0.44,
+        -0.14,
+        0.34
+      ],
+      "humidity": 53.99,
+      "pressure": 100341.51,
+      "received_timestamp": "2025-03-28T08:54:38.168103",
+      "temperature": 36.43,
+      "timestamp": "2025-03-28 15:54:37"
+    },
+    "-OMQxU3KRmdCI7S2RCNf": {
+      "acceleration": [
+        6,
+        1.5,
+        3.37
+      ],
+      "angular_velocity": [
+        -1.22,
+        -0.01,
+        -1.86
+      ],
+      "humidity": 53.85,
+      "pressure": 100340.64,
+      "received_timestamp": "2025-03-28T08:54:43.160666",
+      "temperature": 36.52,
+      "timestamp": "2025-03-28 15:54:42"
+    },
+    "-OMQxVHdDZ9RyWixACO1": {
+      "acceleration": [
+        5.43,
+        0.91,
+        6.92
+      ],
+      "angular_velocity": [
+        0.21,
+        -0.85,
+        2.01
+      ],
+      "humidity": 53.72,
+      "pressure": 100343.53,
+      "received_timestamp": "2025-03-28T08:54:48.175168",
+      "temperature": 36.65,
+      "timestamp": "2025-03-28 15:54:47"
+    },
+    "-OMQxWVmiaC7C2_ZzcJ0": {
+      "acceleration": [
+        -1.12,
+        -0.33,
+        -1.63
+      ],
+      "angular_velocity": [
+        3.51,
+        3.34,
+        -3.15
+      ],
+      "humidity": 53.57,
+      "pressure": 100328.59,
+      "received_timestamp": "2025-03-28T08:54:53.178204",
+      "temperature": 36.68,
+      "timestamp": "2025-03-28 15:54:52"
+    },
+    "-OMQxXjNfOLEUNAnWCBr": {
+      "acceleration": [
+        -7.6,
+        -2.83,
+        -6.17
+      ],
+      "angular_velocity": [
+        -0.01,
+        1.05,
+        -0.47
+      ],
+      "humidity": 53.37,
+      "pressure": 100342.77,
+      "received_timestamp": "2025-03-28T08:54:58.201613",
+      "temperature": 36.74,
+      "timestamp": "2025-03-28 15:54:57"
+    },
+    "-OMQxYxHaijmV8KUErkO": {
+      "acceleration": [
+        8.19,
+        -3.38,
+        -1.25
+      ],
+      "angular_velocity": [
+        -0.17,
+        -0.33,
+        -0.78
+      ],
+      "humidity": 53.04,
+      "pressure": 100346.55,
+      "received_timestamp": "2025-03-28T08:55:03.188072",
+      "temperature": 36.85,
+      "timestamp": "2025-03-28 15:55:02"
+    },
+    "-OMQx_ARiwpJfmKSsnEM": {
+      "acceleration": [
+        11.03,
+        -0.34,
+        -3.6
+      ],
+      "angular_velocity": [
+        -2.05,
+        0.95,
+        1.13
+      ],
+      "humidity": 52.74,
+      "pressure": 100336.99,
+      "received_timestamp": "2025-03-28T08:55:08.199173",
+      "temperature": 36.97,
+      "timestamp": "2025-03-28 15:55:07"
+    },
+    "-OMQxaOc5UgCG8nEUfMK": {
+      "acceleration": [
+        9.13,
+        -1.06,
+        -3.26
+      ],
+      "angular_velocity": [
+        0.3,
+        0.56,
+        -0.42
+      ],
+      "humidity": 52.68,
+      "pressure": 100325.62,
+      "received_timestamp": "2025-03-28T08:55:13.204083",
+      "temperature": 37.07,
+      "timestamp": "2025-03-28 15:55:12"
+    },
+    "-OMQxbbtLVWraIlT5Vgb": {
+      "acceleration": [
+        -6.04,
+        -4.33,
+        -9.12
+      ],
+      "angular_velocity": [
+        -3.74,
+        -4.37,
+        4.37
+      ],
+      "humidity": 52.65,
+      "pressure": 100313.38,
+      "received_timestamp": "2025-03-28T08:55:18.216088",
+      "temperature": 37.12,
+      "timestamp": "2025-03-28 15:55:17"
+    },
+    "-OMQxcq7nG2K0JFBnon0": {
+      "acceleration": [
+        0.63,
+        3.73,
+        8.13
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.04
+      ],
+      "humidity": 50.94,
+      "pressure": 100323.43,
+      "received_timestamp": "2025-03-28T08:55:23.213180",
+      "temperature": 37.32,
+      "timestamp": "2025-03-28 15:55:22"
+    },
+    "-OMQxe3oqU2LbaB_XewG": {
+      "acceleration": [
+        -5,
+        5.57,
+        14.31
+      ],
+      "angular_velocity": [
+        0.6,
+        -0.34,
+        -2.71
+      ],
+      "humidity": 49.76,
+      "pressure": 100320.59,
+      "received_timestamp": "2025-03-28T08:55:28.244915",
+      "temperature": 37.45,
+      "timestamp": "2025-03-28 15:55:27"
+    },
+    "-OMQxfHk5kuOEWw8HZUp": {
+      "acceleration": [
+        -4.37,
+        8.47,
+        3.16
+      ],
+      "angular_velocity": [
+        -0.58,
+        -0.06,
+        0.68
+      ],
+      "humidity": 50.46,
+      "pressure": 100302.31,
+      "received_timestamp": "2025-03-28T08:55:33.237813",
+      "temperature": 37.5,
+      "timestamp": "2025-03-28 15:55:33"
+    },
+    "-OMQxgVrY346Bxfo-WeB": {
+      "acceleration": [
+        4,
+        0.92,
+        -10.1
+      ],
+      "angular_velocity": [
+        -0.32,
+        2.37,
+        0.76
+      ],
+      "humidity": 51.87,
+      "pressure": 100301.59,
+      "received_timestamp": "2025-03-28T08:55:38.237321",
+      "temperature": 37.65,
+      "timestamp": "2025-03-28 15:55:38"
+    },
+    "-OMQxhjGTPPMLoowS1Wt": {
+      "acceleration": [
+        -9.16,
+        -3.28,
+        -3.12
+      ],
+      "angular_velocity": [
+        -0.48,
+        0.59,
+        -0.01
+      ],
+      "humidity": 51.01,
+      "pressure": 100324.21,
+      "received_timestamp": "2025-03-28T08:55:43.258184",
+      "temperature": 37.69,
+      "timestamp": "2025-03-28 15:55:43"
+    },
+    "-OMQxixF4hHt0PdxNKfu": {
+      "acceleration": [
+        -8.1,
+        0.87,
+        6.37
+      ],
+      "angular_velocity": [
+        -0.63,
+        -0.08,
+        0.38
+      ],
+      "humidity": 49.64,
+      "pressure": 100316.16,
+      "received_timestamp": "2025-03-28T08:55:48.255784",
+      "temperature": 37.78,
+      "timestamp": "2025-03-28 15:55:48"
+    },
+    "-OMQxkA__xtaUsPT2vy_": {
+      "acceleration": [
+        -1.67,
+        1.96,
+        7.95
+      ],
+      "angular_velocity": [
+        -0.38,
+        0.07,
+        0.36
+      ],
+      "humidity": 51.57,
+      "pressure": 100296.17,
+      "received_timestamp": "2025-03-28T08:55:53.258640",
+      "temperature": 37.92,
+      "timestamp": "2025-03-28 15:55:53"
+    },
+    "-OMQxlOuS7vdwdvdOU8K": {
+      "acceleration": [
+        -4.81,
+        6.17,
+        4.78
+      ],
+      "angular_velocity": [
+        -0.79,
+        1.76,
+        -1.28
+      ],
+      "humidity": 51.2,
+      "pressure": 100297.12,
+      "received_timestamp": "2025-03-28T08:55:58.273800",
+      "temperature": 38.03,
+      "timestamp": "2025-03-28 15:55:58"
+    },
+    "-OMQxmcXJFQJPxFrSU31": {
+      "acceleration": [
+        7.61,
+        -1.37,
+        -7.64
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 51.4,
+      "pressure": 100323.2,
+      "received_timestamp": "2025-03-28T08:56:03.287129",
+      "temperature": 38.09,
+      "timestamp": "2025-03-28 15:56:03"
+    },
+    "-OMQxnqJY38_-qvw_5Gk": {
+      "acceleration": [
+        -11.51,
+        -1.97,
+        -6.46
+      ],
+      "angular_velocity": [
+        -4.37,
+        -3.04,
+        4.37
+      ],
+      "humidity": 50.54,
+      "pressure": 100350.41,
+      "received_timestamp": "2025-03-28T08:56:08.285786",
+      "temperature": 38.11,
+      "timestamp": "2025-03-28 15:56:08"
+    },
+    "-OMQxp3uWPlnjS-yutGW": {
+      "acceleration": [
+        12.74,
+        2.02,
+        0.82
+      ],
+      "angular_velocity": [
+        -0.55,
+        0.09,
+        0.2
+      ],
+      "humidity": 50.99,
+      "pressure": 100313.31,
+      "received_timestamp": "2025-03-28T08:56:13.316043",
+      "temperature": 38.11,
+      "timestamp": "2025-03-28 15:56:13"
+    },
+    "-OMQxqHnmpZxukcCiGwF": {
+      "acceleration": [
+        -8.18,
+        -0.28,
+        -6.62
+      ],
+      "angular_velocity": [
+        0.82,
+        2.01,
+        -0.81
+      ],
+      "humidity": 50.67,
+      "pressure": 100299.61,
+      "received_timestamp": "2025-03-28T08:56:18.299407",
+      "temperature": 38.27,
+      "timestamp": "2025-03-28 15:56:18"
+    },
+    "-OMQxrW-z1YP22gTAGly": {
+      "acceleration": [
+        -2.24,
+        -1.95,
+        -7.59
+      ],
+      "angular_velocity": [
+        0.23,
+        -0.65,
+        0.91
+      ],
+      "humidity": 49.4,
+      "pressure": 100299.31,
+      "received_timestamp": "2025-03-28T08:56:23.307797",
+      "temperature": 38.31,
+      "timestamp": "2025-03-28 15:56:23"
+    },
+    "-OMQxt6N9P8JDG11-DIu": {
+      "acceleration": [
+        5.14,
+        0.32,
+        6.7
+      ],
+      "angular_velocity": [
+        0.63,
+        -0.06,
+        -0.4
+      ],
+      "humidity": 50.61,
+      "pressure": 100302.17,
+      "received_timestamp": "2025-03-28T08:56:29.847858",
+      "temperature": 38.47,
+      "timestamp": "2025-03-28 15:56:28"
+    },
+    "-OMQxtxwOuZOS9ZpFa-t": {
+      "acceleration": [
+        -8.08,
+        1.51,
+        5.28
+      ],
+      "angular_velocity": [
+        -0.83,
+        -0.9,
+        -0.92
+      ],
+      "humidity": 49.54,
+      "pressure": 100300.81,
+      "received_timestamp": "2025-03-28T08:56:33.355623",
+      "temperature": 38.56,
+      "timestamp": "2025-03-28 15:56:33"
+    },
+    "-OMQxvAnzL8rjFZ9T7Jr": {
+      "acceleration": [
+        -7.11,
+        3.79,
+        3.14
+      ],
+      "angular_velocity": [
+        0.2,
+        -0.13,
+        -0.22
+      ],
+      "humidity": 49.69,
+      "pressure": 100302.86,
+      "received_timestamp": "2025-03-28T08:56:38.333922",
+      "temperature": 38.73,
+      "timestamp": "2025-03-28 15:56:38"
+    },
+    "-OMQxwP8pd6GMq-n8lhv": {
+      "acceleration": [
+        -8.27,
+        2.43,
+        2.39
+      ],
+      "angular_velocity": [
+        -0.09,
+        -0.03,
+        -0.13
+      ],
+      "humidity": 49.52,
+      "pressure": 100299.58,
+      "received_timestamp": "2025-03-28T08:56:43.347593",
+      "temperature": 38.89,
+      "timestamp": "2025-03-28 15:56:43"
+    },
+    "-OMQxxcPNaIzhvnvkPY3": {
+      "acceleration": [
+        -9.24,
+        -1.54,
+        1.26
+      ],
+      "angular_velocity": [
+        0.05,
+        0.19,
+        0.09
+      ],
+      "humidity": 49.53,
+      "pressure": 100306.12,
+      "received_timestamp": "2025-03-28T08:56:48.355518",
+      "temperature": 39.02,
+      "timestamp": "2025-03-28 15:56:48"
+    },
+    "-OMQxyqyJ04etiAVFu-t": {
+      "acceleration": [
+        -1.35,
+        -4.31,
+        -9.56
+      ],
+      "angular_velocity": [
+        -0.05,
+        -0.02,
+        -0.17
+      ],
+      "humidity": 50.89,
+      "pressure": 100347.27,
+      "received_timestamp": "2025-03-28T08:56:53.376652",
+      "temperature": 39.05,
+      "timestamp": "2025-03-28 15:56:53"
+    },
+    "-OMQy-4UPbCeGI26PdrJ": {
+      "acceleration": [
+        -1.28,
+        -2.81,
+        -8.24
+      ],
+      "angular_velocity": [
+        -0.92,
+        0.24,
+        -0.17
+      ],
+      "humidity": 50.1,
+      "pressure": 100350.67,
+      "received_timestamp": "2025-03-28T08:56:58.408347",
+      "temperature": 39.2,
+      "timestamp": "2025-03-28 15:56:58"
+    },
+    "-OMQy0IoW0HVDUYAUs9Q": {
+      "acceleration": [
+        -0.1,
+        -4.08,
+        -9.71
+      ],
+      "angular_velocity": [
+        -0.66,
+        0.47,
+        -0.22
+      ],
+      "humidity": 49.86,
+      "pressure": 100358.94,
+      "received_timestamp": "2025-03-28T08:57:03.395391",
+      "temperature": 39.33,
+      "timestamp": "2025-03-28 15:57:03"
+    },
+    "-OMQy1Wrix5I9DQI9jWH": {
+      "acceleration": [
+        0.03,
+        -4.21,
+        -10.27
+      ],
+      "angular_velocity": [
+        -0.24,
+        0.01,
+        -1.15
+      ],
+      "humidity": 49.75,
+      "pressure": 100353.39,
+      "received_timestamp": "2025-03-28T08:57:08.407492",
+      "temperature": 39.47,
+      "timestamp": "2025-03-28 15:57:08"
+    },
+    "-OMQy2jZhkdMbU2YH-oz": {
+      "acceleration": [
+        1.22,
+        -2.99,
+        -8.85
+      ],
+      "angular_velocity": [
+        -0.31,
+        0.94,
+        0.48
+      ],
+      "humidity": 49.27,
+      "pressure": 100334.16,
+      "received_timestamp": "2025-03-28T08:57:13.387850",
+      "temperature": 39.64,
+      "timestamp": "2025-03-28 15:57:13"
+    },
+    "-OMQy3yHTetGXk39Z61a": {
+      "acceleration": [
+        1.58,
+        -4.68,
+        -12.2
+      ],
+      "angular_velocity": [
+        0.28,
+        -0.1,
+        -0.34
+      ],
+      "humidity": 49.06,
+      "pressure": 100326.22,
+      "received_timestamp": "2025-03-28T08:57:18.427795",
+      "temperature": 39.8,
+      "timestamp": "2025-03-28 15:57:18"
+    },
+    "-OMQy5B4DDKZeMXuh_dG": {
+      "acceleration": [
+        1.03,
+        1.42,
+        -10.33
+      ],
+      "angular_velocity": [
+        0.22,
+        -0.16,
+        0.34
+      ],
+      "humidity": 48.71,
+      "pressure": 100309.06,
+      "received_timestamp": "2025-03-28T08:57:23.404025",
+      "temperature": 39.91,
+      "timestamp": "2025-03-28 15:57:23"
+    },
+    "-OMQy6PXUSHYO23ihVT8": {
+      "acceleration": [
+        -3.53,
+        -0.83,
+        -11.97
+      ],
+      "angular_velocity": [
+        0.15,
+        -1.62,
+        -1.46
+      ],
+      "humidity": 50.1,
+      "pressure": 100300.64,
+      "received_timestamp": "2025-03-28T08:57:28.425419",
+      "temperature": 39.91,
+      "timestamp": "2025-03-28 15:57:28"
+    },
+    "-OMQy7cWXTi3u1ETp7k5": {
+      "acceleration": [
+        -9.7,
+        -0.04,
+        -5.54
+      ],
+      "angular_velocity": [
+        0.03,
+        -0.74,
+        0.82
+      ],
+      "humidity": 49.85,
+      "pressure": 100302.41,
+      "received_timestamp": "2025-03-28T08:57:33.411395",
+      "temperature": 40.02,
+      "timestamp": "2025-03-28 15:57:33"
+    },
+    "-OMQy8qxR_FvneZEiyhv": {
+      "acceleration": [
+        -8.94,
+        -2.39,
+        -2.63
+      ],
+      "angular_velocity": [
+        0.18,
+        0.52,
+        -0.28
+      ],
+      "humidity": 50.01,
+      "pressure": 100296.8,
+      "received_timestamp": "2025-03-28T08:57:38.441811",
+      "temperature": 40.22,
+      "timestamp": "2025-03-28 15:57:38"
+    },
+    "-OMQyA4JladWVlSfN7hJ": {
+      "acceleration": [
+        -3.7,
+        -8.17,
+        2
+      ],
+      "angular_velocity": [
+        -0.38,
+        1.23,
+        0.08
+      ],
+      "humidity": 50.2,
+      "pressure": 100295.48,
+      "received_timestamp": "2025-03-28T08:57:43.441597",
+      "temperature": 40.27,
+      "timestamp": "2025-03-28 15:57:43"
+    },
+    "-OMQyBI2T8Y2PgYOmelJ": {
+      "acceleration": [
+        -2.91,
+        -8.89,
+        -0.19
+      ],
+      "angular_velocity": [
+        0.36,
+        0.31,
+        0.06
+      ],
+      "humidity": 49.88,
+      "pressure": 100295.86,
+      "received_timestamp": "2025-03-28T08:57:48.431585",
+      "temperature": 40.27,
+      "timestamp": "2025-03-28 15:57:48"
+    },
+    "-OMQyCWAAvN3qIl5xn58": {
+      "acceleration": [
+        -2.07,
+        -6.74,
+        2.84
+      ],
+      "angular_velocity": [
+        0.73,
+        1.27,
+        -0.52
+      ],
+      "humidity": 49.8,
+      "pressure": 100293.41,
+      "received_timestamp": "2025-03-28T08:57:53.432742",
+      "temperature": 40.37,
+      "timestamp": "2025-03-28 15:57:53"
+    },
+    "-OMQyDk4POh0MasINcpF": {
+      "acceleration": [
+        -1.99,
+        -10.37,
+        3.19
+      ],
+      "angular_velocity": [
+        0.3,
+        -0.09,
+        -0.04
+      ],
+      "humidity": 49.74,
+      "pressure": 100289.91,
+      "received_timestamp": "2025-03-28T08:57:58.477764",
+      "temperature": 40.48,
+      "timestamp": "2025-03-28 15:57:58"
+    },
+    "-OMQyEy51pcsUBYVwqR7": {
+      "acceleration": [
+        -0.87,
+        -11.07,
+        2.04
+      ],
+      "angular_velocity": [
+        -0.19,
+        0.04,
+        -0.49
+      ],
+      "humidity": 49.67,
+      "pressure": 100295.41,
+      "received_timestamp": "2025-03-28T08:58:03.469227",
+      "temperature": 40.42,
+      "timestamp": "2025-03-28 15:58:03"
+    },
+    "-OMQyGBGkpS1aCFS5Y2S": {
+      "acceleration": [
+        -1.29,
+        -6.8,
+        1.04
+      ],
+      "angular_velocity": [
+        1.34,
+        0.4,
+        -1.49
+      ],
+      "humidity": 49.63,
+      "pressure": 100294.66,
+      "received_timestamp": "2025-03-28T08:58:08.474641",
+      "temperature": 40.53,
+      "timestamp": "2025-03-28 15:58:08"
+    },
+    "-OMQyHPHEBRQK_RhMv_T": {
+      "acceleration": [
+        -3.52,
+        -8.49,
+        2.77
+      ],
+      "angular_velocity": [
+        0.04,
+        0.01,
+        -0.07
+      ],
+      "humidity": 49.5,
+      "pressure": 100290.58,
+      "received_timestamp": "2025-03-28T08:58:13.468943",
+      "temperature": 40.6,
+      "timestamp": "2025-03-28 15:58:13"
+    },
+    "-OMQyIcgJQgK7gjyK34o": {
+      "acceleration": [
+        -1.86,
+        -9.38,
+        0.65
+      ],
+      "angular_velocity": [
+        -0.3,
+        0.64,
+        0.32
+      ],
+      "humidity": 49.49,
+      "pressure": 100289.27,
+      "received_timestamp": "2025-03-28T08:58:18.480356",
+      "temperature": 40.68,
+      "timestamp": "2025-03-28 15:58:18"
+    },
+    "-OMQyJr-9O_-83HNrowD": {
+      "acceleration": [
+        -3.45,
+        -7.81,
+        1.55
+      ],
+      "angular_velocity": [
+        0.63,
+        3.16,
+        -0.84
+      ],
+      "humidity": 49.41,
+      "pressure": 100290.47,
+      "received_timestamp": "2025-03-28T08:58:23.492674",
+      "temperature": 40.75,
+      "timestamp": "2025-03-28 15:58:23"
+    },
+    "-OMQyL48tCYODtgwEB33": {
+      "acceleration": [
+        -3.53,
+        -9.56,
+        1.62
+      ],
+      "angular_velocity": [
+        0.93,
+        0.36,
+        -0.62
+      ],
+      "humidity": 49.25,
+      "pressure": 100293.94,
+      "received_timestamp": "2025-03-28T08:58:28.495695",
+      "temperature": 40.88,
+      "timestamp": "2025-03-28 15:58:28"
+    },
+    "-OMQyMITHTROE0CgpYgg": {
+      "acceleration": [
+        -5.07,
+        -7.56,
+        -0.05
+      ],
+      "angular_velocity": [
+        -0.38,
+        0.67,
+        -0.23
+      ],
+      "humidity": 49.15,
+      "pressure": 100292.62,
+      "received_timestamp": "2025-03-28T08:58:33.510916",
+      "temperature": 40.99,
+      "timestamp": "2025-03-28 15:58:33"
+    },
+    "-OMQyNWVFX24CeudCKsA": {
+      "acceleration": [
+        -2.99,
+        -8.45,
+        -4.41
+      ],
+      "angular_velocity": [
+        -0.07,
+        0.02,
+        -0.05
+      ],
+      "humidity": 49.14,
+      "pressure": 100251.46,
+      "received_timestamp": "2025-03-28T08:58:38.506878",
+      "temperature": 41.1,
+      "timestamp": "2025-03-28 15:58:38"
+    },
+    "-OMQyOjpFuwtZ327V1OC": {
+      "acceleration": [
+        -2.13,
+        -9.02,
+        -5.25
+      ],
+      "angular_velocity": [
+        0.81,
+        0.4,
+        0.62
+      ],
+      "humidity": 49.04,
+      "pressure": 100198.44,
+      "received_timestamp": "2025-03-28T08:58:43.515196",
+      "temperature": 41.13,
+      "timestamp": "2025-03-28 15:58:43"
+    },
+    "-OMQyPxu63HY55OMUCpK": {
+      "acceleration": [
+        -3.81,
+        -7.72,
+        -5.67
+      ],
+      "angular_velocity": [
+        0.24,
+        0.27,
+        -0.13
+      ],
+      "humidity": 48.94,
+      "pressure": 100168.75,
+      "received_timestamp": "2025-03-28T08:58:48.516254",
+      "temperature": 41.22,
+      "timestamp": "2025-03-28 15:58:48"
+    },
+    "-OMQyRBIRlRMrsQepjyA": {
+      "acceleration": [
+        -13.03,
+        2.8,
+        1.32
+      ],
+      "angular_velocity": [
+        1.84,
+        -0.46,
+        -1.28
+      ],
+      "humidity": 47.29,
+      "pressure": 100175.44,
+      "received_timestamp": "2025-03-28T08:58:53.528858",
+      "temperature": 41.24,
+      "timestamp": "2025-03-28 15:58:53"
+    },
+    "-OMQySPRD6CX94sWfHxs": {
+      "acceleration": [
+        -7.86,
+        1.71,
+        2.79
+      ],
+      "angular_velocity": [
+        1.11,
+        -0.55,
+        -0.67
+      ],
+      "humidity": 46.05,
+      "pressure": 100179.2,
+      "received_timestamp": "2025-03-28T08:58:58.536334",
+      "temperature": 41.33,
+      "timestamp": "2025-03-28 15:58:58"
+    },
+    "-OMQyTd8ZQ4GOaOl86eu": {
+      "acceleration": [
+        -14.99,
+        3.56,
+        -1.69
+      ],
+      "angular_velocity": [
+        0.29,
+        -0.18,
+        1.39
+      ],
+      "humidity": 46.78,
+      "pressure": 100176.89,
+      "received_timestamp": "2025-03-28T08:59:03.575113",
+      "temperature": 41.39,
+      "timestamp": "2025-03-28 15:59:03"
+    },
+    "-OMQyUqy9THSle6koq3F": {
+      "acceleration": [
+        -6.13,
+        2.12,
+        4.21
+      ],
+      "angular_velocity": [
+        -0.91,
+        1.12,
+        -0.75
+      ],
+      "humidity": 47.46,
+      "pressure": 100167.23,
+      "received_timestamp": "2025-03-28T08:59:08.549450",
+      "temperature": 41.57,
+      "timestamp": "2025-03-28 15:59:08"
+    },
+    "-OMQyW3wgdJzdVRA6rC8": {
+      "acceleration": [
+        -9.62,
+        -4.43,
+        -2.2
+      ],
+      "angular_velocity": [
+        -0.77,
+        -0.59,
+        1.01
+      ],
+      "humidity": 47.36,
+      "pressure": 100169.11,
+      "received_timestamp": "2025-03-28T08:59:13.550521",
+      "temperature": 41.61,
+      "timestamp": "2025-03-28 15:59:13"
+    },
+    "-OMQyYWhcijtlm6K4clW": {
+      "acceleration": [
+        -1.2,
+        -9.3,
+        -4.4
+      ],
+      "angular_velocity": [
+        -0.06,
+        -0.19,
+        -0.13
+      ],
+      "humidity": 45.92,
+      "pressure": 100165.44,
+      "received_timestamp": "2025-03-28T08:59:23.570266",
+      "temperature": 41.77,
+      "timestamp": "2025-03-28 15:59:23"
+    },
+    "-OMQyZjeZOR80JqZT21N": {
+      "acceleration": [
+        -0.21,
+        -9.89,
+        -4.64
+      ],
+      "angular_velocity": [
+        0.16,
+        0.58,
+        0.17
+      ],
+      "humidity": 45.8,
+      "pressure": 100168.21,
+      "received_timestamp": "2025-03-28T08:59:28.558062",
+      "temperature": 41.86,
+      "timestamp": "2025-03-28 15:59:28"
+    },
+    "-OMQy_xwIJLefHFDof4t": {
+      "acceleration": [
+        -11.8,
+        -0.77,
+        -2.51
+      ],
+      "angular_velocity": [
+        1.37,
+        0.6,
+        -0.55
+      ],
+      "humidity": 47,
+      "pressure": 100175.95,
+      "received_timestamp": "2025-03-28T08:59:33.570347",
+      "temperature": 41.86,
+      "timestamp": "2025-03-28 15:59:33"
+    },
+    "-OMQybBGO6CBCC1AMozQ": {
+      "acceleration": [
+        -8.33,
+        -1.34,
+        -3.85
+      ],
+      "angular_velocity": [
+        0.33,
+        0.37,
+        -0.62
+      ],
+      "humidity": 42.64,
+      "pressure": 100195.8,
+      "received_timestamp": "2025-03-28T08:59:38.589988",
+      "temperature": 41.97,
+      "timestamp": "2025-03-28 15:59:38"
+    },
+    "-OMQycPShEEyuqtQfsdp": {
+      "acceleration": [
+        -11.25,
+        -1,
+        1.31
+      ],
+      "angular_velocity": [
+        -0.39,
+        -0.63,
+        0.9
+      ],
+      "humidity": 46.65,
+      "pressure": 100173.23,
+      "received_timestamp": "2025-03-28T08:59:43.590976",
+      "temperature": 42.12,
+      "timestamp": "2025-03-28 15:59:43"
+    },
+    "-OMQydd9vVQFvMNI0QI6": {
+      "acceleration": [
+        -5.81,
+        1.73,
+        1.08
+      ],
+      "angular_velocity": [
+        -0.46,
+        -1.26,
+        0.13
+      ],
+      "humidity": 46.94,
+      "pressure": 100182.33,
+      "received_timestamp": "2025-03-28T08:59:48.623179",
+      "temperature": 42.23,
+      "timestamp": "2025-03-28 15:59:48"
+    },
+    "-OMQyeqkqAvSs9dX3D8O": {
+      "acceleration": [
+        -7.5,
+        3.27,
+        2.86
+      ],
+      "angular_velocity": [
+        0.14,
+        0.02,
+        0.03
+      ],
+      "humidity": 44.85,
+      "pressure": 100184.66,
+      "received_timestamp": "2025-03-28T08:59:53.590645",
+      "temperature": 42.28,
+      "timestamp": "2025-03-28 15:59:53"
+    },
+    "-OMQyg3qVVviuaGYrmMC": {
+      "acceleration": [
+        -7.2,
+        0.96,
+        5.04
+      ],
+      "angular_velocity": [
+        -0.56,
+        0.17,
+        -0.25
+      ],
+      "humidity": 42.06,
+      "pressure": 100200.56,
+      "received_timestamp": "2025-03-28T08:59:58.593634",
+      "temperature": 42.43,
+      "timestamp": "2025-03-28 15:59:58"
+    },
+    "-OMQyhIUDNAsee-HCZuB": {
+      "acceleration": [
+        -5.61,
+        6.48,
+        5.38
+      ],
+      "angular_velocity": [
+        0.29,
+        -0.62,
+        -0.72
+      ],
+      "humidity": 44.8,
+      "pressure": 100180.59,
+      "received_timestamp": "2025-03-28T09:00:03.610754",
+      "temperature": 42.54,
+      "timestamp": "2025-03-28 16:00:03"
+    },
+    "-OMQyiWb3veJMuVpfqDq": {
+      "acceleration": [
+        -10.24,
+        0.58,
+        1.35
+      ],
+      "angular_velocity": [
+        0.9,
+        1.16,
+        -0.51
+      ],
+      "humidity": 45.35,
+      "pressure": 100182.39,
+      "received_timestamp": "2025-03-28T09:00:08.626443",
+      "temperature": 42.65,
+      "timestamp": "2025-03-28 16:00:08"
+    },
+    "-OMQyjlVlXhuvM2JSxR5": {
+      "acceleration": [
+        -8.45,
+        7.27,
+        3.86
+      ],
+      "angular_velocity": [
+        -0.21,
+        -0.59,
+        -1.52
+      ],
+      "humidity": 43.37,
+      "pressure": 100203.52,
+      "received_timestamp": "2025-03-28T09:00:13.731909",
+      "temperature": 42.75,
+      "timestamp": "2025-03-28 16:00:13"
+    },
+    "-OMQykxq2apGeUWZJTz3": {
+      "acceleration": [
+        -4.25,
+        5.66,
+        4.07
+      ],
+      "angular_velocity": [
+        -0.5,
+        0.3,
+        -1.55
+      ],
+      "humidity": 38.53,
+      "pressure": 100206.17,
+      "received_timestamp": "2025-03-28T09:00:18.621029",
+      "temperature": 42.86,
+      "timestamp": "2025-03-28 16:00:18"
+    },
+    "-OMQymAs0v-cRuKuCDgX": {
+      "acceleration": [
+        -7.32,
+        1.87,
+        -1.76
+      ],
+      "angular_velocity": [
+        0.19,
+        -0.81,
+        -0.39
+      ],
+      "humidity": 41.75,
+      "pressure": 100204.09,
+      "received_timestamp": "2025-03-28T09:00:23.620572",
+      "temperature": 43.06,
+      "timestamp": "2025-03-28 16:00:23"
+    },
+    "-OMQynPgl0HJUSevBKZ4": {
+      "acceleration": [
+        -5.86,
+        2.58,
+        1.6
+      ],
+      "angular_velocity": [
+        0.37,
+        0.83,
+        -0.77
+      ],
+      "humidity": 46.04,
+      "pressure": 100179.55,
+      "received_timestamp": "2025-03-28T09:00:28.660918",
+      "temperature": 43.12,
+      "timestamp": "2025-03-28 16:00:28"
+    },
+    "-OMQyocdKOXiy59UyHF8": {
+      "acceleration": [
+        -9.17,
+        1.78,
+        4.17
+      ],
+      "angular_velocity": [
+        -0.85,
+        0.36,
+        0.63
+      ],
+      "humidity": 43.87,
+      "pressure": 100190.47,
+      "received_timestamp": "2025-03-28T09:00:33.651779",
+      "temperature": 43.21,
+      "timestamp": "2025-03-28 16:00:33"
+    },
+    "-OMQyq6DIQaojGjq-rEz": {
+      "acceleration": [
+        -6.45,
+        1.18,
+        0.27
+      ],
+      "angular_velocity": [
+        -0.61,
+        -1.94,
+        -0.97
+      ],
+      "humidity": 45.87,
+      "pressure": 100188.42,
+      "received_timestamp": "2025-03-28T09:00:39.701080",
+      "temperature": 43.27,
+      "timestamp": "2025-03-28 16:00:38"
+    },
+    "-OMQyr7X3bHRLTYVJUBK": {
+      "acceleration": [
+        -7.08,
+        2.22,
+        2.1
+      ],
+      "angular_velocity": [
+        -0.64,
+        -0.27,
+        -0.9
+      ],
+      "humidity": 45.98,
+      "pressure": 100195.4,
+      "received_timestamp": "2025-03-28T09:00:43.880439",
+      "temperature": 43.36,
+      "timestamp": "2025-03-28 16:00:43"
+    },
+    "-OMQysIE5yqESktcwWIX": {
+      "acceleration": [
+        -6.74,
+        -0.27,
+        4.5
+      ],
+      "angular_velocity": [
+        0.6,
+        1.34,
+        0.44
+      ],
+      "humidity": 45.53,
+      "pressure": 100195.72,
+      "received_timestamp": "2025-03-28T09:00:48.669734",
+      "temperature": 43.45,
+      "timestamp": "2025-03-28 16:00:48"
+    },
+    "-OMQytWpWMd5OrDOnZ88": {
+      "acceleration": [
+        -2.68,
+        -0.01,
+        -5.99
+      ],
+      "angular_velocity": [
+        0.49,
+        0.32,
+        0.78
+      ],
+      "humidity": 44.95,
+      "pressure": 100200.2,
+      "received_timestamp": "2025-03-28T09:00:53.690732",
+      "temperature": 43.5,
+      "timestamp": "2025-03-28 16:00:53"
+    },
+    "-OMQyujxAcABRDQ3BF5-": {
+      "acceleration": [
+        -0.82,
+        -8.73,
+        -10.06
+      ],
+      "angular_velocity": [
+        4.37,
+        4.37,
+        -4.37
+      ],
+      "humidity": 44.67,
+      "pressure": 100213.98,
+      "received_timestamp": "2025-03-28T09:00:58.689815",
+      "temperature": 43.21,
+      "timestamp": "2025-03-28 16:00:58"
+    },
+    "-OMQyvs3RdDDSUqMFd1J": {
+      "acceleration": [
+        2.51,
+        0.44,
+        8.52
+      ],
+      "angular_velocity": [
+        -0.02,
+        0.17,
+        -0.07
+      ],
+      "humidity": 44.95,
+      "pressure": 100230.52,
+      "received_timestamp": "2025-03-28T09:01:03.308348",
+      "temperature": 43.03,
+      "timestamp": "2025-03-28 16:01:03"
+    },
+    "-OMQyx5TUYORWJLKsNsA": {
+      "acceleration": [
+        -8.05,
+        1.95,
+        -4.69
+      ],
+      "angular_velocity": [
+        -1.31,
+        -0.72,
+        -3.9
+      ],
+      "humidity": 44.54,
+      "pressure": 100227.73,
+      "received_timestamp": "2025-03-28T09:01:08.324093",
+      "temperature": 42.85,
+      "timestamp": "2025-03-28 16:01:08"
+    },
+    "-OMQyyKVwdcAT8wUfcGf": {
+      "acceleration": [
+        -3.48,
+        -1.85,
+        8.05
+      ],
+      "angular_velocity": [
+        -0.03,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 44.06,
+      "pressure": 100243.27,
+      "received_timestamp": "2025-03-28T09:01:13.387852",
+      "temperature": 42.85,
+      "timestamp": "2025-03-28 16:01:13"
+    },
+    "-OMQyzXtwm9L-oAxMAmd": {
+      "acceleration": [
+        7.17,
+        8.41,
+        -13.55
+      ],
+      "angular_velocity": [
+        -2.4,
+        4.37,
+        -3.24
+      ],
+      "humidity": 44.58,
+      "pressure": 100250.84,
+      "received_timestamp": "2025-03-28T09:01:18.333496",
+      "temperature": 41.99,
+      "timestamp": "2025-03-28 16:01:18"
+    },
+    "-OMQz-lFDTEqyyiGCx5m": {
+      "acceleration": [
+        -8.86,
+        -2.4,
+        6.49
+      ],
+      "angular_velocity": [
+        0.88,
+        -2.58,
+        0.59
+      ],
+      "humidity": 43.5,
+      "pressure": 100260.45,
+      "received_timestamp": "2025-03-28T09:01:23.353499",
+      "temperature": 41.77,
+      "timestamp": "2025-03-28 16:01:23"
+    },
+    "-OMQz14kXugi3KoMsmTZ": {
+      "acceleration": [
+        7.28,
+        3.83,
+        4.98
+      ],
+      "angular_velocity": [
+        -0.03,
+        0,
+        -0.03
+      ],
+      "humidity": 38.82,
+      "pressure": 100269.31,
+      "received_timestamp": "2025-03-28T09:01:28.754106",
+      "temperature": 42.04,
+      "timestamp": "2025-03-28 16:01:28"
+    },
+    "-OMQz2CwuhRmLfQlkVyi": {
+      "acceleration": [
+        4.52,
+        2.72,
+        0.32
+      ],
+      "angular_velocity": [
+        -1.62,
+        1.4,
+        -1.91
+      ],
+      "humidity": 45.41,
+      "pressure": 100241.57,
+      "received_timestamp": "2025-03-28T09:01:33.364509",
+      "temperature": 42.24,
+      "timestamp": "2025-03-28 16:01:33"
+    },
+    "-OMQz3R5xB3mastaoKL0": {
+      "acceleration": [
+        -9.57,
+        -2.38,
+        4.13
+      ],
+      "angular_velocity": [
+        1.28,
+        -0.96,
+        -0.14
+      ],
+      "humidity": 45.42,
+      "pressure": 100255.12,
+      "received_timestamp": "2025-03-28T09:01:38.384577",
+      "temperature": 41.97,
+      "timestamp": "2025-03-28 16:01:38"
+    },
+    "-OMQz4eCzi5zN2bTSboW": {
+      "acceleration": [
+        5.68,
+        0.2,
+        -12.39
+      ],
+      "angular_velocity": [
+        -0.69,
+        1.19,
+        -0.71
+      ],
+      "humidity": 45.59,
+      "pressure": 100246.37,
+      "received_timestamp": "2025-03-28T09:01:43.374022",
+      "temperature": 42.04,
+      "timestamp": "2025-03-28 16:01:43"
+    },
+    "-OMQz5tElEzS2GpDYDeZ": {
+      "acceleration": [
+        2.51,
+        0.06,
+        9.2
+      ],
+      "angular_velocity": [
+        1.45,
+        0.51,
+        -1.95
+      ],
+      "humidity": 45.56,
+      "pressure": 100245.07,
+      "received_timestamp": "2025-03-28T09:01:48.444146",
+      "temperature": 42.21,
+      "timestamp": "2025-03-28 16:01:48"
+    },
+    "-OMQz76P5i3F32dfRnby": {
+      "acceleration": [
+        3.45,
+        7.08,
+        7.82
+      ],
+      "angular_velocity": [
+        0.69,
+        -0.03,
+        1.39
+      ],
+      "humidity": 44.71,
+      "pressure": 100278.32,
+      "received_timestamp": "2025-03-28T09:01:53.444039",
+      "temperature": 42.01,
+      "timestamp": "2025-03-28 16:01:53"
+    },
+    "-OMQz8JhI3qkLXUDE4-a": {
+      "acceleration": [
+        2.61,
+        -1.18,
+        -10.78
+      ],
+      "angular_velocity": [
+        -0.01,
+        0,
+        -0.05
+      ],
+      "humidity": 45.58,
+      "pressure": 100285.19,
+      "received_timestamp": "2025-03-28T09:01:58.394328",
+      "temperature": 41.97,
+      "timestamp": "2025-03-28 16:01:58"
+    },
+    "-OMQz9Y5QSuiSpDZoNuS": {
+      "acceleration": [
+        -2.38,
+        6.4,
+        -6.07
+      ],
+      "angular_velocity": [
+        2.48,
+        4.37,
+        4.37
+      ],
+      "humidity": 44.36,
+      "pressure": 100273.34,
+      "received_timestamp": "2025-03-28T09:02:03.409470",
+      "temperature": 42.1,
+      "timestamp": "2025-03-28 16:02:03"
+    },
+    "-OMQzAlgqdJWixzxb2oi": {
+      "acceleration": [
+        6.49,
+        2.15,
+        5.99
+      ],
+      "angular_velocity": [
+        0,
+        -0.01,
+        -0.04
+      ],
+      "humidity": 42.91,
+      "pressure": 100303.05,
+      "received_timestamp": "2025-03-28T09:02:08.434833",
+      "temperature": 42.35,
+      "timestamp": "2025-03-28 16:02:08"
+    },
+    "-OMQzBzhp4oES6uH1vtK": {
+      "acceleration": [
+        -4.88,
+        7.75,
+        19.61
+      ],
+      "angular_velocity": [
+        -0.18,
+        -4.37,
+        -2.05
+      ],
+      "humidity": 44.21,
+      "pressure": 100299.47,
+      "received_timestamp": "2025-03-28T09:02:13.425209",
+      "temperature": 42.04,
+      "timestamp": "2025-03-28 16:02:13"
+    },
+    "-OMQzEdN0zelw59Qd39y": {
+      "acceleration": [
+        8.12,
+        1.81,
+        -6.76
+      ],
+      "angular_velocity": [
+        1.13,
+        -0.43,
+        -0.2
+      ],
+      "humidity": 44.95,
+      "pressure": 100307.38,
+      "received_timestamp": "2025-03-28T09:02:24.283092",
+      "temperature": 41.84,
+      "timestamp": "2025-03-28 16:02:18"
+    },
+    "-OMQzEhIhMFaGdE-PIB1": {
+      "acceleration": [
+        9.31,
+        2.26,
+        -2.94
+      ],
+      "angular_velocity": [
+        -0.49,
+        0.45,
+        0.01
+      ],
+      "humidity": 45.7,
+      "pressure": 100303.98,
+      "received_timestamp": "2025-03-28T09:02:24.534927",
+      "temperature": 41.57,
+      "timestamp": "2025-03-28 16:02:23"
+    },
+    "-OMQzFk2dX4T3DqCe7mm": {
+      "acceleration": [
+        6.1,
+        -4.74,
+        -3.03
+      ],
+      "angular_velocity": [
+        0.39,
+        0.68,
+        -1.12
+      ],
+      "humidity": 45.92,
+      "pressure": 100301.74,
+      "received_timestamp": "2025-03-28T09:02:28.814021",
+      "temperature": 41.53,
+      "timestamp": "2025-03-28 16:02:28"
+    },
+    "-OMQzGsOF_vDc3OyEpVK": {
+      "acceleration": [
+        6.01,
+        -8.9,
+        -2.37
+      ],
+      "angular_velocity": [
+        -2.88,
+        2.29,
+        1.24
+      ],
+      "humidity": 46.07,
+      "pressure": 100303.72,
+      "received_timestamp": "2025-03-28T09:02:33.447603",
+      "temperature": 41.5,
+      "timestamp": "2025-03-28 16:02:33"
+    },
+    "-OMQzI5Yi4DY8GDBmhsY": {
+      "acceleration": [
+        -6.98,
+        1.96,
+        2.65
+      ],
+      "angular_velocity": [
+        0.57,
+        2.25,
+        0.56
+      ],
+      "humidity": 46.1,
+      "pressure": 100304.98,
+      "received_timestamp": "2025-03-28T09:02:38.441568",
+      "temperature": 41.31,
+      "timestamp": "2025-03-28 16:02:38"
+    },
+    "-OMQzJK6czzy0Ap5shDe": {
+      "acceleration": [
+        -0.44,
+        4.91,
+        5.14
+      ],
+      "angular_velocity": [
+        0.59,
+        0,
+        -2
+      ],
+      "humidity": 45.97,
+      "pressure": 100301.53,
+      "received_timestamp": "2025-03-28T09:02:43.461884",
+      "temperature": 40.93,
+      "timestamp": "2025-03-28 16:02:43"
+    },
+    "-OMQzKY3QfW5B37a7DhN": {
+      "acceleration": [
+        7.36,
+        8.08,
+        -4.02
+      ],
+      "angular_velocity": [
+        -0.2,
+        0.09,
+        -0.17
+      ],
+      "humidity": 46.4,
+      "pressure": 100306.17,
+      "received_timestamp": "2025-03-28T09:02:48.458992",
+      "temperature": 40.8,
+      "timestamp": "2025-03-28 16:02:48"
+    },
+    "-OMQzLlGWlb3d9jASWac": {
+      "acceleration": [
+        -0.99,
+        -0.93,
+        8.51
+      ],
+      "angular_velocity": [
+        -0.01,
+        0.01,
+        -0.03
+      ],
+      "humidity": 46.49,
+      "pressure": 100322.18,
+      "received_timestamp": "2025-03-28T09:02:53.468791",
+      "temperature": 40.84,
+      "timestamp": "2025-03-28 16:02:53"
+    },
+    "-OMQzMzH-w-Dl1MLJdUC": {
+      "acceleration": [
+        0.45,
+        -6.68,
+        -7.15
+      ],
+      "angular_velocity": [
+        0.94,
+        2.89,
+        -0.12
+      ],
+      "humidity": 46.32,
+      "pressure": 100325.54,
+      "received_timestamp": "2025-03-28T09:02:58.460843",
+      "temperature": 40.89,
+      "timestamp": "2025-03-28 16:02:58"
+    },
+    "-OMR-u9QhGkbJOwUBcxQ": {
+      "acceleration": [
+        -4.47,
+        6.88,
+        4.93
+      ],
+      "angular_velocity": [
+        0.06,
+        0.42,
+        -0.01
+      ],
+      "humidity": 64.31,
+      "pressure": 100353.72,
+      "received_timestamp": "2025-03-28T09:09:40.519461",
+      "temperature": 30.68,
+      "timestamp": "2025-03-28 16:09:40"
+    },
+    "-OMR-vJeUKYX9La2JSrS": {
+      "acceleration": [
+        -6.22,
+        6.36,
+        2.53
+      ],
+      "angular_velocity": [
+        0.01,
+        -0.2,
+        -0.06
+      ],
+      "humidity": 63.37,
+      "pressure": 100348.41,
+      "received_timestamp": "2025-03-28T09:09:45.325691",
+      "temperature": 30.47,
+      "timestamp": "2025-03-28 16:09:45"
+    },
+    "-OMR-wY97YjjpyCdjZDX": {
+      "acceleration": [
+        -1.1,
+        2.2,
+        8.75
+      ],
+      "angular_velocity": [
+        -0.64,
+        0.16,
+        -1.04
+      ],
+      "humidity": 63,
+      "pressure": 100349.36,
+      "received_timestamp": "2025-03-28T09:09:50.343972",
+      "temperature": 30.58,
+      "timestamp": "2025-03-28 16:09:50"
+    }
+  }
+}

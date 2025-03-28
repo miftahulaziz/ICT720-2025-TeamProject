@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "chigga-bro-hiking",
+  "private_key_id": "bab90ce1ced1c3eaf591544528efc44fc5ef95b8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzvgfLGmyIQxR0\nkO7HdAk+DLdfMv3d2GYs0MIzrVs6uE1cqySSFKNyrg9UR8rsvqYixWYsXpOec9fs\nB4/XM1uF/3Qw7c3LCOy/gk491zUBC6ZlpIT8mN7FlSzuEEZoaVwrBUS9sykJzH+e\nWpepRM/FBWPCsEZx/DGTbldGFBtfIpocEHPXVcKsBJXmUHU+dyKTyAY2C8iauvpO\ngBP9sGwNb3j7uYgFTGss3w7uOpigu1WZmJGPn40cSzhsMEoBwRrhoZkI8XY+0ZXj\n5C70ZdSGPTaGYaFK1i8Gfl8nJ0rrmDP7ADZWr28VrJL15B6WAruNcDY7NK2PMjVj\nVYP1kcoNAgMBAAECggEAAl2gWiIUpsglPdyGJrNmXL32RZHqU/rBa4UVjUW9Qz0C\nQv47VWiL9y+HIvTtR5JB0F2DQ6xnVSj8APlfgWBbFnIp4Wv72a3aJId5R/3sDsG3\nFLQ744blOw9Z1PSmDJaYazY0SlU67MwCK6olwAlYZ7ozWYW67kyjYBKjd5gTp9FL\nIsChT/aFYkyKCLUK/8JV0BBcWYa1VUVeyByb3+FY+z/8a+WBnqkNtuIu1irREOYe\nj720iYgzEQMsExTf4nOS7T67uig4nnUPsWa5MkafihMfRq232Yyi0UcGfw3/7ofY\nrjWNmNE/Xscjg/yIe1gUNh+29CmBBWJ3QSBhEpZmeQKBgQD8CT6oZAkzmO8mwPSo\nbzAjm1jfZBUUNf/+k6JOZINtBXUuNjIpXX0c7V3R0nYekW8KMFpBhzTKsFGt+q8y\ndTsAojwMWn3pTqJeqtdgmTxHslZNbwPChX49dYT+Co+dqViz49W9JV1GS1wb0SZW\n19VdgNS84iduSoX/6J4dB/3YNQKBgQC2kbbXqkDbTV/56vGW50RaYoHf5dsL81kz\n08dxagUxs9/HLuh8tGvMAPast/QXN26vBfCYuUdjacCVBwxquXlaLxNZUjEjOwTn\nf4+PNzsdebTMaXQe2JbTsOzIo/OPUvuybZvaQR8Ol3Z9fLkXMYiWQQ+Xjq7dgubu\nP7Dv+jlVeQKBgQDlggmjz8ytRsPod2eThgTBN/J7IqkrSW0/RvNTDaa8fW7S0Rlm\nn7KRx/laW5uihG8oSRW3fEbvmBYZJyGpAiXjkti5qyHjde7X5BzS41eINnbudnxn\nA6cMklqz96wGNzMGRR/a6Q6CN5e94PxXsp2iUvHmus6LWaOigRKSfzeCTQKBgA1H\nlhQj1ynce/GyzDXcxpUIe0fs8TzyS3fAnM48FvqhidJ0MAb6HKkvHMI9cyzJJGzo\nsrJ5L58kjxSH+bg9m30a1X52wwo7/cRU+/0/2DXxp1wDA6ZGvNnTEbYabtnrAFHf\nNSnv+LFYBQ9lphTwzm2Xd+nfQAruvZtw2I7sFYWJAoGBAOkSbUP9/SmOb+ujmGki\naXmDLxhAFmAYyPTv/O3dp1v6Aj8G/JbXUhptxQqSrV9DAGWMBAEMdyyjkvsS1eyi\njakNsxiAQXe0At+k+GMHWaxix2VXzWwh1I/YKDE97+AKXoi6Rswwp+BLNJheRkhH\nV5VHcksfLQzeOoWl2jjtiBX+\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@chigga-bro-hiking.iam.gserviceaccount.com",
+  "client_id": "103368135838671656106",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40chigga-bro-hiking.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
