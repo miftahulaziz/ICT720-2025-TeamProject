@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LIFF Starter</title>
+    <script charset="utf-8" src="https://static.line-scdn.net/liff/edge/2/sdk.js"></script>
+</head>
+<body>
+    <h1>Topic</h1>
+    <p id="name">Hello, world</p>
+    <button id="scan_btn">Scan QR Code</button>
+    <p id="scan_result"></p>
+
+    <script>
+        const liff_id = '{{liff_id}}';
+        // function for initializing LIFF
+        document.addEventListener("DOMContentLoaded", function() {
+            liff.init({
+                liffId: liff_id, 
+                withLoginOnExternalBrowser: false, // Enable automatic login process
+            }).then(() => {
+                liff.getProfile().then((profile) => {
+                    const name = profile.displayName;
+                    document.getElementById('name').innerText = 'Hello, ' + name;
+                }).catch((err) => {
+                    document.getElementById('name').innerText = 'liff.getProfile() error: ' + err;
+                    console.log('error', err);
+                });
+                document.getElementById('scan_btn').onclick = function() {
+                    document.getElementById('scan_result').innerText = 'scanning...';
+                    liff.scanCodeV2().then((result) => {
+                        const dev_id = result.value;
+                        liff.sendMessages([{
+                            type: 'text',
+                            text: '#reg-' + dev_id
+                        }]).then(() => {
+                            liff.closeWindow();
+                        }).catch((err) => {
+                            console.log(err.code, err.message);
+                            alert('liff.sendMessages(): ' + err.message);
+                        });
+                    }).catch((err) => {
+                        document.getElementById('scan_result').innerText = 'scan failed: ' + err;
+                        console.log('error', err);
+                    });
+                };
+            }).catch((err) => {
+                console.log('error', err);
+                document.getElementById('name').innerText = 'liff.init() error: ' + err;
+            });
+        });
+    </script>
+</body> 

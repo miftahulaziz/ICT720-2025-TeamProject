@@ -1,0 +1,6 @@
+flask
+gunicorn
+requests
+line-bot-sdk
+langchain
+langchain-google-genai
