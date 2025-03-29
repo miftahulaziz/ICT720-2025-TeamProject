@@ -139,6 +139,8 @@ These interpretations support detecting movement changes, altitude variations, a
    - Check Firebase Console for real-time updates.
 4. **Alert**
    - `alert.py` integrated train  Isolation Forest trained model will detect anomaly movement and then will send message via `linebot.py`
+ 
+<img width="778" alt="Screenshot 2568-03-29 at 08 42 35" src="https://github.com/user-attachments/assets/67aa8bb6-9de4-488c-8c0d-b173ac5a15bc" />
 
   
 # Data Result Visualization
