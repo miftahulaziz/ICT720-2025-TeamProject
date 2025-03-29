@@ -148,9 +148,9 @@ These interpretations support detecting movement changes, altitude variations, a
 
 ![im](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/2nd/images/Data-Diagram-Bro-Hiking_update.png)
 
-![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/data-1.webp?raw=true)
+![data1](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/2nd/images/data-1.webp)
 
-![Description of the Image](https://github.com/miftahulaziz/ICT720-2025-TeamProject/blob/main/images/Data-2.webp?raw=true)
+![trained_model](https://github.com/user-attachments/assets/8b2a9cd0-818c-4920-af79-8b07e501c94a)
 
 <img width="771" alt="Screenshot 2568-03-29 at 04 43 04" src="https://github.com/user-attachments/assets/455be2c0-37d3-4067-b8d3-89db45913cd3" />
 
