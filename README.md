@@ -36,6 +36,7 @@ $$
 \in \mathbb{R} & \in \mathbb{R}^3 & \in \mathbb{R}^3
 \end{bmatrix}_{1 \times 7}
 $$
+
 Where:  
 - **Pressure**: Scalar value ($\mathbb{R}$).  
 - **Accelerometer**: Vector ($[a_{x},a_{y}, a_{z}] \in \mathbb{R}^3\mapsto \left \lVert a \right \rVert_{2} = \sqrt{a^2_{x}+a^2_{y}+a^2_{z}}\in \mathbb{R}$ ).  
