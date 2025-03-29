@@ -154,12 +154,19 @@ These interpretations support detecting movement changes, altitude variations, a
 
 <img width="771" alt="Screenshot 2568-03-29 at 04 43 04" src="https://github.com/user-attachments/assets/455be2c0-37d3-4067-b8d3-89db45913cd3" />
 
+# Bro-Hiking: Mate Monitoring
+- Streamlit web application which is a real-time tracking designed for outdoor activities.
+- Including fullscreen layout which is line chart to show the continuous of the altitude.
+- User allows switching to historical tale views to watch the detail of activity such as pressure, temperature,  etc.
+- It also show the speed and temperature in real-time too.
 
+<img width="596" alt="Screenshot 2568-03-29 at 08 43 39" src="https://github.com/user-attachments/assets/7b0fb27c-1a96-4524-8061-1065df3593f9" />
+<img width="569" alt="Screenshot 2568-03-29 at 08 44 46" src="https://github.com/user-attachments/assets/eaffb975-a480-4eb8-9af1-09bea6433060" />
 
 # Future Work:  
 - Conduct real experiments to label training and test datasets for anomaly detection.  
-- Integrate LINE Bot and LLM API for intelligent alerts.  
-- Develop a web app for real-time data visualization and user interaction.  
+- Integrate LLM API into Line bot for intelligent alerts.  
+- Develop a web app for user interaction.  
 - Test the system in hiking scenarios.
   
 # Acknowledgments  
