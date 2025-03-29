@@ -12,6 +12,8 @@
 - As a hiker, I want real-time alerts via LINE if I fall or experience an accident, so emergency help can be notified.  
 - As an outdoor enthusiast, I want to analyze my movement patterns on a web app to improve my hiking performance.
 
+
+
 # Expected Outcomes:  
 - Accurate detection of movement changes and altitude variations.
 - Real-time alert system delivering notifications of an anomaly via LINE Bot.  
@@ -140,6 +142,8 @@ These interpretations support detecting movement changes, altitude variations, a
    - Install dependencies: `pip install paho-mqtt firebase-admin`  
    - Download `serviceAccountKey.json` from Firebase Console and place it in the script directory.  
    - Run: `python mqtt_to_firebase.py` for real-time update data to Firebase database.
+  
+
 3. **Monitor Data**:  
    - Use Serial Monitor (`pio device monitor`) for ESP32 output.  
    - Use MQTT Explorer to subscribe to `brohiking/#`.  
