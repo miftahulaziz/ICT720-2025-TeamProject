@@ -7,8 +7,29 @@
 2. [Mr. Natthanon Ratborirak](https://github.com/incer555)  
 3. [Mr. Miftahul Aziz](https://github.com/miftahulaziz)  
 
+# User Stories:  
+- As a hiker, I want to monitor altitude changes during my activity to track my climbing progress.  
+- As a hiker, I want real-time alerts via LINE if I fall or experience an accident, so emergency help can be notified.  
+- As an outdoor enthusiast, I want to analyze my movement patterns on a web app to improve my hiking performance.
+
+# Expected Outcomes:  
+- Accurate detection of movement changes and altitude variations.
+- Real-time alert system delivering notifications of an anomaly via LINE Bot.  
+- Scalable solution for applications like personal safety devices, vehicle monitoring, or outdoor activity tracking.
+
+
+
 # Project Description:  
 This project collects data from the **Cucumber RS Gravitech ESP32-S2 WiFi Dev Board** equipped with sensors: **HTS221**, **BMP280**, and **MPU-6050**. While all three sensors are present, we focus only on data from **BMP280** (pressure) and **MPU-6050** (accelerometer and gyroscope) for our analysis of detecting movement changes, altitude variations, and accident occurrences using sensor fusion techniques. The system leverages accelerometer and barometric pressure sensors to provide accurate real-time monitoring and anomaly detection.
+
+![Cumcumber](https://gh.lnwfile.com/_webp_max_images/600/600/2g/v2/bd.webp)
+
+# Objectives:  
+1. **Movement Change Detection**: Utilize accelerometer data to monitor changes in movement patterns, including acceleration, deceleration, and directional shifts.  
+2. **Pressure and Altitude Change Detection**: Use barometric pressure sensors to measure altitude variations, enabling detection of ascending or descending movements.  
+3. **Accident Detection**: Identify sudden, irregular movement patterns indicative of accidents (e.g., falls or collisions).
+4. **Data Fusion**: Combine data from both accelerometer and barometric sensors for more accurate and reliable event detection.
+5. **Data Processing**: Process sensor data to provide alerts in case of detected anomalies.  
 
 ## Sensor Data Overview  
 The sensors provide the following measurements:
@@ -78,12 +99,6 @@ The sensor data can be physically interpreted as:
 
 These interpretations support detecting movement changes, altitude variations, and sudden anomalies like falls.
 
-# Objectives:  
-1. **Movement Change Detection**: Utilize accelerometer data to monitor changes in movement patterns, including acceleration, deceleration, and directional shifts.  
-2. **Pressure and Altitude Change Detection**: Use barometric pressure sensors to measure altitude variations, enabling detection of ascending or descending movements.  
-3. **Accident Detection**: Identify sudden, irregular movement patterns indicative of accidents (e.g., falls or collisions).
-4. **Data Fusion**: Combine data from both accelerometer and barometric sensors for more accurate and reliable event detection.
-5. **Data Processing**: Process sensor data to provide alerts in case of detected anomalies.  
 
 # Methodology:  
 - **Data Collection**: Acquire raw data from the BMP280 (pressure) and MPU-6050 (accelerometer and gyroscope) via the ESP32-S2, published to an MQTT broker (`broker.emqx.io`) under topics like `brohiking/all`, `brohiking/pressure`, etc.  
@@ -96,15 +111,6 @@ These interpretations support detecting movement changes, altitude variations, a
 - **Integration**: Fuse accelerometer and pressure data to enhance detection accuracy.  
 - **Alert System**: Notify users through LINE Bot messages.
 
-# User Stories:  
-- As a hiker, I want to monitor altitude changes during my activity to track my climbing progress.  
-- As a hiker, I want real-time alerts via LINE if I fall or experience an accident, so emergency help can be notified.  
-- As an outdoor enthusiast, I want to analyze my movement patterns on a web app to improve my hiking performance.
-
-# Expected Outcomes:  
-- Accurate detection of movement changes and altitude variations.
-- Real-time alert system delivering notifications of an anomaly via LINE Bot.  
-- Scalable solution for applications like personal safety devices, vehicle monitoring, or outdoor activity tracking.
 
 # Tools and Technologies:  
 - **Hardware**:  
